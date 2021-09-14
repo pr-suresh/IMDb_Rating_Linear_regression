@@ -1,0 +1,22 @@
+Project Proposal for Linear Regression using IMDB movie Ratings
+
+Our client for the IMDB movie ratings project is a movie production company
+in Hollywood. The goal of the project is to look at movie ratings from the IMDB
+website and help the production company decide which type of movie can they make
+next in order for it to be profitable.
+
+In order to accomplish the goal of the project, I will be using data from the IMDB
+website by scraping the site. An individual row for analysis would contain the columns:
+IMDB Title ID, title_type, genre, runtime, mpaa_rating, studio, release year,
+release month, theater release day, DVD release year, director, actors etc.
+Target is the IMDB score value.
+
+Tools used:
+BeautifulSoup
+Pandas, Numpy
+Matplotlib and Seaborn
+Scikit learn
+
+MVP
+I will be trying to establish a link between the main feature that impacts the
+IMDB movie score the most and plot it as a graph.

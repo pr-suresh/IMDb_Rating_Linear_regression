@@ -1,0 +1,931 @@
+,movie,imdb,votes,mpaa,genre,director,writer,actor,country,budget,box_office_wknd1,box_office_dom,box_office_gross,prod_company,runtime
+0,The Invisible Man,7.1,136012.0,R,Horror,Leigh Whannell,Leigh Whannell,Elisabeth Moss,Canada,7000000.0,28205665.0,64914050.0,130722137.0,Universal Pictures,124.0
+1,On the Basis of Sex,7.1,23877.0,PG-13,Biography,Mimi Leder,Daniel Stiepleman,Felicity Jones,USA,20000000.0,686355.0,24704837.0,38755900.0,Alibaba Pictures,120.0
+2,The Gentlemen,7.9,188297.0,R,Action,Guy Ritchie,Guy Ritchie,Matthew McConaughey,UK,22000000.0,10651884.0,36471795.0,115171795.0,STX Films,113.0
+3,Knives Out,7.9,394738.0,PG-13,Comedy,Rian Johnson,Rian Johnson,Daniel Craig,USA,40000000.0,26769548.0,165363234.0,309232797.0,Lionsgate,130.0
+4,Bastille Day,6.3,36373.0,R,Action,James Watkins,Andrew Baldwin,Idris Elba,UK,20000000.0,41546.0,50269.0,14857808.0,StudioCanal,92.0
+5,Joker,8.5,875017.0,R,Crime,Todd Phillips,Todd Phillips,Joaquin Phoenix,USA,55000000.0,96202337.0,335451311.0,1074251311.0,Warner Bros.,122.0
+6,Avengers: Endgame,8.4,767481.0,PG-13,Action,"Anthony Russo, Joe Russo",Christopher Markus,Robert Downey Jr.,USA,356000000.0,357115007.0,858373000.0,2797800564.0,Marvel Studios,181.0
+7,Terminator: Dark Fate,6.2,136461.0,R,Action,Tim Miller,David S. Goyer,Linda Hamilton,USA,185000000.0,29033832.0,62253077.0,261119292.0,Paramount Pictures,128.0
+8,Once Upon a Time... in Hollywood,7.6,517082.0,R,Comedy,Quentin Tarantino,Quentin Tarantino,Leonardo DiCaprio,USA,90000000.0,41082018.0,142502728.0,374343626.0,Columbia Pictures,161.0
+9,Beauty and the Beast,7.1,266347.0,PG,Family,Bill Condon,Stephen Chbosky,Emma Watson,USA,160000000.0,174750616.0,504481165.0,1264064386.0,Mandeville Films,129.0
+10,Gemini Man,5.7,78283.0,PG-13,Action,Ang Lee,David Benioff,Will Smith,China,138000000.0,20552372.0,48546770.0,173469516.0,Skydance Media,117.0
+11,Black Panther,7.3,609003.0,PG-13,Action,Ryan Coogler,Ryan Coogler,Chadwick Boseman,USA,200000000.0,202003951.0,700426566.0,1347426487.0,Marvel Studios,134.0
+12,Ford v Ferrari,8.1,262455.0,PG-13,Action,James Mangold,Jez Butterworth,Matt Damon,USA,97600000.0,31474958.0,117624357.0,225508210.0,Chernin Entertainment,152.0
+13,Jojo Rabbit,7.9,262820.0,PG-13,Comedy,Taika Waititi,Christine Leunens,Roman Griffin Davis,New Zealand,14000000.0,349555.0,33370906.0,90335025.0,TSG Entertainment,108.0
+14,After,5.3,32639.0,PG-13,Drama,Jenny Gage,Susan McMartin,Josephine Langford,USA,14000000.0,6002349.0,12138565.0,69746452.0,CalMaple,105.0
+15,Doctor Sleep,7.4,126915.0,R,Drama,Mike Flanagan,Mike Flanagan,Ewan McGregor,UK,45000000.0,14114124.0,31581712.0,72381712.0,Warner Bros.,152.0
+16,Bombshell,6.8,73350.0,R,Biography,Jay Roach,Charles Randolph,Charlize Theron,Canada,32000000.0,319157.0,31762808.0,59636523.0,Creative Wealth Media Finance,109.0
+17,Midsommar,7.1,180882.0,R,Drama,Ari Aster,Ari Aster,Florence Pugh,USA,9000000.0,6560030.0,27426361.0,47903099.0,A24,148.0
+18,Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn,6.1,144204.0,R,Action,Cathy Yan,Christina Hodson,Margot Robbie,USA,84500000.0,33010017.0,84158461.0,201858461.0,Clubhouse Pictures (II),109.0
+19,1917,8.3,372814.0,R,Drama,Sam Mendes,Sam Mendes,Dean-Charles Chapman,USA,95000000.0,576216.0,159227644.0,384788959.0,DreamWorks,119.0
+20,Room,8.1,360468.0,R,Drama,Lenny Abrahamson,Emma Donoghue,Brie Larson,Canada,13000000.0,118298.0,14677654.0,35401758.0,Element Pictures,118.0
+21,Blade Runner 2049,8.0,445313.0,R,Action,Denis Villeneuve,Hampton Fancher,Harrison Ford,USA,150000000.0,32753122.0,92054159.0,259239658.0,Alcon Entertainment,164.0
+22,The Peanut Butter Falcon,7.6,56122.0,PG-13,Comedy,"Tyler Nilson, Michael Schwartz",Tyler Nilson,Zack Gottsagen,USA,6200000.0,204793.0,20457151.0,23707571.0,Armory Films,97.0
+23,Star Wars: Episode IX - The Rise of Skywalker,6.6,351666.0,PG-13,Action,J.J. Abrams,Chris Terrio,Daisy Ridley,USA,275000000.0,177383864.0,515202542.0,1074144248.0,Walt Disney Pictures,141.0
+24,Little Women,7.8,126192.0,PG,Drama,Greta Gerwig,Greta Gerwig,Saoirse Ronan,USA,40000000.0,16755310.0,108101214.0,216601214.0,Columbia Pictures,135.0
+25,Bad Boys For Life,6.6,115399.0,R,Action,"Adil El Arbi (as Adil), Bilall Fallah (as Bilall)",Peter Craig,Will Smith,USA,90000000.0,62504105.0,204417855.0,424617855.0,Columbia Pictures,124.0
+26,The Greatest Showman,7.6,228527.0,PG,Biography,Michael Gracey,Jenny Bicks,Hugh Jackman,USA,84000000.0,8805843.0,174340174.0,435103598.0,Bona Film Group,105.0
+27,Avengers: Infinity War,8.4,803806.0,PG-13,Action,"Anthony Russo, Joe Russo",Christopher Markus,Robert Downey Jr.,USA,321000000.0,257698183.0,678815482.0,2048359754.0,Marvel Studios,149.0
+28,Thor: Ragnarok,7.9,568872.0,PG-13,Action,Taika Waititi,Eric Pearson,Chris Hemsworth,USA,180000000.0,122744989.0,315058289.0,853980491.0,Walt Disney Pictures,130.0
+29,The Lion King,6.9,202101.0,PG,Animation,Jon Favreau,Jeff Nathanson,Donald Glover,USA,260000000.0,191770759.0,543638043.0,1656963790.0,Walt Disney Pictures,118.0
+30,Jumanji: The Next Level,6.7,173147.0,PG-13,Action,Jake Kasdan,Jake Kasdan,Dwayne Johnson,USA,125000000.0,59251543.0,316831246.0,796575993.0,Matt Tolmach Productions,123.0
+31,It,7.3,445459.0,R,Horror,Andy Muschietti,Chase Palmer,Bill Skarsgård,Canada,35000000.0,123403419.0,328828874.0,701796444.0,New Line Cinema,135.0
+32,Midway,6.7,59870.0,PG-13,Action,Roland Emmerich,Wes Tooke,Ed Skrein,China,100000000.0,17897419.0,56846802.0,126696475.0,Summit Entertainment,138.0
+33,Suicide Squad,6.0,589599.0,PG-13,Action,David Ayer,David Ayer,Will Smith,USA,175000000.0,133682248.0,325100054.0,746846894.0,Atlas Entertainment,123.0
+34,The Magnificent Seven,6.9,181889.0,PG-13,Action,Antoine Fuqua,Akira Kurosawa,Denzel Washington,USA,90000000.0,34703397.0,93432655.0,162360636.0,Metro-Goldwyn-Mayer (MGM),132.0
+35,Uncut Gems,7.4,203072.0,R,Crime,"Benny Safdie, Josh Safdie",Ronald Bronstein,Adam Sandler,USA,19000000.0,537242.0,50023780.0,50023780.0,A24,135.0
+36,Ready or Not,6.8,99603.0,R,Comedy,"Matt Bettinelli-Olpin, Tyler Gillett",Guy Busick,Samara Weaving,USA,6000000.0,8015590.0,28714231.0,57615777.0,Fox Searchlight Pictures,95.0
+37,Spider-Man: Into the Spider-Verse,8.4,341030.0,PG,Animation,,Phil Lord,Shameik Moore,USA,90000000.0,35363376.0,190241310.0,375540831.0,Sony Pictures Entertainment (SPE),117.0
+38,Deadpool 2,7.7,463886.0,R,Action,David Leitch,Rhett Reese,Ryan Reynolds,USA,110000000.0,125507153.0,324591735.0,785794179.0,Twentieth Century Fox,119.0
+39,Dunkirk,7.9,536667.0,PG-13,Action,Christopher Nolan,Christopher Nolan,Fionn Whitehead,UK,100000000.0,50513488.0,189740665.0,526949403.0,Syncopy,106.0
+40,Murder on the Orient Express,6.5,205669.0,PG-13,Crime,Kenneth Branagh,Michael Green,Kenneth Branagh,Malta,55000000.0,28681472.0,102826543.0,352794081.0,Twentieth Century Fox,114.0
+41,Hereditary,7.3,224475.0,R,Drama,Ari Aster,Ari Aster,Toni Collette,USA,10000000.0,13575172.0,44069456.0,80239658.0,PalmStar Media,127.0
+42,Spies in Disguise,6.8,30054.0,PG,Animation,"Nick Bruno, Troy Quane",Lucas Martell,Rachel Brosnahan,USA,100000000.0,13354798.0,66757013.0,171616764.0,Blue Sky Studios,102.0
+43,21 Bridges,6.6,41367.0,R,Action,Brian Kirk,Adam Mervis,Chadwick Boseman,China,33000000.0,9261268.0,28539757.0,49939757.0,AGBO,99.0
+44,Fifty Shades of Grey,4.1,294022.0,R,Drama,Sam Taylor-Johnson,Kelly Marcel,Dakota Johnson,USA,40000000.0,85171450.0,166167230.0,569651467.0,Focus Features,125.0
+45,Wonder Woman,7.4,538800.0,PG-13,Action,Patty Jenkins,Allan Heinberg,Gal Gadot,USA,149000000.0,103251471.0,412563408.0,821847012.0,Warner Bros.,141.0
+46,"I, Tonya",7.5,174740.0,R,Biography,Craig Gillespie,Steven Rogers,Margot Robbie,UK,11000000.0,264155.0,30014539.0,53939297.0,AI-Film,119.0
+47,Us,6.9,212842.0,R,Horror,Jordan Peele,Jordan Peele,"""Lupita Nyong'o""",USA,20000000.0,71117625.0,175084580.0,255184580.0,Monkeypaw Productions,116.0
+48,Venom,6.7,348585.0,PG-13,Action,Ruben Fleischer,Jeff Pinkner,Tom Hardy,China,100000000.0,80255756.0,213515506.0,856085151.0,Avi Arad Productions,112.0
+49,Good Time,7.4,82706.0,R,Crime,"Benny Safdie, Josh Safdie",Ronald Bronstein,Robert Pattinson,USA,4500000.0,125101.0,2026499.0,3283369.0,Elara Pictures,102.0
+50,Fantastic Beasts: The Crimes of Grindelwald,6.6,212204.0,PG-13,Adventure,David Yates,J.K. Rowling,Eddie Redmayne,UK,200000000.0,62163104.0,159555901.0,654855901.0,Heyday Films,134.0
+51,The Hunt,6.5,55476.0,R,Action,Craig Zobel,Nick Cuse,Betty Gilpin,USA,14000000.0,5304455.0,5812500.0,10843260.0,Blumhouse Productions,90.0
+52,Spider-Man: Far from Home,7.5,308102.0,PG-13,Action,Jon Watts,Chris McKenna,Tom Holland,USA,160000000.0,92579212.0,390532085.0,1131927996.0,Columbia Pictures,129.0
+53,Captain Marvel,6.9,425980.0,PG-13,Action,"Anna Boden, Ryan Fleck",Anna Boden,Brie Larson,USA,160000000.0,153433423.0,426829839.0,1128276090.0,Walt Disney Pictures,123.0
+54,Justice League,6.3,373512.0,PG-13,Action,Zack Snyder,Jerry Siegel,Ben Affleck,USA,300000000.0,93842239.0,229024295.0,657926987.0,Warner Bros.,120.0
+55,It Chapter Two,6.5,195338.0,R,Drama,Andy Muschietti,Stephen King,Jessica Chastain,Canada,79000000.0,91062152.0,211593228.0,473093228.0,KatzSmith Productions,169.0
+56,Deadpool,8.0,885750.0,R,Action,Tim Miller,Rhett Reese,Ryan Reynolds,USA,58000000.0,132434639.0,363070709.0,782612155.0,Twentieth Century Fox,108.0
+57,Cinderella,6.9,157045.0,PG,Drama,Kenneth Branagh,Chris Weitz,Lily James,USA,95000000.0,67877361.0,201151353.0,542351353.0,Allison Shearmur Productions,105.0
+58,Fantasy Island,4.9,28655.0,PG-13,Action,Jeff Wadlow,Jeff Wadlow,Michael Peña,USA,7000000.0,12310420.0,26441782.0,47588597.0,Columbia Pictures,109.0
+59,Sing,7.1,130564.0,PG,Animation,"Garth Jennings, Christophe Lourdelet (co-director)",Garth Jennings,Matthew McConaughey,Japan,75000000.0,35258145.0,270395425.0,634154922.0,Dentsu,108.0
+60,Frozen II,6.9,125616.0,PG,Animation,"Chris Buck, Jennifer Lee",Jennifer Lee,Kristen Bell,USA,150000000.0,130263358.0,477373578.0,1450026933.0,Walt Disney Animation Studios,103.0
+61,Spider-Man: Homecoming,7.4,497001.0,PG-13,Action,Jon Watts,Jonathan Goldstein,Tom Holland,USA,175000000.0,117027503.0,334201140.0,880166924.0,Columbia Pictures,133.0
+62,Get Out,7.7,475808.0,R,Horror,Jordan Peele,Jordan Peele,Daniel Kaluuya,USA,4500000.0,33377060.0,176040665.0,255429395.0,Universal Pictures,104.0
+63,A Star Is Born,7.7,321919.0,R,Drama,Bradley Cooper,Eric Roth,Lady Gaga,USA,36000000.0,42908051.0,215288866.0,436188866.0,Warner Bros. Pictures,136.0
+64,Mission: Impossible - Fallout,7.7,282956.0,PG-13,Action,Christopher McQuarrie,Bruce Geller,Tom Cruise,USA,178000000.0,61236534.0,220159104.0,791120426.0,Paramount Pictures,147.0
+65,"Three Billboards Outside Ebbing, Missouri",8.2,415125.0,R,Comedy,Martin McDonagh,Martin McDonagh,Frances McDormand,UK,15000000.0,322168.0,54513740.0,160192031.0,Blueprint Pictures,115.0
+66,Charlie's Angels,4.8,51422.0,PG-13,Action,Elizabeth Banks,Elizabeth Banks,Kristen Stewart,Germany,48000000.0,8351109.0,17803077.0,73279888.0,Columbia Pictures,118.0
+67,Aladdin,7.0,217812.0,PG,Adventure,Guy Ritchie,John August,Will Smith,UK,183000000.0,91500929.0,355559216.0,1050693953.0,Walt Disney Pictures,128.0
+68,Rogue One: A Star Wars Story,7.8,541190.0,PG-13,Action,Gareth Edwards,Chris Weitz,Felicity Jones,USA,200000000.0,155081681.0,532177324.0,1056057720.0,Lucasfilm,133.0
+69,Bloodshot,5.7,52385.0,PG-13,Action,Dave Wilson (as David S.F. Wilson),Jeff Wadlow,Vin Diesel,USA,45000000.0,9176695.0,10021787.0,30936206.0,Columbia Pictures,109.0
+70,Bohemian Rhapsody,8.0,436573.0,PG-13,Biography,Bryan Singer,Anthony McCarten,Rami Malek,UK,52000000.0,51061119.0,216668042.0,903963178.0,Twentieth Century Fox,134.0
+71,The Revenant,8.0,688474.0,R,Action,Alejandro G. Iñárritu,Mark L. Smith,Leonardo DiCaprio,USA,135000000.0,474560.0,183637894.0,532950503.0,New Regency Productions,156.0
+72,Moana,7.6,263138.0,PG,Animation,,Jared Bush,"""Auli'i Cravalho""",USA,150000000.0,56631401.0,248757044.0,643350610.0,Hurwitz Creative,107.0
+73,The Addams Family,5.8,24602.0,PG,Animation,"Greg Tiernan, Conrad Vernon",Matt Lieberman,Oscar Isaac,Canada,24000000.0,30300007.0,100044905.0,203044905.0,Metro-Goldwyn-Mayer (MGM),86.0
+74,Lady Bird,7.4,231529.0,R,Comedy,Greta Gerwig,Greta Gerwig,Saoirse Ronan,USA,10000000.0,364437.0,48958273.0,79048268.0,IAC Films,94.0
+75,Aquaman,6.9,352314.0,PG-13,Action,James Wan,David Leslie Johnson-McGoldrick,Jason Momoa,USA,160000000.0,67873522.0,335061807.0,1148485886.0,DC Comics,143.0
+76,The Personal History of David Copperfield,6.4,8502.0,PG,Comedy,Armando Iannucci,Simon Blackwell,Dev Patel,UK,15600000.0,475800.0,1844170.0,12749583.0,Film 4,119.0
+77,Star Wars: Episode VIII - The Last Jedi,7.0,550311.0,PG-13,Action,Rian Johnson,Rian Johnson,Daisy Ridley,USA,317000000.0,220009584.0,620181382.0,1332540187.0,Walt Disney Pictures,152.0
+78,Guardians of the Galaxy Vol. 2,7.6,553926.0,PG-13,Action,James Gunn,James Gunn,Chris Pratt,USA,200000000.0,146510104.0,389813101.0,863756051.0,Marvel Studios,136.0
+79,Richard Jewell,7.5,51000.0,R,Biography,Clint Eastwood,Billy Ray,Paul Walter Hauser,USA,45000000.0,4705265.0,22345542.0,43745542.0,Appian Way,131.0
+80,Jurassic World,7.0,571170.0,PG-13,Action,Colin Trevorrow,Rick Jaffa,Chris Pratt,USA,150000000.0,208806270.0,652270625.0,1670401444.0,Universal Pictures,124.0
+81,BlacKkKlansman,7.5,210797.0,R,Biography,Spike Lee,Charlie Wachtel,John David Washington,USA,15000000.0,10845330.0,49275340.0,93400823.0,Focus Features,135.0
+82,Green Book,8.2,347406.0,PG-13,Biography,Peter Farrelly,Nick Vallelonga,Viggo Mortensen,USA,23000000.0,320429.0,85080171.0,321752656.0,Participant,130.0
+83,Alita: Battle Angel,7.3,219623.0,PG-13,Action,Robert Rodriguez,James Cameron,Rosa Salazar,USA,170000000.0,28525613.0,85710210.0,404852543.0,Twentieth Century Fox,122.0
+84,First Man,7.3,161440.0,PG-13,Biography,Damien Chazelle,Josh Singer,Ryan Gosling,USA,59000000.0,16006065.0,44936545.0,105702570.0,Universal Pictures,141.0
+85,A Quiet Place,7.5,394139.0,PG-13,Drama,John Krasinski,Bryan Woods,Emily Blunt,USA,17000000.0,50203562.0,188024361.0,340949169.0,Paramount Pictures,90.0
+86,Ocean's 8,6.8,178740.0,PG-13,Action,Gary Ross,Gary Ross,Sandra Bullock,USA,70000000.0,41607378.0,140218711.0,297718711.0,Warner Bros.,110.0
+87,Solo: A Star Wars Story,6.9,280379.0,PG-13,Action,Ron Howard,Jonathan Kasdan,Alden Ehrenreich,USA,275000000.0,84420489.0,213767512.0,392924807.0,Lucasfilm,135.0
+88,The VVitch: A New-England Folktale,6.9,190933.0,R,Drama,Robert Eggers,Robert Eggers,Anya Taylor-Joy,Canada,4000000.0,8800230.0,25138705.0,40423945.0,Parts and Labor,92.0
+89,Hustlers,6.3,78329.0,R,Comedy,Lorene Scafaria,Lorene Scafaria,Constance Wu,USA,20000000.0,33181361.0,104963598.0,157563598.0,Annapurna Pictures,110.0
+90,Batman v Superman: Dawn of Justice,6.4,614653.0,PG-13,Action,Zack Snyder,Chris Terrio,Ben Affleck,USA,250000000.0,166007347.0,330360194.0,873637528.0,Warner Bros.,152.0
+91,Ad Astra,6.6,188275.0,PG-13,Adventure,James Gray,James Gray,Brad Pitt,China,90000000.0,19001398.0,50188370.0,127461872.0,New Regency Productions,123.0
+92,A Simple Favor,6.8,121620.0,R,Comedy,Paul Feig,Darcey Bell,Anna Kendrick,Canada,20000000.0,16011689.0,53548586.0,97644617.0,BRON Studios,117.0
+93,Me Before You,7.4,201682.0,PG-13,Drama,Thea Sharrock,Jojo Moyes,Emilia Clarke,UK,20000000.0,18723269.0,56245075.0,208314186.0,Metro-Goldwyn-Mayer (MGM),106.0
+94,Vacation,6.1,97273.0,R,Adventure,"John Francis Daley, Jonathan Goldstein",Jonathan Goldstein,Ed Helms,USA,31000000.0,14681108.0,58884188.0,107228221.0,BenderSpink,99.0
+95,Spectre,6.8,377654.0,PG-13,Action,Sam Mendes,John Logan,Daniel Craig,UK,245000000.0,70403148.0,200074609.0,880674609.0,B24,148.0
+96,Ready Player One,7.5,356178.0,PG-13,Action,Steven Spielberg,Zak Penn,Tye Sheridan,USA,175000000.0,41764050.0,137690172.0,582893671.0,Warner Bros.,140.0
+97,Avengers: Age of Ultron,7.3,725833.0,PG-13,Action,Joss Whedon,Joss Whedon,Robert Downey Jr.,USA,250000000.0,191271109.0,459005868.0,1402809540.0,Marvel Studios,141.0
+98,Kingsman: The Golden Circle,6.7,265273.0,R,Action,Matthew Vaughn,Jane Goldman,Taron Egerton,UK,104000000.0,39023010.0,100234838.0,410902662.0,Twentieth Century Fox,141.0
+99,Captain America: Civil War,7.8,647932.0,PG-13,Action,"Anthony Russo, Joe Russo",Christopher Markus,Chris Evans,USA,250000000.0,179139142.0,408084349.0,1153332120.0,Marvel Studios,147.0
+100,X-Men: Dark Phoenix,5.8,148073.0,PG-13,Action,Simon Kinberg,Simon Kinberg,James McAvoy,USA,200000000.0,32828348.0,65845974.0,252442974.0,Twentieth Century Fox,113.0
+101,Logan,8.1,631244.0,R,Action,James Mangold,James Mangold,Hugh Jackman,USA,97000000.0,88411916.0,226277068.0,619021436.0,Twentieth Century Fox,137.0
+102,Valerian and the City of a Thousand Planets,6.5,158518.0,PG-13,Action,Luc Besson,Pierre Christin,Dane DeHaan,France,177200000.0,17007624.0,41189488.0,225874228.0,EuropaCorp,136.0
+103,Jurassic World: Fallen Kingdom,6.2,258395.0,PG-13,Action,J.A. Bayona,Derek Connolly,Chris Pratt,USA,170000000.0,148024610.0,417719760.0,1308484847.0,Universal Pictures,128.0
+104,Mamma Mia! Here We Go Again,6.6,76686.0,PG-13,Comedy,Ol Parker,Ol Parker,Lily James,UK,75000000.0,34952180.0,120634935.0,395101142.0,Universal Pictures,114.0
+105,Underwater,5.8,50364.0,PG-13,Action,William Eubank,Brian Duffield,Kristen Stewart,USA,80000000.0,7008297.0,17291078.0,40882928.0,20th Century Fox Film Corporation,95.0
+106,Toy Story 4,7.8,191806.0,G,Animation,Josh Cooley,John Lasseter,Tom Hanks,USA,200000000.0,120908065.0,434038008.0,1073394593.0,Pixar Animation Studios,100.0
+107,Midnight Special,6.6,74010.0,PG-13,Drama,Jeff Nichols,Jeff Nichols,Michael Shannon,USA,18000000.0,190012.0,3712282.0,6740647.0,Warner Bros.,112.0
+108,Nocturnal Animals,7.5,231044.0,R,Drama,Tom Ford,Tom Ford,Amy Adams,USA,22500000.0,492648.0,10663357.0,30311857.0,Focus Features,116.0
+109,Alien: Covenant,6.4,249216.0,R,Horror,Ridley Scott,Dan O'Bannon,Michael Fassbender,USA,97000000.0,36160621.0,74262031.0,240891763.0,Twentieth Century Fox,122.0
+110,The Big Short,7.8,351209.0,R,Biography,Adam McKay,Charles Randolph,Christian Bale,USA,28000000.0,705527.0,70259870.0,133440870.0,Paramount Pictures,130.0
+111,Baby Driver,7.6,425630.0,R,Action,Edgar Wright,Edgar Wright,Ansel Elgort,UK,34000000.0,20553320.0,107825862.0,226945087.0,TriStar Pictures,113.0
+112,Logan Lucky,7.0,125993.0,PG-13,Comedy,Steven Soderbergh,Jules Asner,Channing Tatum,USA,29000000.0,7600036.0,27780977.0,48453605.0,Fingerprint Releasing,118.0
+113,The Martian,8.0,744341.0,PG-13,Adventure,Ridley Scott,Drew Goddard,Matt Damon,UK,108000000.0,54308575.0,228433663.0,630161890.0,Twentieth Century Fox,144.0
+114,X-Men: Apocalypse,6.9,386353.0,PG-13,Action,Bryan Singer,Simon Kinberg,James McAvoy,USA,178000000.0,65769562.0,155442489.0,543934105.0,Twentieth Century Fox,144.0
+115,Pirates of the Caribbean: Dead Men Tell No Tales,6.6,256186.0,PG-13,Action,"Joachim Rønning, Espen Sandberg",Jeff Nathanson,Johnny Depp,USA,230000000.0,62983253.0,172558876.0,794881442.0,Walt Disney Pictures,129.0
+116,Rocketman,7.3,126032.0,R,Biography,Dexter Fletcher,Lee Hall,Taron Egerton,UK,40000000.0,25725722.0,96368160.0,195179299.0,Paramount Pictures,121.0
+117,Knock Knock,4.9,77467.0,R,Drama,Eli Roth,Eli Roth,Keanu Reeves,USA,2500000.0,18623.0,36336.0,5567103.0,Black Bear Pictures,99.0
+118,Sicario,7.6,362898.0,R,Action,Denis Villeneuve,Taylor Sheridan,Emily Blunt,USA,30000000.0,401288.0,46889293.0,84872444.0,Lionsgate,121.0
+119,Booksmart,7.2,86570.0,R,Comedy,Olivia Wilde,Emily Halpern,Kaitlyn Dever,USA,6000000.0,6933620.0,22680962.0,24863452.0,Annapurna Pictures,102.0
+120,Zombieland: Double Tap,6.7,129055.0,R,Action,Ruben Fleischer,Rhett Reese,Woody Harrelson,USA,42000000.0,26803104.0,73123082.0,122810399.0,2.0 Entertainment,99.0
+121,The Girl on the Train,6.5,165733.0,R,Crime,Tate Taylor,Erin Cressida Wilson,Emily Blunt,USA,45000000.0,24536265.0,75395035.0,173185859.0,Amblin Partners,112.0
+122,Sonic the Hedgehog,6.5,77019.0,PG,Action,Jeff Fowler,Pat Casey,Ben Schwartz,USA,85000000.0,58018348.0,146066470.0,306766470.0,Paramount Pictures,99.0
+123,Halloween,6.5,113965.0,R,Crime,David Gordon Green,John Carpenter,Jamie Lee Curtis,USA,10000000.0,76221545.0,159342015.0,255485178.0,Blumhouse Productions,106.0
+124,Hacksaw Ridge,8.1,421331.0,R,Biography,Mel Gibson,Robert Schenkkan,Andrew Garfield,Australia,40000000.0,15190758.0,67209615.0,180450918.0,Summit Entertainment,139.0
+125,La La Land,8.0,491076.0,PG-13,Comedy,Damien Chazelle,Damien Chazelle,Ryan Gosling,USA,30000000.0,881104.0,151101803.0,446486871.0,Summit Entertainment,128.0
+126,Doctor Strange,7.5,582014.0,PG-13,Action,Scott Derrickson,Jon Spaihts,Benedict Cumberbatch,USA,165000000.0,85058311.0,232641920.0,677796076.0,Marvel Studios,115.0
+127,Bumblebee,6.8,133009.0,PG-13,Action,Travis Knight,Christina Hodson,Hailee Steinfeld,China,135000000.0,21654047.0,127195589.0,467989645.0,Hasbro,114.0
+128,Arrival,7.9,579095.0,PG-13,Drama,Denis Villeneuve,Eric Heisserer,Amy Adams,USA,47000000.0,24074047.0,100546139.0,203388186.0,Lava Bear Films,116.0
+129,Color Out of Space,6.2,26155.0,Unrated,Horror,Richard Stanley,H.P. Lovecraft,Nicolas Cage,USA,6000000.0,216162.0,765561.0,1023510.0,SpectreVision,111.0
+130,Fast & Furious Presents: Hobbs & Shaw,6.4,160218.0,PG-13,Action,David Leitch,Chris Morgan,Dwayne Johnson,USA,200000000.0,60038950.0,173956935.0,759056935.0,Chris Morgan Productions,137.0
+131,Inside Out,8.1,596026.0,PG,Animation,"Pete Docter, Ronnie Del Carmen (co-director)",Pete Docter,Amy Poehler,USA,175000000.0,90440272.0,356921711.0,858071350.0,Pixar Animation Studios,95.0
+132,Dolittle,5.6,40602.0,PG,Adventure,Stephen Gaghan,Stephen Gaghan,Robert Downey Jr.,USA,175000000.0,21844045.0,77047065.0,245291417.0,Universal Pictures,101.0
+133,The Man from U.N.C.L.E.,7.3,264711.0,PG-13,Action,Guy Ritchie,Guy Ritchie,Henry Cavill,USA,75000000.0,13421036.0,45445109.0,107045109.0,Warner Bros.,116.0
+134,John Wick: Chapter 3 - Parabellum,7.5,261036.0,R,Action,Chad Stahelski,Derek Kolstad,Keanu Reeves,USA,75000000.0,56818067.0,171015687.0,326709727.0,Lionsgate,130.0
+135,Coco,8.4,356682.0,PG,Animation,"Lee Unkrich, Adrian Molina (co-director)",Lee Unkrich,Anthony Gonzalez,USA,175000000.0,50802605.0,209726015.0,807083888.0,Walt Disney Pictures,105.0
+136,Motherless Brooklyn,6.8,36104.0,R,Crime,Edward Norton,Edward Norton,Edward Norton,USA,26000000.0,3500454.0,9277736.0,18477736.0,Warner Bros. Pictures,144.0
+137,Shazam!,7.1,243324.0,PG-13,Action,David F. Sandberg,Henry Gayden,Zachary Levi,USA,100000000.0,53505326.0,140371656.0,365971656.0,Warner Bros.,132.0
+138,Star Wars: Episode VII - The Force Awakens,7.9,847374.0,PG-13,Action,J.J. Abrams,Lawrence Kasdan,Daisy Ridley,USA,245000000.0,247966675.0,936662225.0,2068224036.0,Lucasfilm,138.0
+139,Maleficent: Mistress of Evil,6.6,78446.0,PG,Adventure,Joachim Rønning,Linda Woolverton,Angelina Jolie,USA,185000000.0,36948713.0,113929605.0,491730089.0,Walt Disney Pictures,119.0
+140,Molly's Game,7.4,135204.0,R,Biography,Aaron Sorkin,Aaron Sorkin,Jessica Chastain,China,30000000.0,2349967.0,28780744.0,59284015.0,STX Entertainment,140.0
+141,Crazy Rich Asians,6.9,134566.0,PG-13,Comedy,Jon M. Chu,Peter Chiarelli,Constance Wu,USA,30000000.0,26510140.0,174532921.0,238538736.0,Warner Bros.,120.0
+142,Red Sparrow,6.6,160285.0,R,Action,Francis Lawrence,Justin Haythe,Jennifer Lawrence,USA,69000000.0,16853422.0,46874505.0,151572634.0,Chernin Entertainment,140.0
+143,Split,7.3,410470.0,PG-13,Horror,M. Night Shyamalan,M. Night Shyamalan,James McAvoy,USA,9000000.0,40010975.0,138291365.0,278454358.0,Universal Pictures,117.0
+144,The Hateful Eight,7.8,501972.0,R,Crime,Quentin Tarantino,Quentin Tarantino,Samuel L. Jackson,USA,44000000.0,4610676.0,54117416.0,155762510.0,Visiona Romantica,168.0
+145,The Shape of Water,7.3,359613.0,R,Adventure,Guillermo del Toro,Guillermo del Toro,Sally Hawkins,USA,19400000.0,166564.0,63859435.0,195333312.0,Double Dare You (DDY),123.0
+146,Yesterday,6.8,106903.0,PG-13,Comedy,Danny Boyle,Richard Curtis,Himesh Patel,UK,26000000.0,17010050.0,73286650.0,153010698.0,Decibel Films,116.0
+147,Mission: Impossible - Rogue Nation,7.4,335943.0,PG-13,Action,Christopher McQuarrie,Christopher McQuarrie,Tom Cruise,USA,150000000.0,55520089.0,195042377.0,682716636.0,Paramount Pictures,131.0
+148,Upgrade,7.5,150646.0,R,Action,Leigh Whannell,Leigh Whannell,Logan Marshall-Green,USA,5000000.0,4670905.0,11977130.0,16706680.0,Goalpost Pictures,100.0
+149,Adrift,6.6,45034.0,PG-13,Action,Baltasar Kormákur,Aaron Kandell,Shailene Woodley,Hong Kong,35000000.0,11603039.0,31445012.0,59945012.0,Huayi Brothers,96.0
+150,Godzilla: King of the Monsters,6.0,126779.0,PG-13,Action,Michael Dougherty,Michael Dougherty,Kyle Chandler,USA,170000000.0,47776293.0,110500138.0,386600138.0,Warner Bros.,132.0
+151,Playing with Fire,5.0,9304.0,PG,Comedy,Andy Fickman,Dan Ewen,John Cena,USA,29900000.0,12723781.0,44451847.0,68631669.0,Broken Road Productions,96.0
+152,Jumanji: Welcome to the Jungle,6.9,310660.0,PG-13,Action,Jake Kasdan,Chris McKenna,Dwayne Johnson,USA,90000000.0,36169328.0,404540171.0,962102237.0,Columbia Pictures,119.0
+153,Pacific Rim: Uprising,5.6,103571.0,PG-13,Action,Steven S. DeKnight,Steven S. DeKnight,John Boyega,UK,150000000.0,28116535.0,59874525.0,290930148.0,Legendary Entertainment,111.0
+154,Dora and the Lost City of Gold,6.1,22148.0,PG,Adventure,James Bobin,Nicholas Stoller,Isabela Merced,USA,49000000.0,17431588.0,60477943.0,119682635.0,Paramount Players,102.0
+155,Glass,6.7,199689.0,PG-13,Drama,M. Night Shyamalan,M. Night Shyamalan,James McAvoy,USA,20000000.0,40328920.0,111048468.0,246999039.0,Buena Vista International,129.0
+156,King Arthur: Legend of the Sword,6.7,187959.0,PG-13,Action,Guy Ritchie,Joby Harold,Charlie Hunnam,UK,175000000.0,15371270.0,39175066.0,148675066.0,Warner Bros.,126.0
+157,Fantastic Beasts and Where to Find Them,7.3,400588.0,PG-13,Adventure,David Yates,J.K. Rowling,Eddie Redmayne,UK,180000000.0,74403387.0,234037575.0,814043616.0,Heyday Films,132.0
+158,A Beautiful Day in the Neighborhood,7.3,51964.0,PG,Biography,Marielle Heller,Micah Fitzerman-Blue,Tom Hanks,China,25000000.0,13251238.0,61704055.0,67760877.0,Big Beach Films,109.0
+159,Miss Peregrine's Home for Peculiar Children,6.7,152551.0,PG-13,Adventure,Tim Burton,Ransom Riggs,Eva Green,USA,110000000.0,28871140.0,87242834.0,296482446.0,Twentieth Century Fox,127.0
+160,13 Hours,7.3,115756.0,R,Action,Michael Bay,Chuck Hogan,John Krasinski,Malta,50000000.0,16194738.0,52853219.0,69411370.0,Paramount Pictures,144.0
+161,Legend,6.9,154721.0,R,Biography,Brian Helgeland,Brian Helgeland,Tom Hardy,UK,30000000.0,86836.0,1872994.0,42972994.0,Cross Creek Pictures,132.0
+162,Suspiria,6.8,57976.0,R,Fantasy,Luca Guadagnino,Dario Argento,Chloë Grace Moretz,Italy,20000000.0,184037.0,2483472.0,7942093.0,Frenesy Film Company,152.0
+163,Zootopia,8.0,423331.0,PG,Animation,,Byron Howard,Ginnifer Goodwin,USA,150000000.0,75063401.0,341268248.0,1023791495.0,Walt Disney Pictures,108.0
+164,Robin Hood,5.3,61733.0,PG-13,Action,Otto Bathurst,Ben Chandler,Taron Egerton,USA,100000000.0,9195670.0,30824628.0,86493046.0,Summit Entertainment,116.0
+165,Phantom Thread,7.5,107528.0,R,Drama,Paul Thomas Anderson,Paul Thomas Anderson,Vicky Krieps,USA,35000000.0,216495.0,21198205.0,47756590.0,Focus Features,130.0
+166,All the Money in the World,6.8,72137.0,R,Biography,Ridley Scott,David Scarpa,Michelle Williams,USA,50000000.0,5584684.0,25113707.0,56996304.0,Imperative Entertainment,132.0
+167,Cats,2.8,36537.0,PG,Comedy,Tom Hooper,Lee Hall,James Corden,UK,95000000.0,6619870.0,27166770.0,73834284.0,Working Title Films,110.0
+168,Ant-Man,7.3,556700.0,PG-13,Action,Peyton Reed,Edgar Wright,Paul Rudd,USA,130000000.0,57225526.0,180202163.0,519311965.0,Gary Sanchez Productions,117.0
+169,Angel Has Fallen,6.4,73991.0,R,Action,Ric Roman Waugh,Robert Mark Kamen,Gerard Butler,USA,40000000.0,21380987.0,69030436.0,146661977.0,Millennium Films,121.0
+170,Game Night,6.9,199972.0,R,Action,"John Francis Daley, Jonathan Goldstein",Mark Perez,Jason Bateman,USA,37000000.0,17005332.0,69179066.0,117679066.0,Access Entertainment,100.0
+171,Fifty Shades Freed,4.5,53684.0,R,Drama,James Foley,Niall Leonard,Dakota Johnson,USA,55000000.0,38560195.0,100407760.0,371985018.0,Perfect World Pictures,105.0
+172,Spotlight,8.1,409282.0,R,Biography,Tom McCarthy,Josh Singer,Mark Ruffalo,USA,20000000.0,295009.0,45055776.0,98690254.0,Participant,129.0
+173,Overlord,6.6,81970.0,R,Action,Julius Avery,Billy Ray,Jovan Adepo,USA,38000000.0,10202108.0,21704844.0,41657844.0,Bad Robot,110.0
+174,Passengers,7.0,342182.0,PG-13,Drama,Morten Tyldum,Jon Spaihts,Jennifer Lawrence,USA,110000000.0,14869736.0,100014699.0,303144152.0,Columbia Pictures,116.0
+175,Warcraft,6.8,238794.0,PG-13,Action,Duncan Jones,Charles Leavitt,Travis Fimmel,China,160000000.0,24166110.0,47365290.0,439048914.0,Legendary Entertainment,123.0
+176,A Cure for Wellness,6.4,83382.0,R,Drama,Gore Verbinski,Justin Haythe,Dane DeHaan,USA,40000000.0,4356941.0,8106986.0,26620002.0,New Regency Productions,146.0
+177,Jupiter Ascending,5.3,176752.0,PG-13,Action,"Lana Wachowski (as The Wachowskis), Lilly Wachowski (as The Wachowskis)",Lilly Wachowski,Channing Tatum,USA,176000000.0,18372372.0,47387723.0,183887723.0,Warner Bros.,127.0
+178,Baywatch,5.5,157091.0,R,Action,Seth Gordon,Michael Berk,Dwayne Johnson,UK,69000000.0,18503871.0,58060186.0,177856751.0,Paramount Pictures,116.0
+179,The Good Liar,6.6,21793.0,R,Crime,Bill Condon,Nicholas Searle,Helen Mirren,UK,10000000.0,5605051.0,17156058.0,33856058.0,BRON Studios,109.0
+180,San Andreas,6.0,208458.0,PG-13,Action,Brad Peyton,Carlton Cuse,Dwayne Johnson,USA,110000000.0,54588173.0,155190832.0,473990832.0,New Line Cinema,114.0
+181,The Lost City of Z,6.6,76679.0,PG-13,Action,James Gray,James Gray,Charlie Hunnam,USA,30000000.0,110175.0,8580410.0,19263938.0,Keep Your Head,141.0
+182,The Jungle Book,7.4,255777.0,PG,Adventure,Jon Favreau,Justin Marks,Neel Sethi,UK,175000000.0,103261464.0,364001123.0,966552003.0,Fairview Entertainment,106.0
+183,Moonlight,7.4,265335.0,R,Drama,Barry Jenkins,Barry Jenkins,Mahershala Ali,USA,4000000.0,402075.0,27854932.0,65336603.0,A24,111.0
+184,The Meg,5.6,144808.0,PG-13,Action,Jon Turteltaub,Dean Georgaris,Jason Statham,USA,130000000.0,45402195.0,145443742.0,530259473.0,Apelles Entertainment,113.0
+185,The Call of the Wild,6.8,30644.0,PG,Adventure,Chris Sanders,Michael Green,Harrison Ford,Canada,135000000.0,24791624.0,62342368.0,107604626.0,20th Century Studios,100.0
+186,Inferno,6.2,154843.0,PG-13,Action,Ron Howard,Dan Brown,Tom Hanks,USA,75000000.0,14860425.0,34343574.0,220021259.0,Columbia Pictures,121.0
+187,The Favourite,7.5,165257.0,R,Biography,Yorgos Lanthimos,Deborah Davis,Olivia Colman,Ireland,15000000.0,422410.0,34366783.0,95918706.0,Fox Searchlight Pictures,119.0
+188,Tesla,5.1,3157.0,PG-13,Biography,Michael Almereyda,Michael Almereyda,Ethan Hawke,USA,5000000.0,42165.0,92276.0,210613.0,Passage Pictures (II),102.0
+189,Rambo: Last Blood,6.1,77589.0,R,Action,Adrian Grunberg (as Adrian Grünberg),Matthew Cirulnick,Sylvester Stallone,USA,50000000.0,18872919.0,44819352.0,91490353.0,Lionsgate,89.0
+190,Hidden Figures,7.8,194546.0,PG,Biography,Theodore Melfi,Allison Schroeder,Taraji P. Henson,USA,25000000.0,515499.0,169607287.0,235956898.0,Fox 2000 Pictures,127.0
+191,Mortal Engines,6.1,101718.0,PG-13,Action,Christian Rivers,Fran Walsh,Hera Hilmar,USA,100000000.0,7559850.0,15951040.0,83672673.0,Media Rights Capital (MRC),128.0
+192,Scary Stories to Tell in the Dark,6.2,56217.0,PG-13,Adventure,André Øvredal,Dan Hageman,Zoe Margaret Colletti,USA,25000000.0,20915346.0,68947075.0,104545505.0,CBS Films,108.0
+193,Queen & Slim,7.1,19927.0,R,Crime,Melina Matsoukas,Lena Waithe,Daniel Kaluuya,USA,18000000.0,11890490.0,43808310.0,47801058.0,BRON Studios,132.0
+194,Mother!,6.6,185936.0,R,Drama,Darren Aronofsky,Darren Aronofsky,Jennifer Lawrence,USA,30000000.0,7534673.0,17800004.0,44516999.0,Paramount Pictures,121.0
+195,Downton Abbey,7.4,36618.0,PG,Drama,Michael Engler,Julian Fellowes,Stephen Campbell Moore,UK,13000000.0,31033665.0,96854135.0,193820755.0,Carnival Film & Television,122.0
+196,The Goldfinch,6.3,14717.0,R,Drama,John Crowley,Peter Straughan,Oakes Fegley,USA,45000000.0,2679027.0,5332621.0,9932621.0,Amazon Studios,149.0
+197,Sicario: Day of the Soldado,7.1,120931.0,R,Action,Stefano Sollima,Taylor Sheridan,Benicio Del Toro,USA,35000000.0,19007566.0,50072235.0,75837743.0,Columbia Pictures,122.0
+198,Wonder,8.0,135524.0,PG,Drama,Stephen Chbosky,Stephen Chbosky,Jacob Tremblay,USA,20000000.0,27547866.0,132422809.0,305940606.0,Lionsgate,113.0
+199,Johnny English Strikes Again,6.2,61360.0,PG,Action,David Kerr,William Davies,Rowan Atkinson,UK,25000000.0,1638895.0,4412170.0,158972499.0,Universal Pictures,89.0
+200,Vice,7.2,114500.0,R,Biography,Adam McKay,Adam McKay,Christian Bale,USA,60000000.0,7768371.0,47836282.0,76073488.0,Annapurna Pictures,132.0
+201,In the Heart of the Sea,6.9,120208.0,PG-13,Action,Ron Howard,Charles Leavitt,Chris Hemsworth,USA,100000000.0,11053366.0,25020758.0,93920758.0,Warner Bros.,122.0
+202,Independence Day: Resurgence,5.2,164515.0,PG-13,Action,Roland Emmerich,Nicolas Wright,Liam Hemsworth,USA,165000000.0,41039944.0,103144286.0,389681935.0,Twentieth Century Fox,120.0
+203,The Nice Guys,7.4,271801.0,R,Action,Shane Black,Shane Black,Russell Crowe,USA,50000000.0,11203270.0,36261763.0,62788218.0,Warner Bros.,116.0
+204,Good Boys,6.7,56999.0,R,Adventure,Gene Stupnitsky,Lee Eisenberg,Jacob Tremblay,USA,20000000.0,21402605.0,83140306.0,111037232.0,Good Universe,90.0
+205,Star Trek Beyond,7.1,224170.0,PG-13,Action,Justin Lin,Simon Pegg,Chris Pine,USA,185000000.0,59253211.0,158848340.0,343471816.0,Paramount Pictures,122.0
+206,Just Mercy,7.6,39342.0,PG-13,Biography,Destin Daniel Cretton,Destin Daniel Cretton,Michael B. Jordan,USA,25000000.0,107858.0,36001502.0,50401502.0,Warner Bros. Pictures,137.0
+207,Bad Times at the El Royale,7.1,124498.0,R,Crime,Drew Goddard,Drew Goddard,Jeff Bridges,USA,32000000.0,7132647.0,17839115.0,31882724.0,Goddard Textiles,141.0
+208,The Neon Demon,6.2,82082.0,R,Horror,Nicolas Winding Refn,Nicolas Winding Refn,Elle Fanning,USA,7000000.0,589014.0,1333124.0,3377430.0,Space Rocket Nation,117.0
+209,Incredibles 2,7.6,241334.0,PG,Animation,Brad Bird,Brad Bird,Craig T. Nelson,USA,200000000.0,182687905.0,608581744.0,1242805359.0,Walt Disney Pictures,118.0
+210,Fantastic Four,4.3,149888.0,PG-13,Action,"Josh Trank, Stephen E. Rivkin (uncredited)",Jeremy Slater,Miles Teller,USA,120000000.0,25685737.0,56117548.0,167882881.0,Twentieth Century Fox,100.0
+211,The Mummy,5.4,169766.0,PG-13,Action,Alex Kurtzman,David Koepp,Tom Cruise,USA,125000000.0,31688375.0,80227895.0,409231607.0,Universal Pictures,111.0
+212,Wind River,7.7,196636.0,R,Crime,Taylor Sheridan,Taylor Sheridan,Kelsey Asbille,UK,11000000.0,161558.0,33800859.0,43980821.0,Acacia Filmed Entertainment,107.0
+213,The Post,7.2,131310.0,PG-13,Drama,Steven Spielberg,Liz Hannah,Meryl Streep,USA,50000000.0,526011.0,81903458.0,179769467.0,Twentieth Century Fox,116.0
+214,The Nun,5.3,113721.0,R,Horror,Corin Hardy,Gary Dauberman,Demián Bichir,USA,22000000.0,53807379.0,117450119.0,365551694.0,Atomic Monster,96.0
+215,Fifty Shades Darker,4.6,89802.0,R,Drama,James Foley,Niall Leonard,Dakota Johnson,USA,55000000.0,46607250.0,114581250.0,381545846.0,Universal Pictures,118.0
+216,Ant-Man and the Wasp,7.1,297823.0,PG-13,Action,Peyton Reed,Chris McKenna,Paul Rudd,USA,162000000.0,75812205.0,216648740.0,622674139.0,Marvel Studios,118.0
+217,The Accountant,7.3,254865.0,R,Action,Gavin O'Connor,Bill Dubuque,Ben Affleck,USA,44000000.0,24710273.0,86260045.0,155160045.0,Warner Bros.,128.0
+218,The Equalizer 2,6.7,127555.0,R,Action,Antoine Fuqua,Richard Wenk,Denzel Washington,USA,62000000.0,36011640.0,102084362.0,190400157.0,Columbia Pictures,121.0
+219,Men in Black: International,5.6,104414.0,PG-13,Action,F. Gary Gray,Matt Holloway,Chris Hemsworth,China,110000000.0,30035838.0,80001807.0,253890701.0,Columbia Pictures,114.0
+220,Five Feet Apart,7.2,39295.0,PG-13,Drama,Justin Baldoni,Mikki Daughtry,Haley Lu Richardson,USA,7000000.0,13190286.0,45729221.0,91522094.0,CBS Films,116.0
+221,Mary Queen of Scots,6.3,37620.0,R,Biography,Josie Rourke,Beau Willimon,Saoirse Ronan,UK,25000000.0,194777.0,16468499.0,46712809.0,Focus Features,124.0
+222,Sorry to Bother You,6.9,58705.0,R,Comedy,Boots Riley,Boots Riley,LaKeith Stanfield,USA,3200000.0,727266.0,17493096.0,18170707.0,Cinereach,112.0
+223,How to Train Your Dragon: The Hidden World,7.5,98425.0,PG,Animation,Dean DeBlois,Dean DeBlois,Jay Baruchel,USA,129000000.0,55022245.0,160799505.0,521833414.0,DreamWorks Animation,104.0
+224,Terminator Genisys,6.3,255705.0,PG-13,Action,Alan Taylor,Laeta Kalogridis,Arnold Schwarzenegger,USA,155000000.0,27018486.0,89760956.0,440603537.0,Paramount Pictures,126.0
+225,Gods of Egypt,5.4,103851.0,PG-13,Action,Alex Proyas,Matt Sazama,Brenton Thwaites,USA,140000000.0,14123903.0,31153464.0,150680864.0,Pyramania,127.0
+226,Jay and Silent Bob Reboot,5.7,18052.0,R,Comedy,Kevin Smith,Kevin Smith,Joey Lauren Adams,USA,10000000.0,93520.0,4589490.0,4691248.0,Destro Films,105.0
+227,The Florida Project,7.6,90962.0,R,Drama,Sean Baker,Sean Baker,Brooklynn Prince,USA,2000000.0,157553.0,5904366.0,10971298.0,Cre Film,111.0
+228,Transformers: The Last Knight,5.2,132817.0,PG-13,Action,Michael Bay,Art Marcum,Mark Wahlberg,USA,217000000.0,44680073.0,130168683.0,605425157.0,Paramount Pictures,154.0
+229,Hostiles,7.2,67894.0,R,Drama,Scott Cooper,Scott Cooper,Scott Shepherd,USA,39000000.0,22849.0,29819114.0,35669017.0,Grisbi Productions,134.0
+230,Mid90s,7.4,45409.0,R,Comedy,Jonah Hill,Jonah Hill,Sunny Suljic,USA,1700000.0,258157.0,7362439.0,9303022.0,A24,85.0
+231,Furious 7,7.1,354559.0,PG-13,Action,James Wan,Chris Morgan,Vin Diesel,USA,190000000.0,147187040.0,353007020.0,1515048151.0,Universal Pictures,137.0
+232,Fighting with My Family,7.1,63317.0,PG-13,Biography,Stephen Merchant,Stephen Merchant,Dwayne Johnson,UK,11000000.0,138780.0,22958886.0,40811919.0,Metro-Goldwyn-Mayer (MGM),108.0
+233,John Wick: Chapter 2,7.5,354375.0,R,Action,Chad Stahelski,Derek Kolstad,Keanu Reeves,USA,40000000.0,30436123.0,92029184.0,171547802.0,Summit Entertainment,122.0
+234,Mary Poppins Returns,6.7,74199.0,PG,Comedy,Rob Marshall,P.L. Travers,Emily Blunt,USA,130000000.0,23523121.0,171958438.0,349545966.0,Lucamar Productions,130.0
+235,Beautiful Boy,7.3,49211.0,R,Biography,Felix van Groeningen,Luke Davies,Steve Carell,USA,25000000.0,218888.0,7649973.0,16636604.0,Amazon Studios,120.0
+236,The Mountain Between Us,6.4,65190.0,PG-13,Action,Hany Abu-Assad,Chris Weitz,Kate Winslet,USA,35000000.0,10551336.0,30348555.0,62832209.0,Chernin Entertainment,112.0
+237,Patriots Day,7.4,88744.0,R,Action,Peter Berg,Peter Berg,Mark Wahlberg,Hong Kong,45000000.0,161306.0,31886361.0,52185751.0,CBS Films,133.0
+238,Den of Thieves,7.0,89514.0,R,Action,Christian Gudegast,Christian Gudegast,Gerard Butler,USA,30000000.0,15206108.0,44947622.0,80509622.0,STX Films,148.0
+239,Manchester by the Sea,7.8,239888.0,R,Drama,Kenneth Lonergan,Kenneth Lonergan,Casey Affleck,USA,9000000.0,256498.0,47695371.0,78988148.0,Amazon Studios,137.0
+240,Allegiant,5.7,106404.0,PG-13,Action,Robert Schwentke,Noah Oppenheim,Shailene Woodley,USA,110000000.0,29027348.0,66184051.0,179246868.0,Mandeville Films,120.0
+241,Atomic Blonde,6.7,171880.0,R,Action,David Leitch,Kurt Johnstad,Charlize Theron,USA,30000000.0,18286420.0,51687870.0,100014025.0,Focus Features,115.0
+242,Instant Family,7.3,78427.0,PG-13,Comedy,Sean Anders,Sean Anders,Mark Wahlberg,USA,48000000.0,14504315.0,67363237.0,120556201.0,Closest to the Hole Productions,118.0
+243,Harriet,6.5,17328.0,PG-13,Action,Kasi Lemmons,Gregory Allen Howard,Cynthia Erivo,China,17000000.0,11676720.0,43082155.0,43347017.0,Martin Chase Productions,125.0
+244,The Predator,5.3,113692.0,R,Action,Shane Black,Fred Dekker,Boyd Holbrook,USA,88000000.0,24632284.0,51024708.0,160542134.0,Twentieth Century Fox,107.0
+245,The Legend of Tarzan,6.2,161139.0,PG-13,Action,David Yates,Adam Cozad,Alexander Skarsgård,UK,180000000.0,38527856.0,126643061.0,356700357.0,Village Roadshow Pictures,110.0
+246,The Founder,7.2,119154.0,PG-13,Biography,John Lee Hancock,Robert Siegel,Michael Keaton,USA,25000000.0,3404102.0,12786053.0,24121245.0,The Weinstein Company,115.0
+247,Hunter Killer,6.6,50790.0,R,Action,Donovan Marsh,Arne Schmidt,Gerard Butler,UK,40000000.0,6653777.0,15767460.0,31672678.0,Hunter Killer Productions,121.0
+248,The Hunger Games: Mockingjay - Part 2,6.5,279055.0,PG-13,Action,Francis Lawrence,Peter Craig,Jennifer Lawrence,USA,160000000.0,102665981.0,281723902.0,658344137.0,Lionsgate,137.0
+249,Marshall,7.2,19169.0,PG-13,Biography,Reginald Hudlin,Michael Koskoff,Chadwick Boseman,USA,12000000.0,3000805.0,10051659.0,10116816.0,Chestnut Ridge Productions,118.0
+250,Death Wish,6.4,62038.0,R,Action,Eli Roth,Joe Carnahan,Bruce Willis,USA,30000000.0,13010267.0,34017028.0,49562710.0,Cave 76,107.0
+251,Carol,7.2,112496.0,R,Drama,Todd Haynes,Phyllis Nagy,Cate Blanchett,UK,11800000.0,253510.0,12711491.0,40272135.0,The Weinstein Company,118.0
+252,The Kitchen,5.5,14533.0,R,Action,Andrea Berloff,Andrea Berloff,Melissa McCarthy,USA,38000000.0,5527410.0,12180032.0,15980032.0,BRON Studios,102.0
+253,Pan,5.7,59420.0,PG,Adventure,Joe Wright,Jason Fuchs,Levi Miller,USA,150000000.0,15315435.0,35088320.0,128388320.0,Warner Bros.,111.0
+254,Don't Breathe,7.1,214375.0,R,Crime,Fede Alvarez,Fede Alvarez,Stephen Lang,USA,9900000.0,26411706.0,89217875.0,157830487.0,Screen Gems,88.0
+255,Last Christmas,6.5,38974.0,PG-13,Comedy,Paul Feig,George Michael,Madison Ingoldsby,UK,25000000.0,11441055.0,35150750.0,121550750.0,Calamity Films,103.0
+256,Brightburn,6.1,75177.0,R,Drama,David Yarovesky,Brian Gunn,Elizabeth Banks,USA,6000000.0,7845658.0,17300439.0,32893421.0,Screen Gems,90.0
+257,Hellboy,5.2,75265.0,R,Action,Neil Marshall,Andrew Cosby,David Harbour,USA,50000000.0,12045147.0,21903748.0,44665289.0,Summit Entertainment,120.0
+258,Jack Reacher: Never Go Back,6.1,134995.0,PG-13,Action,Edward Zwick,Richard Wenk,Tom Cruise,China,60000000.0,22872490.0,58697076.0,162146076.0,Paramount Pictures,118.0
+259,The Mule,7.0,102287.0,R,Crime,Clint Eastwood,Nick Schenk,Clint Eastwood,USA,50000000.0,17509431.0,103804407.0,174804407.0,Warner Bros.,116.0
+260,The Turning,3.8,8003.0,PG-13,Drama,Floria Sigismondi,Henry James,Mackenzie Davis,UK,14000000.0,6950045.0,15472775.0,18714343.0,DreamWorks,94.0
+261,Crawl,6.2,62974.0,R,Action,Alexandre Aja,Michael Rasmussen,Kaya Scodelario,USA,13500000.0,12005210.0,39014193.0,91542097.0,Paramount Pictures,87.0
+262,The Dark Tower,5.6,124754.0,PG-13,Action,Nikolaj Arcel,Akiva Goldsman,Idris Elba,USA,60000000.0,19153698.0,50701325.0,113231078.0,Columbia Pictures,95.0
+263,Gretel & Hansel,5.3,19109.0,PG-13,Fantasy,Oz Perkins (as Osgood Perkins),Rob Hayes,Sophia Lillis,Canada,5000000.0,6154007.0,15347654.0,22051055.0,Orion Pictures,87.0
+264,Kong: Skull Island,6.6,263130.0,PG-13,Action,Jordan Vogt-Roberts,Dan Gilroy,Tom Hiddleston,USA,185000000.0,61025472.0,168052812.0,566652812.0,Warner Bros.,118.0
+265,The Gift,7.0,136637.0,R,Drama,Joel Edgerton,Joel Edgerton,Jason Bateman,USA,5000000.0,11854273.0,43787265.0,58980521.0,Blumhouse Productions,108.0
+266,Life,6.6,203553.0,R,Horror,Daniel Espinosa,Rhett Reese,Jake Gyllenhaal,UK,58000000.0,12501936.0,30234022.0,100541806.0,Columbia Pictures,104.0
+267,Lion,8.0,208048.0,PG-13,Biography,Garth Davis,Saroo Brierley,Dev Patel,UK,12000000.0,123360.0,51738905.0,140312928.0,The Weinstein Company,118.0
+268,Serenity,5.4,33883.0,R,Drama,Steven Knight,Steven Knight,Matthew McConaughey,UK,25000000.0,4415403.0,8547045.0,14454622.0,Blue Budgie Films Limited,106.0
+269,The Last Full Measure,6.7,5781.0,R,Drama,Todd Robinson,Todd Robinson,Sebastian Stan,USA,20000000.0,1058019.0,2949212.0,3364426.0,Foresight Unlimited,116.0
+270,Jason Bourne,6.6,204706.0,PG-13,Action,Paul Greengrass,Paul Greengrass,Matt Damon,USA,120000000.0,59215365.0,162434410.0,415484914.0,Universal Pictures,123.0
+271,American Made,7.2,154524.0,R,Action,Doug Liman,Gary Spinelli,Tom Cruise,USA,50000000.0,16776390.0,51342000.0,134866593.0,Cross Creek Pictures,115.0
+272,Widows,6.9,83235.0,R,Crime,Steve McQueen,Gillian Flynn,Viola Davis,UK,42000000.0,12361307.0,42402632.0,75984700.0,New Regency Productions,129.0
+273,Replicas,5.5,30138.0,PG-13,Drama,Jeffrey Nachmanoff,Chad St. John,Keanu Reeves,UK,30000000.0,2375325.0,4046429.0,9330075.0,Company Films,107.0
+274,Pitch Perfect 3,5.8,54444.0,PG-13,Comedy,Trish Sie,Kay Cannon,Anna Kendrick,USA,45000000.0,19928525.0,104897530.0,185400345.0,Brownstone Entertainment (II),93.0
+275,Darkest Hour,7.4,166946.0,PG-13,Biography,Joe Wright,Anthony McCarten,Gary Oldman,UK,30000000.0,175006.0,56468410.0,150847274.0,Focus Features,125.0
+276,Bad Moms,6.2,111485.0,R,Comedy,"Jon Lucas, Scott Moore",Jon Lucas,Mila Kunis,USA,20000000.0,23817340.0,113257297.0,183936074.0,STX Entertainment,100.0
+277,Tomb Raider,6.3,186651.0,PG-13,Action,Roar Uthaug,Geneva Robertson-Dworet,Alicia Vikander,UK,94000000.0,23633317.0,58250803.0,274650803.0,Warner Bros.,119.0
+278,The Huntsman: Winter's War,6.1,96057.0,PG-13,Action,Cedric Nicolas-Troyan,Evan Spiliotopoulos,Chris Hemsworth,USA,115000000.0,19445035.0,48390190.0,164989338.0,Universal Pictures,114.0
+279,Gifted,7.6,96489.0,PG-13,Drama,Marc Webb,Tom Flynn,Chris Evans,USA,7000000.0,446380.0,24801212.0,43069254.0,Dayday Films,101.0
+280,Long Shot,6.8,89441.0,R,Comedy,Jonathan Levine,Dan Sterling,Charlize Theron,USA,40000000.0,9740064.0,30316271.0,53873809.0,Summit Entertainment,125.0
+281,The Fate of the Furious,6.7,200303.0,PG-13,Action,F. Gary Gray,Gary Scott Thompson,Vin Diesel,China,250000000.0,98786705.0,226008385.0,1236005118.0,Universal Pictures,136.0
+282,The Divergent Series: Insurgent,6.2,214053.0,PG-13,Action,Robert Schwentke,Brian Duffield,Shailene Woodley,USA,110000000.0,52263680.0,130179072.0,297002527.0,Summit Entertainment,119.0
+283,Ralph Breaks the Internet,7.1,125611.0,PG,Animation,"Phil Johnston, Rich Moore",Phil Johnston,John C. Reilly,USA,175000000.0,56237634.0,201091711.0,529323962.0,Walt Disney Animation Studios,112.0
+284,Everest,7.1,193687.0,PG-13,Action,Baltasar Kormákur,William Nicholson,Jason Clarke,UK,55000000.0,7222035.0,43482270.0,203427584.0,Working Title Films,121.0
+285,Southpaw,7.4,214000.0,R,Action,Antoine Fuqua,Kurt Sutter,Jake Gyllenhaal,Hong Kong,30000000.0,16701294.0,52421953.0,91970827.0,Escape Artists,124.0
+286,The Disaster Artist,7.4,134367.0,R,Biography,James Franco,Scott Neustadter,James Franco,USA,10000000.0,1211345.0,21120616.0,29820616.0,Good Universe,104.0
+287,10 Cloverfield Lane,7.2,284519.0,PG-13,Action,Dan Trachtenberg,Josh Campbell,John Goodman,USA,15000000.0,24727437.0,72082998.0,110216998.0,Paramount Pictures,103.0
+288,Paddington 2,7.8,58522.0,PG,Adventure,Paul King,Paul King,Ben Whishaw,UK,40000000.0,11001961.0,40891591.0,227978645.0,StudioCanal,103.0
+289,Escape Room,6.3,78939.0,PG-13,Action,Adam Robitel,Bragi F. Schut,Taylor Russell,USA,9000000.0,18238172.0,57005601.0,155712077.0,Columbia Pictures,99.0
+290,Annabelle Comes Home,5.9,54431.0,R,Horror,Gary Dauberman,James Wan,Vera Farmiga,USA,30000000.0,20269723.0,74152591.0,231252591.0,Atomic Monster,106.0
+291,Alice Through the Looking Glass,6.2,90281.0,PG,Adventure,James Bobin,Linda Woolverton,Mia Wasikowska,USA,170000000.0,26858726.0,77041381.0,299457024.0,Walt Disney Pictures,113.0
+292,Christopher Robin,7.3,66630.0,PG,Comedy,Marc Forster,A.A. Milne,Ewan McGregor,UK,75000000.0,24585139.0,99215042.0,197744377.0,2DUX²,104.0
+293,Hell or High Water,7.6,199320.0,R,Action,David Mackenzie,Taylor Sheridan,Chris Pine,USA,12000000.0,621329.0,27007844.0,37879877.0,CBS Films,102.0
+294,Pokémon Detective Pikachu,6.6,131730.0,PG,Action,Rob Letterman,Dan Hernandez,Ryan Reynolds,USA,150000000.0,54365242.0,144105346.0,433005346.0,Warner Bros.,104.0
+295,The Circle,5.3,82338.0,PG-13,Drama,James Ponsoldt,James Ponsoldt,Emma Watson,United Arab Emirates,18000000.0,9034148.0,20497844.0,40656399.0,1978 Films,110.0
+296,Mile 22,6.1,63608.0,R,Action,Peter Berg,Graham Roland,Mark Wahlberg,USA,50000000.0,13710825.0,36108758.0,66308758.0,STX Entertainment,94.0
+297,War for the Planet of the Apes,7.4,223282.0,PG-13,Action,Matt Reeves,Mark Bomback,Andy Serkis,USA,150000000.0,56262929.0,146880162.0,490719763.0,Twentieth Century Fox,140.0
+298,The Conjuring 2,7.3,219348.0,R,Horror,James Wan,Chad Hayes,Vera Farmiga,Canada,40000000.0,40406314.0,102470008.0,320392818.0,New Line Cinema,134.0
+299,Criminal,6.3,58091.0,R,Action,Ariel Vromen,Douglas Cook,Kevin Costner,USA,31500000.0,5767278.0,14708696.0,38803993.0,Summit Entertainment,113.0
+300,The Rhythm Section,5.2,9307.0,R,Action,Reed Morano,Mark Burnell,Blake Lively,UK,50000000.0,2715384.0,5437971.0,5989583.0,Paramount Pictures,109.0
+301,xXx: Return of Xander Cage,5.2,83919.0,PG-13,Action,D.J. Caruso,Rich Wilkes,Vin Diesel,China,85000000.0,20130142.0,44898413.0,346118277.0,Huahua Media,107.0
+302,American Assassin,6.2,68359.0,R,Action,Michael Cuesta,Stephen Schiff,"""Dylan O'Brien""",USA,33000000.0,14846778.0,36249674.0,67234188.0,CBS Films,111.0
+303,The Danish Girl,7.1,160391.0,R,Biography,Tom Hooper,Lucinda Coxon,Eddie Redmayne,UK,15000000.0,187318.0,11114018.0,64191523.0,Working Title Films,119.0
+304,Trolls,6.5,70590.0,PG,Animation,"Mike Mitchell, Walt Dohrn (co-director)",Jonathan Aibel,Anna Kendrick,USA,125000000.0,46581142.0,153707064.0,346864462.0,DreamWorks Animation,92.0
+305,Child's Play,5.8,41799.0,R,Horror,Lars Klevberg,Tyler Burton Smith,Tim Matheson,Canada,10000000.0,14094594.0,29208403.0,44902237.0,Orion Pictures,90.0
+306,The Grudge,4.3,17871.0,R,Horror,Nicolas Pesce,Nicolas Pesce,Tara Westwood,USA,10000000.0,11404113.0,21221803.0,49511319.0,Screen Gems,94.0
+307,Green Room,7.0,104657.0,R,Horror,Jeremy Saulnier,Jeremy Saulnier,Anton Yelchin,USA,5000000.0,87984.0,3220371.0,3769214.0,Broad Green Pictures,95.0
+308,The Secret Life of Pets,6.5,179923.0,PG,Animation,"Chris Renaud, Yarrow Cheney (co-director)",Cinco Paul,Louis C.K.,USA,75000000.0,104352905.0,368384330.0,875457937.0,Universal Pictures,87.0
+309,Spy,7.0,226662.0,R,Action,Paul Feig,Paul Feig,Melissa McCarthy,USA,65000000.0,29085719.0,110825712.0,235666219.0,Twentieth Century Fox,120.0
+310,Night School,5.6,33643.0,PG-13,Comedy,Malcolm D. Lee,Kevin Hart,Kevin Hart,USA,29000000.0,27257615.0,77339130.0,103105878.0,Hartbeat Productions,111.0
+311,Rampage,6.1,138912.0,PG-13,Action,Brad Peyton,Ryan Engle,Dwayne Johnson,USA,120000000.0,35753093.0,101028233.0,428028233.0,New Line Cinema,107.0
+312,Ghostbusters: Answer the Call,6.5,200727.0,PG-13,Action,Paul Feig,Katie Dippold,Melissa McCarthy,USA,144000000.0,46018755.0,128350574.0,229147509.0,Columbia Pictures,117.0
+313,Abominable,7.0,26608.0,PG,Animation,"Jill Culton, Todd Wilderman (co-director)",Jill Culton,Chloe Bennet,China,75000000.0,20612100.0,60716390.0,179052558.0,DreamWorks Animation,97.0
+314,The Hitman's Bodyguard,6.9,181981.0,R,Action,Patrick Hughes,Tom O'Connor,Ryan Reynolds,USA,30000000.0,21384504.0,75468583.0,176600207.0,Summit Entertainment,118.0
+315,Silence,7.2,97784.0,R,Drama,Martin Scorsese,Jay Cocks,Andrew Garfield,USA,46000000.0,130880.0,7100177.0,23834809.0,SharpSword Films,161.0
+316,Sully,7.4,231518.0,PG-13,Biography,Clint Eastwood,Todd Komarnicki,Tom Hanks,USA,60000000.0,35028301.0,125070033.0,240797623.0,Flashlight Films,96.0
+317,Tolkien,6.8,30617.0,PG-13,Biography,Dome Karukoski,David Gleeson,Nicholas Hoult,USA,20000000.0,2200537.0,4535154.0,9090040.0,Fox Searchlight Pictures,112.0
+318,Under the Silver Lake,6.5,31000.0,R,Crime,David Robert Mitchell,David Robert Mitchell,Andrew Garfield,USA,8500000.0,35270.0,46083.0,2053469.0,Vendian Entertainment,139.0
+319,Anomalisa,7.3,64658.0,R,Animation,"Duke Johnson, Charlie Kaufman",Charlie Kaufman,David Thewlis,UK,8000000.0,135222.0,3759286.0,5659286.0,Paramount Animation,90.0
+320,Focus,6.6,213401.0,R,Comedy,"Glenn Ficarra, John Requa",Glenn Ficarra,Will Smith,USA,50100000.0,18685137.0,53862963.0,158762963.0,Kramer & Sigman Films,105.0
+321,Pride and Prejudice and Zombies,5.8,50435.0,PG-13,Action,Burr Steers,Burr Steers,Lily James,USA,28000000.0,5324240.0,10938134.0,16457494.0,Cross Creek Pictures,108.0
+322,Power Rangers,5.9,100301.0,PG-13,Action,Dean Israelite,John Gatins,Dacre Montgomery,USA,100000000.0,40300288.0,85364450.0,142337240.0,Lionsgate,124.0
+323,What Men Want,5.3,20732.0,R,Comedy,Adam Shankman,Tina Gordon,Taraji P. Henson,USA,20000000.0,18232087.0,54611903.0,72216294.0,BET Films,117.0
+324,The Spy Who Dumped Me,6.0,66382.0,R,Action,Susanna Fogel,Susanna Fogel,Justin Theroux,Canada,40000000.0,12103043.0,33562069.0,75339459.0,BRON Studios,117.0
+325,Truth or Dare,5.2,45846.0,PG-13,Horror,Jeff Wadlow,Michael Reisz,Lucy Hale,USA,3500000.0,18667855.0,41411015.0,95330493.0,Blumhouse Productions,100.0
+326,Countdown,5.4,22694.0,PG-13,Horror,Justin Dec,Justin Dec,Elizabeth Lail,USA,6500000.0,8865082.0,25621766.0,48021766.0,STX Films,90.0
+327,Geostorm,5.3,91445.0,PG-13,Action,Dean Devlin,Dean Devlin,Gerard Butler,USA,120000000.0,13707376.0,33700160.0,221600160.0,Warner Bros.,109.0
+328,I Still Believe,6.5,6592.0,PG,Biography,"Andrew Erwin (as The Erwin Brothers), Jon Erwin (as The Erwin Brothers)",Jeremy Camp,K.J. Apa,USA,12000000.0,9103614.0,9868521.0,15584816.0,Kevin Downes Productions,116.0
+329,Creed II,7.1,100525.0,PG-13,Drama,Steven Caple Jr.,Juel Taylor,Michael B. Jordan,USA,50000000.0,35574710.0,115715889.0,214215889.0,Metro-Goldwyn-Mayer (MGM),130.0
+330,Black Mass,6.9,165206.0,R,Biography,Scott Cooper,Mark Mallouk,Johnny Depp,USA,53000000.0,22635037.0,62575678.0,99775678.0,Cross Creek Pictures,123.0
+331,Boy Erased,6.9,29756.0,R,Biography,Joel Edgerton,Garrard Conley,Lucas Hedges,Australia,11000000.0,207057.0,6788692.0,11853081.0,Focus Features,115.0
+332,Crimson Peak,6.5,127425.0,R,Horror,Guillermo del Toro,Guillermo del Toro,Mia Wasikowska,Canada,55000000.0,13143310.0,31090320.0,74679822.0,Double Dare You (DDY),119.0
+333,12 Strong,6.6,65415.0,R,Action,Nicolai Fuglsig,Ted Tally,Chris Hemsworth,USA,35000000.0,15815025.0,45819713.0,67450815.0,Alcon Entertainment,130.0
+334,Peppermint,6.5,49903.0,R,Action,Pierre Morel,Chad St. John,Jennifer Garner,Hong Kong,25000000.0,13423255.0,35418723.0,53918723.0,STX Films,101.0
+335,Hotel Artemis,6.1,42868.0,R,Action,Drew Pearce,Drew Pearce,Jodie Foster,UK,15000000.0,3232790.0,6708147.0,13313581.0,The Ink Factory,94.0
+336,Pet Sematary,5.7,77776.0,R,Horror,"Kevin Kölsch, Dennis Widmyer",Stephen King,Jason Clarke,USA,21000000.0,24502775.0,54724696.0,113118226.0,Paramount Pictures,101.0
+337,Now You See Me 2,6.5,242316.0,PG-13,Action,Jon M. Chu,Ed Solomon,Jesse Eisenberg,France,90000000.0,22383146.0,65075540.0,334897606.0,Summit Entertainment,129.0
+338,Only the Brave,7.6,55527.0,PG-13,Action,Joseph Kosinski,Sean Flynn,Josh Brolin,USA,38000000.0,6002665.0,18343983.0,26351322.0,Columbia Pictures,134.0
+339,Stuber,6.2,38421.0,R,Action,Michael Dowse,Tripper Clancy,Dave Bautista,USA,16000000.0,8225384.0,22370452.0,32390945.0,GoldDay,93.0
+340,Ghost in the Shell,6.3,192179.0,PG-13,Action,Rupert Sanders,Shirow Masamune,Scarlett Johansson,USA,110000000.0,18676033.0,40563557.0,169801921.0,Paramount Pictures,107.0
+341,Waves,7.6,15108.0,R,Drama,Trey Edward Shults,Trey Edward Shults,Kelvin Harrison Jr.,USA,6000000.0,134333.0,1658790.0,2563252.0,BRON Studios,135.0
+342,Searching,7.6,134661.0,PG-13,Drama,Aneesh Chaganty,Aneesh Chaganty,John Cho,Russia,880000.0,388769.0,26020957.0,75462037.0,Screen Gems,102.0
+343,Pitch Perfect 2,6.4,140088.0,PG-13,Comedy,Elizabeth Banks,Kay Cannon,Anna Kendrick,USA,29000000.0,69216890.0,184296230.0,287144079.0,Brownstone Productions (II),115.0
+344,No Escape,6.8,76894.0,R,Action,John Erick Dowdle,John Erick Dowdle,Lake Bell,USA,16200000.0,8111264.0,27288872.0,54418872.0,Bold Films,103.0
+345,The Intern,7.1,214350.0,PG-13,Comedy,Nancy Meyers,Nancy Meyers,Robert De Niro,USA,35000000.0,17728313.0,75764672.0,194564672.0,Waverly Films,121.0
+346,Lights Out,6.3,112301.0,PG-13,Drama,David F. Sandberg,Eric Heisserer,Teresa Palmer,USA,4900000.0,21688103.0,67268835.0,148868835.0,New Line Cinema,81.0
+347,The Hustle,5.4,44643.0,PG-13,Comedy,Chris Addison,Stanley Shapiro,Anne Hathaway,USA,21000000.0,13007709.0,35417038.0,95058794.0,Metro-Goldwyn-Mayer (MGM),93.0
+348,The Visit,6.2,111253.0,PG-13,Horror,M. Night Shyamalan,M. Night Shyamalan,Olivia DeJonge,USA,5000000.0,25427560.0,65206105.0,98450062.0,Blinding Edge Pictures,94.0
+349,The Death of Stalin,7.2,82830.0,R,Comedy,Armando Iannucci,Armando Iannucci,Steve Buscemi,UK,13000000.0,184805.0,8047856.0,24646055.0,Quad Productions,107.0
+350,Central Intelligence,6.3,155986.0,PG-13,Action,Rawson Marshall Thurber,Ike Barinholtz,Dwayne Johnson,USA,50000000.0,35535250.0,127440871.0,216972543.0,New Line Cinema,107.0
+351,The Secret Life of Pets 2,6.5,47001.0,PG,Animation,"Chris Renaud, Jonathan del Val (co-director) (as Jonathan Del Val)",Brian Lynch,Patton Oswalt,USA,80000000.0,46652680.0,158874395.0,430051293.0,Universal Pictures,86.0
+352,The Foreigner,7.0,97166.0,R,Action,Martin Campbell,David Marconi,Katie Leung,UK,35000000.0,13113024.0,34393507.0,145418070.0,STX Entertainment,113.0
+353,Sausage Party,6.1,172701.0,R,Animation,"Greg Tiernan, Conrad Vernon",Kyle Hunter,Seth Rogen,USA,19000000.0,34263534.0,97685686.0,140705322.0,Annapurna Pictures,89.0
+354,Blockers,6.2,69434.0,R,Comedy,Kay Cannon,Brian Kehoe,Leslie Mann,USA,21000000.0,20556350.0,60311495.0,94019120.0,Point Grey Pictures,102.0
+355,Bridge of Spies,7.6,282339.0,PG-13,Drama,Steven Spielberg,Matt Charman,Tom Hanks,Germany,40000000.0,15371203.0,72313754.0,165478348.0,DreamWorks,142.0
+356,I Feel Pretty,5.5,47488.0,PG-13,Comedy,"Abby Kohn, Marc Silverstein",Abby Kohn,Amy Schumer,China,32000000.0,16030218.0,48795601.0,94539426.0,Huayi Brothers Pictures,110.0
+357,The DUFF,6.5,81841.0,PG-13,Comedy,Ari Sandel,Josh A. Cagan,Mae Whitman,USA,8500000.0,10809149.0,34030343.0,43709744.0,CBS Films,101.0
+358,Cars 3,6.7,72392.0,G,Animation,Brian Fee,Brian Fee,Owen Wilson,USA,175000000.0,53688680.0,152901115.0,383930656.0,Pixar Animation Studios,102.0
+359,White Boy Rick,6.4,25002.0,R,Crime,Yann Demange,Andy Weiss,Matthew McConaughey,USA,29000000.0,8860431.0,24011188.0,25957482.0,LBI Productions,111.0
+360,The Curse of La Llorona,5.3,35595.0,R,Horror,Michael Chaves,Mikki Daughtry,Linda Cardellini,USA,9000000.0,26347631.0,54733739.0,123133739.0,Atomic Monster,93.0
+361,Dumbo,6.3,63367.0,PG,Adventure,Tim Burton,Ehren Kruger,Colin Farrell,USA,170000000.0,45990748.0,114766307.0,353284621.0,Walt Disney Pictures,112.0
+362,It Comes at Night,6.2,81540.0,R,Horror,Trey Edward Shults,Trey Edward Shults,Joel Edgerton,USA,5000000.0,5988370.0,13985117.0,19735344.0,Animal Kingdom,91.0
+363,Assassin's Creed,5.7,182096.0,PG-13,Action,Justin Kurzel,Michael Lesslie,Michael Fassbender,USA,125000000.0,10278225.0,54647948.0,240697856.0,New Regency Productions,115.0
+364,The Great Wall,5.9,122726.0,PG-13,Action,Yimou Zhang,Carlo Bernard,Matt Damon,USA,150000000.0,18469620.0,45540830.0,334933831.0,Legendary East,103.0
+365,Tag,6.5,110137.0,R,Action,Jeff Tomsic,Rob McKittrick,Jeremy Renner,USA,28000000.0,14947396.0,54730625.0,78130625.0,Broken Road Productions,100.0
+366,Peter Rabbit,6.6,34168.0,PG,Adventure,Will Gluck,Rob Lieber,James Corden,USA,50000000.0,25010928.0,115253424.0,351266433.0,Columbia Pictures,95.0
+367,Happy Death Day,6.6,111824.0,PG-13,Horror,Christopher Landon,Scott Lobdell,Jessica Rothe,USA,4800000.0,26039025.0,55683845.0,125479266.0,Universal Pictures,96.0
+368,Cold Pursuit,6.2,54340.0,R,Action,Hans Petter Moland,Frank Baldwin,Liam Neeson,UK,60000000.0,11030233.0,32138862.0,76419755.0,Summit Entertainment,119.0
+369,Black and Blue,6.3,14188.0,R,Action,Deon Taylor,Peter A. Dowling,Naomie Harris,USA,12000000.0,8376846.0,22055313.0,22741061.0,Hidden Empire Film Group,108.0
+370,Point Break,5.3,57593.0,PG-13,Action,Ericson Core,Kurt Wimmer,Edgar Ramírez,China,105000000.0,9800252.0,28782481.0,133718711.0,Alcon Entertainment,114.0
+371,The Girl in the Spider's Web,6.1,38934.0,R,Action,Fede Alvarez,David Lagercrantz,Claire Foy,Germany,43000000.0,7810112.0,14841338.0,35164920.0,Columbia Pictures,115.0
+372,War Dogs,7.1,173114.0,R,Biography,Todd Phillips,Stephen Chin,Jonah Hill,USA,40000000.0,14685305.0,43034523.0,86234523.0,BZ Entertainment,114.0
+373,Swiss Army Man,7.0,103676.0,R,Comedy,"Dan Kwan (as Daniel Kwan), Daniel Scheinert",Daniel Scheinert,Paul Dano,USA,3000000.0,105453.0,4210454.0,4935501.0,Blackbird,97.0
+374,The Art of Racing in the Rain,7.6,22596.0,PG,Comedy,Simon Curtis,Mark Bomback,Kevin Costner,USA,18000000.0,8137584.0,26395642.0,33766787.0,Fox 2000 Pictures,109.0
+375,Shaft,6.4,42498.0,R,Action,Tim Story,Ernest Tidyman,Samuel L. Jackson,USA,35000000.0,8901419.0,21360215.0,21360215.0,Davis Entertainment,111.0
+376,Maze Runner: The Death Cure,6.2,108026.0,PG-13,Action,Wes Ball,T.S. Nowlin,"""Dylan O'Brien""",USA,62000000.0,24167011.0,58032443.0,288175335.0,Gotham Group,143.0
+377,Finding Dory,7.3,234751.0,PG,Animation,"Andrew Stanton, Angus MacLane (co-director)",Andrew Stanton,Ellen DeGeneres,USA,200000000.0,135060273.0,486295561.0,1028570889.0,Pixar Animation Studios,97.0
+378,Skyscraper,5.8,103325.0,PG-13,Action,Rawson Marshall Thurber,Rawson Marshall Thurber,Dwayne Johnson,Hong Kong,125000000.0,24905015.0,68420120.0,304868961.0,Legendary Entertainment,102.0
+379,Snowden,7.3,132849.0,R,Biography,Oliver Stone,Kieran Fitzgerald,Joseph Gordon-Levitt,UK,40000000.0,8000058.0,21587519.0,37357216.0,KrautPack Entertainment,134.0
+380,Tomorrowland,6.4,170019.0,PG,Action,Brad Bird,Damon Lindelof,George Clooney,USA,190000000.0,33028165.0,93436322.0,209035668.0,Walt Disney Pictures,130.0
+381,The Boy,6.0,78003.0,PG-13,Horror,William Brent Bell,Stacey Menear,Lauren Cohan,USA,10000000.0,10778392.0,35819556.0,73929392.0,Lakeshore Entertainment,97.0
+382,Ma,5.6,36850.0,R,Horror,Tate Taylor,Scotty Landes,Octavia Spencer,USA,5000000.0,18099805.0,45896028.0,61105744.0,Blumhouse Productions,99.0
+383,Deepwater Horizon,7.1,147742.0,PG-13,Action,Peter Berg,Matthew Michael Carnahan,Mark Wahlberg,Hong Kong,110000000.0,20223544.0,61433527.0,121790373.0,Summit Entertainment,107.0
+384,"Love, Simon",7.6,95169.0,PG-13,Comedy,Greg Berlanti,Becky Albertalli,Nick Robinson,USA,17000000.0,11756244.0,40826341.0,66316289.0,Fox 2000 Pictures,110.0
+385,Creed,7.6,242741.0,PG-13,Drama,Ryan Coogler,Ryan Coogler,Michael B. Jordan,USA,35000000.0,29632823.0,109767581.0,173567581.0,Metro-Goldwyn-Mayer (MGM),133.0
+386,Tully,7.0,51223.0,R,Comedy,Jason Reitman,Diablo Cody,Charlize Theron,USA,13000000.0,3282610.0,9369755.0,15636462.0,BRON Studios,95.0
+387,Steve Jobs,7.2,151183.0,R,Biography,Danny Boyle,Aaron Sorkin,Michael Fassbender,UK,30000000.0,521522.0,17766658.0,34441873.0,Universal Pictures,122.0
+388,The Current War,6.5,17387.0,PG-13,Biography,Alfonso Gomez-Rejon,Michael Mitnick,Benedict Cumberbatch,USA,30000000.0,2633717.0,5979540.0,12217160.0,Bazelevs Production,108.0
+389,Straight Outta Compton,7.8,176760.0,R,Biography,F. Gary Gray,Jonathan Herman,"""O'Shea Jackson Jr.""",USA,28000000.0,60200180.0,161197785.0,201634991.0,Universal Pictures,147.0
+390,Demolition,7.0,86993.0,R,Action,Jean-Marc Vallée,Bryan Sipe,Jake Gyllenhaal,USA,10000000.0,1100042.0,1978592.0,4366460.0,Black Label Media,101.0
+391,Hotel Transylvania 3: Summer Vacation,6.3,54793.0,PG,Animation,Genndy Tartakovsky,Genndy Tartakovsky,Adam Sandler,USA,80000000.0,44076225.0,167510016.0,528583774.0,Sony Pictures Animation,97.0
+392,Teenage Mutant Ninja Turtles: Out of the Shadows,6.0,83019.0,PG-13,Action,Dave Green,Josh Appelbaum,Megan Fox,USA,135000000.0,35316382.0,82051601.0,245623848.0,Paramount Pictures,112.0
+393,The Diary of a Teenage Girl,6.9,29183.0,R,Comedy,Marielle Heller,Phoebe Gloeckner,Bel Powley,USA,2000000.0,52334.0,1477002.0,1775133.0,Caviar,102.0
+394,Underworld: Blood Wars,5.8,68468.0,R,Action,Anna Foerster,Cory Goodman,Kate Beckinsale,USA,35000000.0,13688751.0,30353973.0,81093313.0,Screen Gems,91.0
+395,The Beach Bum,5.5,17519.0,R,Comedy,Harmony Korine,Harmony Korine,Matthew McConaughey,Switzerland,5000000.0,1763070.0,3502600.0,4554416.0,Iconoclast,95.0
+396,The Age of Adaline,7.2,151342.0,PG-13,Drama,Lee Toland Krieger,J. Mills Goodloe,Blake Lively,USA,25000000.0,13203458.0,42629776.0,65663276.0,Lakeshore Entertainment,112.0
+397,Battle of the Sexes,6.7,48933.0,PG-13,Biography,"Jonathan Dayton, Valerie Faris",Simon Beaufoy,Emma Stone,UK,25000000.0,518332.0,12638526.0,18598607.0,Cloud Eight Films,121.0
+398,The Boy Next Door,4.7,37478.0,R,Horror,Rob Cohen,Barbara Curry,Jennifer Lopez,USA,4000000.0,14910105.0,35423380.0,52425855.0,Universal Pictures,91.0
+399,The Brothers Grimsby,6.2,90167.0,R,Action,Louis Leterrier,Sacha Baron Cohen,Sacha Baron Cohen,UK,35000000.0,3258327.0,6874837.0,27979040.0,Blue Sky Films,83.0
+400,The Edge of Seventeen,7.3,101420.0,R,Comedy,Kelly Fremon Craig,Kelly Fremon Craig,Hailee Steinfeld,USA,9000000.0,4754215.0,14431633.0,19370020.0,Gracie Films,104.0
+401,Alpha,6.7,53307.0,PG-13,Action,Albert Hughes,Daniele Sebastian Wiedenhaupt,Kodi Smit-McPhee,USA,51000000.0,10352512.0,35857181.0,98203196.0,Studio 8,96.0
+402,Jexi,6.1,17569.0,R,Comedy,"Jon Lucas, Scott Moore",Jon Lucas,Adam Devine,USA,5000000.0,3106730.0,6546159.0,9341824.0,CBS Films,84.0
+403,Ophelia,6.6,7150.0,PG-13,Drama,Claire McCarthy,Semi Chellas,Daisy Ridley,UK,12000000.0,22145.0,50722.0,242115.0,Covert Media,114.0
+404,Annabelle: Creation,6.5,108944.0,R,Horror,David F. Sandberg,Gary Dauberman,Anthony LaPaglia,USA,15000000.0,35006404.0,102092201.0,306515884.0,Atomic Monster,109.0
+405,London Has Fallen,5.9,142196.0,R,Action,Babak Najafi,Creighton Rothenberger,Gerard Butler,UK,60000000.0,21635601.0,62524260.0,205754447.0,Millennium Films,99.0
+406,Welcome to Marwen,6.2,18329.0,PG-13,Biography,Robert Zemeckis,Robert Zemeckis,Steve Carell,Japan,39000000.0,2354205.0,10763520.0,13061491.0,Canadian Film or Video Production Tax Credit (CPTC),116.0
+407,Goosebumps 2: Haunted Halloween,5.6,16796.0,PG,Adventure,Ari Sandel,Rob Lieber,Wendi McLendon-Covey,USA,35000000.0,15802225.0,46700633.0,93320380.0,Columbia Pictures,90.0
+408,Captive State,6.0,46361.0,PG-13,Action,Rupert Wyatt,Erica Beeney,John Goodman,USA,25000000.0,3131525.0,5958315.0,8808611.0,DreamWorks,109.0
+409,Get Hard,6.0,120690.0,R,Comedy,Etan Cohen,Jay Martel,Will Ferrell,USA,40000000.0,33803253.0,90411453.0,111711453.0,Gary Sanchez Productions,100.0
+410,Assassination Nation,5.9,14231.0,R,Action,Sam Levinson,Sam Levinson,Odessa Young,USA,7000000.0,1050021.0,2005142.0,2584988.0,BRON Studios,108.0
+411,Maze Runner: The Scorch Trials,6.3,217038.0,PG-13,Action,Wes Ball,T.S. Nowlin,"""Dylan O'Brien""",USA,61000000.0,30316510.0,81697192.0,312296056.0,Gotham Group,131.0
+412,If Beale Street Could Talk,7.1,39935.0,R,Drama,Barry Jenkins,Barry Jenkins,KiKi Layne,USA,12000000.0,224476.0,14915773.0,20596567.0,Annapurna Pictures,119.0
+413,The Upside,6.9,43320.0,PG-13,Comedy,Neil Burger,Jon Hartmere,Kevin Hart,USA,37500000.0,20355000.0,108252517.0,125856180.0,Escape Artists,126.0
+414,Disobedience,6.6,24303.0,R,Drama,Sebastián Lelio,Sebastián Lelio,Rachel Weisz,Ireland,6000000.0,237393.0,3498782.0,8003180.0,Braven Films,114.0
+415,Allied,7.1,138273.0,R,Action,Robert Zemeckis,Steven Knight,Brad Pitt,UK,85000000.0,12701743.0,40098064.0,119520023.0,Paramount Pictures,124.0
+416,Ferdinand,6.7,46715.0,PG,Animation,Carlos Saldanha,Robert L. Baird,John Cena,USA,111000000.0,13401586.0,84410380.0,296069199.0,Blue Sky Studios,108.0
+417,A Ghost Story,6.9,58640.0,R,Drama,David Lowery,David Lowery,Casey Affleck,USA,100000.0,104030.0,1596371.0,1951683.0,Sailor Bear,92.0
+418,The Shallows,6.3,117956.0,PG-13,Drama,Jaume Collet-Serra,Anthony Jaswinski,Blake Lively,USA,17000000.0,16800868.0,55124043.0,119100758.0,Columbia Pictures,86.0
+419,The Lego Movie 2: The Second Part,6.6,52041.0,PG,Animation,Mike Mitchell,Phil Lord,Chris Pratt,Denmark,99000000.0,34115335.0,105806508.0,192306508.0,Warner Bros.,107.0
+420,The Longest Ride,7.1,75379.0,PG-13,Drama,George Tillman Jr.,Nicholas Sparks,Scott Eastwood,USA,34000000.0,13019686.0,37446117.0,62944815.0,Fox 2000 Pictures,123.0
+421,The Commuter,6.3,100536.0,PG-13,Action,Jaume Collet-Serra,Byron Willinger,Liam Neeson,USA,30000000.0,13701452.0,36343858.0,119942387.0,StudioCanal,104.0
+422,Paterson,7.4,67591.0,R,Comedy,Jim Jarmusch,Jim Jarmusch,Adam Driver,France,5000000.0,69335.0,2152738.0,9588282.0,K5 International,118.0
+423,Jigsaw,5.8,66548.0,R,Horror,"Michael Spierig, Peter Spierig",Josh Stolberg,Matt Passmore,Canada,10000000.0,16640452.0,38052832.0,102952888.0,Twisted Pictures,92.0
+424,Mr. Right,6.3,49383.0,R,Action,Paco Cabezas,Max Landis,Anna Kendrick,USA,8000000.0,25369.0,34694.0,607595.0,Amasia Entertainment,95.0
+425,The Lego Batman Movie,7.3,128778.0,PG,Animation,Chris McKay,Seth Grahame-Smith,Will Arnett,USA,80000000.0,53003468.0,175750384.0,311950384.0,Animal Logic,104.0
+426,The Hate U Give,7.4,29211.0,PG-13,Crime,George Tillman Jr.,Audrey Wells,Amandla Stenberg,USA,23000000.0,512035.0,29719483.0,34934009.0,Fox 2000 Pictures,133.0
+427,Kung Fu Panda 3,7.1,130588.0,PG,Animation,"Alessandro Carloni, Jennifer Yuh Nelson",Jonathan Aibel,Jack Black,China,145000000.0,41282042.0,143528619.0,521170825.0,China Film Group Corporation (CFGC),95.0
+428,47 Meters Down: Uncaged,5.0,19147.0,PG-13,Adventure,Johannes Roberts,Ernest Riera,Sophie Nélisse,UK,12000000.0,8427265.0,22260900.0,47582563.0,Entertainment Studios Motion Pictures,90.0
+429,Destroyer,6.2,23939.0,R,Action,Karyn Kusama,Phil Hay,Nicole Kidman,USA,9000000.0,55347.0,1533324.0,5580940.0,Annapurna Pictures,121.0
+430,Nerve,6.5,113304.0,PG-13,Adventure,"Henry Joost, Ariel Schulman",Jessica Sharzer,Emma Roberts,USA,19000000.0,9445456.0,38583626.0,85251425.0,Allison Shearmur Productions,96.0
+431,The Sisters Brothers,7.0,50396.0,R,Crime,Jacques Audiard,Jacques Audiard,John C. Reilly,France,38000000.0,115575.0,3143056.0,13143056.0,Why Not Productions,122.0
+432,The Snowman,5.1,57044.0,R,Crime,Tomas Alfredson,Peter Straughan,Michael Fassbender,UK,35000000.0,3372565.0,6700035.0,43155261.0,Universal Pictures,119.0
+433,Chappie,6.8,226702.0,R,Action,Neill Blomkamp,Neill Blomkamp,Sharlto Copley,South Africa,49000000.0,13346782.0,31569268.0,102811889.0,Columbia Pictures,120.0
+434,"Hail, Caesar!",6.3,122015.0,PG-13,Comedy,"Ethan Coen, Joel Coen",Joel Coen,Josh Brolin,USA,22000000.0,11355225.0,30498085.0,63647656.0,Universal Pictures,106.0
+435,Flatliners,5.2,40901.0,PG-13,Drama,Niels Arden Oplev,Peter Filardi,Ellen Page,USA,19000000.0,6574326.0,16883115.0,45158254.0,Columbia Pictures,109.0
+436,Goosebumps,6.3,78835.0,PG,Adventure,Rob Letterman,Darren Lemke,Jack Black,USA,58000000.0,23618556.0,80080379.0,158260952.0,Columbia Pictures,103.0
+437,Like a Boss,4.5,7752.0,R,Comedy,Miguel Arteta,Sam Pitman,Tiffany Haddish,USA,29000000.0,10011272.0,22169514.0,29753143.0,Artists First,83.0
+438,The 5th Wave,5.2,97887.0,PG-13,Action,J Blakeson,Susannah Grant,Chloë Grace Moretz,USA,38000000.0,10326356.0,34916787.0,109906372.0,Columbia Pictures,112.0
+439,The Bad Batch,5.3,25639.0,R,Drama,Ana Lily Amirpour,Ana Lily Amirpour,Suki Waterhouse,USA,6000000.0,89111.0,180851.0,201890.0,Human Stew Factory,118.0
+440,Isn't It Romantic,5.9,60630.0,PG-13,Comedy,Todd Strauss-Schulson,Erin Cardillo,Rebel Wilson,USA,31000000.0,14247758.0,48791187.0,48791187.0,BRON Studios,89.0
+441,Life Itself,6.8,16190.0,R,Drama,Dan Fogelman,Dan Fogelman,Oscar Isaac,USA,10000000.0,2123463.0,4102648.0,7997774.0,FilmNation Entertainment,117.0
+442,The Big Sick,7.5,118137.0,R,Comedy,Michael Showalter,Emily V. Gordon,Kumail Nanjiani,USA,5000000.0,421577.0,42873127.0,56411585.0,Apatow Productions,120.0
+443,Overboard,6.0,33390.0,PG-13,Comedy,Rob Greenberg,Bob Fisher,Eugenio Derbez,USA,12000000.0,14711101.0,50316123.0,91244913.0,Pantelion Films,112.0
+444,How to Be Single,6.1,79838.0,R,Comedy,Christian Ditter,Abby Kohn,Dakota Johnson,USA,38000000.0,17878911.0,46843513.0,112343513.0,New Line Cinema,110.0
+445,Burnt,6.6,104415.0,R,Comedy,John Wells,Steven Knight,Bradley Cooper,USA,20000000.0,5002521.0,13651946.0,36606743.0,3 Arts Entertainment,101.0
+446,Eighth Grade,7.4,59724.0,R,Comedy,Bo Burnham,Bo Burnham,Elsie Fisher,USA,2000000.0,263797.0,13539709.0,14347433.0,A24,93.0
+447,Fences,7.2,95760.0,PG-13,Drama,Denzel Washington,August Wilson,Denzel Washington,USA,24000000.0,129462.0,57682904.0,64414761.0,BRON Studios,139.0
+448,London Fields,4.3,5239.0,R,Crime,Mathew Cullen,Roberta Hanley,Amber Heard,UK,8000000.0,168575.0,252676.0,487420.0,Muse Productions,118.0
+449,Eddie the Eagle,7.4,83223.0,PG-13,Biography,Dexter Fletcher,Sean Macaulay,Taron Egerton,UK,23000000.0,6084682.0,15789389.0,46152800.0,Hurwitz Creative,106.0
+450,Unfriended: Dark Web,5.9,24644.0,R,Horror,Stephen Susco,Stephen Susco,Colin Woodell,USA,1000000.0,3653035.0,8866745.0,16024987.0,Bazelevs Production,92.0
+451,The Grinch,6.3,45468.0,PG,Animation,"Yarrow Cheney, Scott Mosier",Michael LeSieur,Benedict Cumberbatch,France,75000000.0,67572855.0,270620950.0,511595957.0,Universal Pictures,85.0
+452,Magic Mike XXL,5.6,51332.0,R,Comedy,Gregory Jacobs,Reid Carolin,Channing Tatum,USA,14800000.0,12857184.0,66013057.0,117813057.0,Warner Bros.,115.0
+453,Hardcore Henry,6.7,85119.0,R,Action,Ilya Naishuller,Ilya Naishuller,Sharlto Copley,Russia,2000000.0,5107604.0,9252038.0,16810562.0,Bazelevs Production,96.0
+454,Chips,6.0,41769.0,R,Action,Dax Shepard,Rick Rosner,Michael Peña,USA,25000000.0,7722802.0,18600152.0,26800152.0,Primate Pictures,100.0
+455,Live by Night,6.4,51191.0,R,Action,Ben Affleck,Ben Affleck,Ben Affleck,USA,108000000.0,33336.0,10378555.0,22678555.0,Appian Way,129.0
+456,Aloha,5.4,61265.0,PG-13,Comedy,Cameron Crowe,Cameron Crowe,Bradley Cooper,USA,37000000.0,9670235.0,21067116.0,26250020.0,Columbia Pictures,105.0
+457,The Boss Baby,6.3,105733.0,PG,Animation,Tom McGrath,Michael McCullers,Alec Baldwin,USA,125000000.0,50198902.0,175003033.0,527965936.0,DreamWorks Animation,97.0
+458,The Angry Birds Movie 2,6.4,19860.0,PG,Animation,"Thurop Van Orman, John Rice (co-director)",Peter Ackerman,Jason Sudeikis,Finland,65000000.0,10354073.0,41667116.0,147792047.0,Sony Pictures Animation,97.0
+459,Downsizing,5.7,96295.0,R,Drama,Alexander Payne,Alexander Payne,Matt Damon,USA,68000000.0,4954287.0,24449754.0,55003890.0,Paramount Pictures,135.0
+460,Child 44,6.5,64671.0,R,Crime,Daniel Espinosa,Richard Price,Tom Hardy,Czech Republic,50000000.0,621812.0,1224330.0,12951093.0,Summit Entertainment,137.0
+461,Minions,6.4,208519.0,PG,Animation,"Kyle Balda, Pierre Coffin",Brian Lynch,Sandra Bullock,USA,74000000.0,115718405.0,336045770.0,1159444662.0,Illumination Entertainment,91.0
+462,Secret in Their Eyes,6.3,42306.0,PG-13,Crime,Billy Ray,Billy Ray,Chiwetel Ejiofor,USA,19500000.0,6652996.0,20180155.0,34854990.0,IM Global,111.0
+463,The Beguiled,6.3,50542.0,R,Drama,Sofia Coppola,Sofia Coppola,Nicole Kidman,USA,10500000.0,229292.0,10709995.0,27869129.0,American Zoetrope,93.0
+464,"Where'd You Go, Bernadette",6.5,15385.0,PG-13,Comedy,Richard Linklater,Richard Linklater,Cate Blanchett,USA,20000000.0,3462308.0,9198356.0,10830913.0,Annapurna Pictures,109.0
+465,The Promise,6.4,167578.0,PG-13,Action,Terry George,Terry George,Oscar Isaac,Spain,90000000.0,4095718.0,8224288.0,12448676.0,Babieka,133.0
+466,Slender Man,3.2,27384.0,PG-13,Horror,Sylvain White,David Birke,Joey King,USA,10000000.0,11371866.0,30569484.0,51738549.0,Screen Gems,93.0
+467,Daddy's Home 2,6.0,59754.0,PG-13,Comedy,Sean Anders,Sean Anders,Will Ferrell,USA,69000000.0,29651193.0,104029443.0,180613180.0,Paramount Pictures,100.0
+468,Scouts Guide to the Zombie Apocalypse,6.3,44318.0,R,Action,Christopher Landon,Carrie Lee Wilson,Tye Sheridan,USA,15000000.0,1841007.0,3703046.0,16137046.0,Paramount Pictures,93.0
+469,Blinded by the Light,6.9,18358.0,PG-13,Comedy,Gurinder Chadha,Sarfraz Manzoor,Billy Barratt,UK,15000000.0,4333305.0,11901145.0,18096691.0,New Line Cinema,118.0
+470,The Best of Enemies,7.2,8535.0,PG-13,Biography,Robin Bissell,Robin Bissell,Taraji P. Henson,USA,10000000.0,4446190.0,10205616.0,10209813.0,Astute Films,133.0
+471,Dirty Grandpa,5.9,111264.0,R,Comedy,Dan Mazer,John Phillips,Robert De Niro,USA,25000000.0,11111875.0,35593113.0,94073028.0,Lionsgate,102.0
+472,The Last Witch Hunter,6.0,93383.0,PG-13,Action,Breck Eisner,Cory Goodman,Vin Diesel,USA,90000000.0,10812861.0,27367660.0,146936910.0,Summit Entertainment,106.0
+473,Neighbors 2: Sorority Rising,5.7,111681.0,R,Comedy,Nicholas Stoller,Andrew Jay Cohen,Seth Rogen,USA,35000000.0,21760405.0,55455765.0,108007109.0,Universal Pictures,92.0
+474,The Emoji Movie,3.3,54506.0,PG,Animation,Tony Leondis,Tony Leondis,T.J. Miller,USA,50000000.0,24531923.0,86089513.0,217776646.0,Columbia Pictures,86.0
+475,The Infiltrator,7.0,66800.0,R,Biography,Brad Furman,Ellen Furman,Bryan Cranston,UK,28000000.0,5303775.0,15436808.0,21011110.0,George Films,127.0
+476,Joy,6.6,125989.0,PG-13,Biography,David O. Russell,David O. Russell,Jennifer Lawrence,USA,60000000.0,17015168.0,56451232.0,101134059.0,Fox 2000 Pictures,124.0
+477,The House with a Clock in Its Walls,6.0,43511.0,PG,Comedy,Eli Roth,John Bellairs,Jack Black,USA,42000000.0,26608020.0,68549695.0,131457147.0,DreamWorks,105.0
+478,Trainwreck,6.2,128028.0,R,Comedy,Judd Apatow,Amy Schumer,Amy Schumer,USA,35000000.0,30097040.0,110212700.0,140795793.0,Universal Pictures,125.0
+479,Pixels,5.5,129453.0,PG-13,Action,Chris Columbus,Tim Herlihy,Adam Sandler,USA,88000000.0,24011616.0,78747585.0,244874809.0,Columbia Pictures,105.0
+480,Collateral Beauty,6.8,89423.0,PG-13,Drama,David Frankel,Allan Loeb,Will Smith,USA,36000000.0,7102085.0,31016021.0,88528280.0,New Line Cinema,97.0
+481,The First Purge,5.2,52936.0,R,Action,Gerard McMurray,James DeMonaco,"""Y'lan Noel""",USA,13000000.0,17374280.0,69488745.0,137056262.0,Blumhouse Productions,97.0
+482,The Possession of Hannah Grace,5.2,17475.0,R,Horror,Diederik Van Rooijen,Brian Sieve,Shay Mitchell,USA,7700000.0,6401744.0,14837422.0,43016528.0,Screen Gems,86.0
+483,Daddy's Home,6.2,106081.0,PG-13,Comedy,Sean Anders,Brian Burns,Will Ferrell,USA,50000000.0,38740203.0,150357137.0,242786137.0,Paramount Pictures,96.0
+484,Holmes & Watson,3.8,28986.0,PG-13,Comedy,Etan Cohen,Etan Cohen,Will Ferrell,USA,42000000.0,7411522.0,30573626.0,40466970.0,Columbia Pictures,90.0
+485,Late Night,6.5,26669.0,R,Comedy,Nisha Ganatra,Mindy Kaling,Emma Thompson,USA,4000000.0,246305.0,15499454.0,22386555.0,3 Arts Entertainment,102.0
+486,Despicable Me 3,6.3,109638.0,PG,Animation,,Cinco Paul,Steve Carell,USA,80000000.0,72434025.0,264624300.0,1034800131.0,Illumination Entertainment,89.0
+487,Operation Finale,6.6,30209.0,PG-13,Biography,Chris Weitz,Matthew Orton,Oscar Isaac,USA,24000000.0,6022758.0,17612099.0,17612099.0,Metro-Goldwyn-Mayer (MGM),122.0
+488,Mike and Dave Need Wedding Dates,6.0,81023.0,R,Comedy,Jake Szymanski,Andrew Jay Cohen,Zac Efron,USA,33000000.0,16628170.0,46009673.0,77068246.0,Twentieth Century Fox,98.0
+489,Colossal,6.2,57683.0,R,Comedy,Nacho Vigalondo,Nacho Vigalondo,Anne Hathaway,Canada,15000000.0,120226.0,3029287.0,4531320.0,Toy Fight Productions,109.0
+490,The Nutcracker and the Four Realms,5.5,27064.0,PG,Adventure,"Lasse Hallström, Joe Johnston",Ashleigh Powell,Mackenzie Foy,USA,120000000.0,20352491.0,54858851.0,173961069.0,Walt Disney Pictures,99.0
+491,Ouija: Origin of Evil,6.1,52609.0,PG-13,Drama,Mike Flanagan,Mike Flanagan,Elizabeth Reaser,USA,9000000.0,14065500.0,35144505.0,81705746.0,Allspark Pictures,99.0
+492,Don't Let Go,6.2,5021.0,R,Drama,Jacob Estes,Jacob Estes,David Oyelowo,USA,5000000.0,2338669.0,5215062.0,5288011.0,Blumhouse Productions,103.0
+493,The Strangers: Prey at Night,5.2,26159.0,R,Horror,Johannes Roberts,Bryan Bertino,Christina Hendricks,USA,5000000.0,10402271.0,24586708.0,31039126.0,Aviron Pictures,85.0
+494,A Wrinkle in Time,4.2,40153.0,PG,Adventure,Ava DuVernay,Jennifer Lee,Storm Reid,USA,100000000.0,33123609.0,100478608.0,132675864.0,Legend3D,109.0
+495,Resident Evil: The Final Chapter,5.5,82172.0,R,Action,Paul W.S. Anderson,Paul W.S. Anderson,Milla Jovovich,USA,40000000.0,13601682.0,26830068.0,312242626.0,Screen Gems,107.0
+496,The Good Dinosaur,6.7,99772.0,PG,Animation,Peter Sohn,Bob Peterson,Jeffrey Wright,USA,200000000.0,39155217.0,123087120.0,332207671.0,Pixar Animation Studios,93.0
+497,The Finest Hours,6.8,60704.0,PG-13,Action,Craig Gillespie,Scott Silver,Chris Pine,USA,80000000.0,10288932.0,27569558.0,52099090.0,Walt Disney Pictures,117.0
+498,Pete's Dragon,6.7,53157.0,PG,Action,David Lowery,David Lowery,Bryce Dallas Howard,USA,65000000.0,21514095.0,76233151.0,143695338.0,Walt Disney Pictures,102.0
+499,Crown Vic,6.4,3280.0,R,Action,Joel Souza,Joel Souza,Bridget Moynahan,USA,3600000.0,2468.0,3868.0,3868.0,Brittany House Pictures,110.0
+500,Kubo and the Two Strings,7.8,115622.0,PG,Animation,Travis Knight,Marc Haimes,Charlize Theron,USA,60000000.0,12608372.0,48023088.0,76249438.0,Focus Features,101.0
+501,Brahms: The Boy II,4.6,9188.0,PG-13,Drama,William Brent Bell,Stacey Menear,Katie Holmes,USA,10000000.0,5823006.0,12611536.0,20311536.0,STX Films,86.0
+502,Book Club,6.1,24586.0,PG-13,Comedy,Bill Holderman,Bill Holderman,Diane Keaton,USA,10000000.0,13582231.0,68566296.0,104438188.0,Apartment Story,104.0
+503,Happy Death Day 2U,6.2,53488.0,PG-13,Comedy,Christopher Landon,Christopher Landon,Jessica Rothe,USA,9000000.0,9497665.0,28148130.0,64600152.0,Blumhouse Productions,100.0
+504,The Space Between Us,6.4,47046.0,PG-13,Drama,Peter Chelsom,Allan Loeb,Gary Oldman,USA,30000000.0,3775596.0,7885294.0,16080475.0,Los Angeles Media Fund (LAMF),120.0
+505,The Glass Castle,7.1,28642.0,PG-13,Biography,Destin Daniel Cretton,Destin Daniel Cretton,Brie Larson,USA,9000000.0,4678548.0,17273059.0,22088533.0,Lionsgate,127.0
+506,The Belko Experiment,6.1,42948.0,R,Horror,Greg McLean,James Gunn,John Gallagher Jr.,USA,5000000.0,4137230.0,10166820.0,11084630.0,Orion Pictures,89.0
+507,The Light Between Oceans,7.2,50909.0,PG-13,Drama,Derek Cianfrance,Derek Cianfrance,Michael Fassbender,UK,20000000.0,4765838.0,12545979.0,25975621.0,Heyday Films,133.0
+508,Rough Night,5.2,45903.0,R,Comedy,Lucia Aniello,Lucia Aniello,Scarlett Johansson,USA,20000000.0,8004283.0,22105643.0,47347283.0,Paulilu Productions,101.0
+509,Detroit,7.3,46744.0,R,Crime,Kathryn Bigelow,Mark Boal,John Boyega,USA,34000000.0,350190.0,16790139.0,23355100.0,Annapurna Pictures,143.0
+510,Triple 9,6.3,64566.0,R,Action,John Hillcoat,Matt Cook,Casey Affleck,USA,20000000.0,6109085.0,12639297.0,23177948.0,Worldview Entertainment,115.0
+511,The Shack,6.3,29702.0,PG-13,Drama,Stuart Hazeldine,John Fusco,Sam Worthington,USA,20000000.0,16172119.0,57386418.0,96942115.0,Summit Entertainment,132.0
+512,Winchester,5.4,29496.0,PG-13,Biography,"Michael Spierig (as The Spierig Brothers), Peter Spierig (as The Spierig Brothers)",Tom Vaughan,Helen Mirren,Australia,3500000.0,9307626.0,25091816.0,44019588.0,CBS Films,99.0
+513,Everybody Wants Some!!,6.9,51129.0,R,Comedy,Richard Linklater,Richard Linklater,Blake Jenner,USA,10000000.0,312355.0,3400278.0,4644472.0,Annapurna Pictures,117.0
+514,Before I Fall,6.4,44926.0,PG-13,Drama,Ry Russo-Young,Maria Maggenti,Zoey Deutch,USA,5000000.0,4690214.0,12241122.0,16373843.0,Awesomeness Films,98.0
+515,Life of the Party,5.6,32232.0,PG-13,Comedy,Ben Falcone,Melissa McCarthy,Melissa McCarthy,USA,30000000.0,17886075.0,53059911.0,65859911.0,New Line Cinema,105.0
+516,The BFG,6.4,75893.0,PG,Adventure,Steven Spielberg,Melissa Mathison,Mark Rylance,USA,140000000.0,18775350.0,55483770.0,195243411.0,Walt Disney Pictures,117.0
+517,Miss Sloane,7.5,62151.0,R,Drama,John Madden,Jonathan Perera,Jessica Chastain,France,13000000.0,59797.0,3500605.0,9797405.0,EuropaCorp,132.0
+518,Concussion,7.1,85031.0,PG-13,Biography,Peter Landesman,Peter Landesman,Will Smith,UK,35000000.0,10513749.0,34542474.0,48623572.0,LStar Capital,123.0
+519,A Dog's Purpose,7.2,63858.0,PG,Adventure,Lasse Hallström,W. Bruce Cameron,Josh Gad,USA,22000000.0,18222810.0,64508620.0,205736628.0,DreamWorks,100.0
+520,Entourage,6.6,75199.0,R,Comedy,Doug Ellin,Doug Ellin,Adrian Grenier,USA,30000000.0,10283250.0,32363404.0,49263404.0,Warner Bros.,104.0
+521,Wendy,5.7,1527.0,PG-13,Drama,Benh Zeitlin,Benh Zeitlin,Devin France,USA,6000000.0,26214.0,143518.0,144564.0,Fox Searchlight Pictures,111.0
+522,Unsane,6.4,39199.0,R,Drama,Steven Soderbergh,Jonathan Bernstein,Claire Foy,USA,1500000.0,3762145.0,7732899.0,14293601.0,Fingerprint Releasing,98.0
+523,Self/less,6.5,88100.0,PG-13,Action,Tarsem Singh,Àlex Pastor,Ryan Reynolds,USA,26000000.0,5403460.0,12279691.0,31807156.0,Gramercy Pictures (I),117.0
+524,Beasts of No Nation,7.7,72078.0,Not Rated,Drama,Cary Joji Fukunaga,Cary Joji Fukunaga,Abraham Attah,USA,6000000.0,51003.0,90777.0,90777.0,Red Crown Productions,137.0
+525,Café Society,6.6,69391.0,PG-13,Comedy,Woody Allen,Woody Allen,Jesse Eisenberg,USA,30000000.0,359289.0,11103205.0,43763247.0,Gravier Productions,96.0
+526,UglyDolls,5.0,5387.0,PG,Animation,Kelly Asbury,Alison Peck,Kelly Clarkson,China,45000000.0,8603407.0,20150241.0,32450241.0,STX Entertainment,87.0
+527,Ice Age: Collision Course,5.7,55333.0,PG,Animation,"Mike Thurmeier (as Michael Thurmeier), Galen T. Chu (co-director) (as Galen Tan Chu)",Michael J. Wilson,Ray Romano,USA,105000000.0,21373064.0,64063008.0,408579038.0,Blue Sky Studios,94.0
+528,Sinister 2,5.3,47157.0,R,Horror,Ciarán Foy,Scott Derrickson,James Ransone,USA,10000000.0,10542116.0,27740955.0,53329150.0,Entertainment One,97.0
+529,Me and Earl and the Dying Girl,7.7,121060.0,PG-13,Comedy,Alfonso Gomez-Rejon,Jesse Andrews,Thomas Mann,USA,8000000.0,196496.0,6758416.0,9074749.0,Fox Searchlight Pictures,105.0
+530,Heist,6.1,27365.0,R,Action,Scott Mann,S. Cyrus Sepher,Robert De Niro,USA,8900000.0,28688.0,50136.0,3777046.0,Hannibal Classics,93.0
+531,Smurfs: The Lost Village,6.0,17940.0,PG,Animation,Kelly Asbury,Stacey Harman,Demi Lovato,USA,60000000.0,13210449.0,45020282.0,197183546.0,Columbia Pictures,90.0
+532,Insidious: The Last Key,5.7,50684.0,PG-13,Horror,Adam Robitel,Leigh Whannell,Lin Shaye,USA,10000000.0,29581355.0,67745330.0,167885588.0,Blumhouse Productions,103.0
+533,Can You Ever Forgive Me?,7.1,45041.0,R,Biography,Marielle Heller,Nicole Holofcener,Melissa McCarthy,USA,10000000.0,161510.0,8803865.0,12442161.0,Archer Gray,106.0
+534,Miss Bala,5.8,7672.0,PG-13,Action,Catherine Hardwicke,Gareth Dunnet-Alcocer,Gina Rodriguez,Mexico,15000000.0,6864744.0,15006824.0,15383580.0,Canana Films,104.0
+535,Trumbo,7.5,75089.0,R,Biography,Jay Roach,John McNamara,Bryan Cranston,USA,15000000.0,74177.0,7857741.0,11430025.0,Bleecker Street Films,124.0
+536,Ted 2,6.3,181099.0,R,Comedy,Seth MacFarlane,Seth MacFarlane,Mark Wahlberg,USA,68000000.0,33507870.0,81476385.0,215863606.0,Universal Pictures,115.0
+537,Smallfoot,6.6,32295.0,PG,Animation,"Karey Kirkpatrick, Jason Reisig (co-director)",Karey Kirkpatrick,Channing Tatum,USA,80000000.0,23045635.0,83240103.0,214040103.0,Warner Animation Group,96.0
+538,Midnight Sun,6.6,22063.0,PG-13,Drama,Scott Speer,Kenji Bando,Bella Thorne,USA,2800000.0,4003993.0,9561064.0,27365467.0,Boies / Schiller Film Group,91.0
+539,A Dog's Journey,7.5,17242.0,PG,Adventure,Gail Mancuso,W. Bruce Cameron,Josh Gad,China,16000000.0,8030085.0,22782371.0,75727748.0,DreamWorks,109.0
+540,A Bad Moms Christmas,5.6,40334.0,R,Comedy,"Jon Lucas, Scott Moore",Jon Lucas,Mila Kunis,USA,28000000.0,16759161.0,72110659.0,130560428.0,Huayi Brothers Media,104.0
+541,20th Century Women,7.3,38986.0,R,Comedy,Mike Mills,Mike Mills,Annette Bening,USA,7000000.0,111200.0,5664764.0,7214806.0,A24,119.0
+542,Why Him?,6.2,98872.0,R,Comedy,John Hamburg,John Hamburg,Zoey Deutch,USA,38000000.0,11002986.0,60323786.0,118102725.0,Twentieth Century Fox,111.0
+543,The Intruder,5.6,12373.0,PG-13,Drama,Deon Taylor,David Loughery,Michael Ealy,USA,8000000.0,10855054.0,35419122.0,36599361.0,Screen Gems,102.0
+544,Hitman: Agent 47,5.7,84449.0,R,Action,Aleksander Bach,Skip Woods,Rupert Friend,USA,35000000.0,8326530.0,22467450.0,82347656.0,Twentieth Century Fox,96.0
+545,Action Point,5.1,9698.0,R,Comedy,Tim Kirkby,John Altschuler,Johnny Knoxville,USA,19000000.0,2390164.0,5059608.0,5103663.0,Paramount Pictures,85.0
+546,The Walk,7.3,117912.0,PG,Action,Robert Zemeckis,Robert Zemeckis,Joseph Gordon-Levitt,USA,35000000.0,1560299.0,10137502.0,61181942.0,Sony Pictures Entertainment (SPE),123.0
+547,Macbeth,6.6,52155.0,R,Drama,Justin Kurzel,Todd Louiso,Michael Fassbender,UK,15000000.0,69833.0,1110707.0,16322067.0,See-Saw Films,113.0
+548,Stronger,6.9,39324.0,R,Biography,David Gordon Green,John Pollono,Jake Gyllenhaal,USA,30000000.0,1611040.0,4211129.0,8503658.0,Lionsgate,119.0
+549,Morgan,5.8,38521.0,R,Action,Luke Scott,Seth W. Owen,Kate Mara,USA,8000000.0,2012709.0,3915251.0,8809407.0,Burk A Project,92.0
+550,Thoroughbreds,6.7,32853.0,R,Comedy,Cory Finley,Cory Finley,Olivia Cooke,USA,6000000.0,1224430.0,3072605.0,3187255.0,B Story,92.0
+551,American Ultra,6.1,83347.0,R,Action,Nima Nourizadeh,Max Landis,Jesse Eisenberg,USA,28000000.0,5454284.0,14440985.0,27262374.0,PalmStar Media,96.0
+552,Bridget Jones's Baby,6.5,66800.0,R,Comedy,Sharon Maguire,Helen Fielding,Renée Zellweger,USA,35000000.0,8571785.0,24252420.0,211952420.0,Universal Pictures,123.0
+553,The Purge: Election Year,6.0,88159.0,R,Action,James DeMonaco,James DeMonaco,Frank Grillo,USA,10000000.0,31515110.0,79213375.0,118587880.0,Universal Pictures,108.0
+554,Mechanic: Resurrection,5.7,74746.0,R,Action,Dennis Gansel,Lewis John Carlino,Jason Statham,USA,40000000.0,7456525.0,21218403.0,125729635.0,Summit Entertainment,98.0
+555,Zoolander 2,4.7,63825.0,PG-13,Action,Ben Stiller,Justin Theroux,Ben Stiller,USA,50000000.0,13841146.0,28848693.0,56722693.0,Panorama Films,101.0
+556,A Monster Calls,7.5,79027.0,PG-13,Adventure,J.A. Bayona,Patrick Ness,Lewis MacDougall,UK,43000000.0,30909.0,3740823.0,47309313.0,Participant,108.0
+557,Gold,6.7,55812.0,R,Crime,Stephen Gaghan,Patrick Massett,Matthew McConaughey,USA,20000000.0,3471316.0,7227038.0,14880939.0,Black Bear Pictures,120.0
+558,Paper Towns,6.3,93779.0,PG-13,Comedy,Jake Schreier,Scott Neustadter,Nat Wolff,USA,12000000.0,12650140.0,32000304.0,85512300.0,Fox 2000 Pictures,109.0
+559,Popstar: Never Stop Never Stopping,6.7,53438.0,R,Comedy,"Akiva Schaffer, Jorma Taccone",Andy Samberg,Andy Samberg,USA,20000000.0,4698715.0,9639125.0,9680029.0,Universal Pictures,87.0
+560,Going in Style,6.6,75122.0,PG-13,Comedy,Zach Braff,Theodore Melfi,Michael Caine,USA,25000000.0,11932330.0,45018541.0,84918541.0,De Line Pictures,96.0
+561,The Darkest Minds,5.7,27388.0,PG-13,Action,Jennifer Yuh Nelson,Chad Hodge,Amandla Stenberg,USA,34000000.0,5842609.0,12695691.0,41142379.0,21 Laps Entertainment,104.0
+562,The Bronze,6.1,9727.0,R,Comedy,Bryan Buckley,Melissa Rauch,Melissa Rauch,USA,3500000.0,386328.0,615816.0,615816.0,Duplass Brothers Productions,100.0
+563,Hotel Transylvania 2,6.7,104303.0,PG,Animation,Genndy Tartakovsky,Robert Smigel,Adam Sandler,USA,80000000.0,48464322.0,169700110.0,474800000.0,Columbia Pictures,89.0
+564,The Kid,5.9,6336.0,R,Biography,Vincent D'Onofrio,Vincent D'Onofrio,Jake Schur,USA,8000000.0,514286.0,1508593.0,1553483.0,Mimran Schur Pictures,100.0
+565,Insidious: Chapter 3,6.1,91325.0,PG-13,Horror,Leigh Whannell,Leigh Whannell,Dermot Mulroney,Canada,10000000.0,22692741.0,52218558.0,112983889.0,Gramercy Pictures (I),97.0
+566,Tulip Fever,6.2,17968.0,R,Drama,Justin Chadwick,Deborah Moggach,Alicia Vikander,UK,25000000.0,1158017.0,2455635.0,9204549.0,Worldview Entertainment,105.0
+567,Keeping Up with the Joneses,5.9,56394.0,PG-13,Action,Greg Mottola,Michael LeSieur,Zach Galifianakis,USA,40000000.0,5461475.0,14904426.0,29918745.0,Fox 2000 Pictures,105.0
+568,Second Act,5.8,21262.0,PG-13,Comedy,Peter Segal,Justin Zackham,Jennifer Lopez,USA,16000000.0,6489983.0,39282227.0,72294066.0,Nuyorican Productions,103.0
+569,The Happytime Murders,5.4,23378.0,R,Action,Brian Henson,Todd Berger,Melissa McCarthy,USA,40000000.0,9532425.0,20706452.0,27506452.0,STX Entertainment,91.0
+570,Girls Trip,6.2,33631.0,R,Adventure,Malcolm D. Lee,Erica Rivinoja,Regina Hall,USA,19000000.0,31201920.0,115171585.0,140552359.0,Perfect World Pictures,122.0
+571,Extraction,4.1,9951.0,R,Action,Steven C. Miller,Umair Aleem,Bruce Willis,USA,12000000.0,10948.0,16775.0,710636.0,Emmett/Furla/Oasis Films (EFO Films),92.0
+572,By the Sea,5.3,18229.0,R,Drama,Angelina Jolie (as Angelina Jolie Pitt),Angelina Jolie,Brad Pitt,France,10000000.0,96250.0,538460.0,3334927.0,Universal Pictures,122.0
+573,Mortdecai,5.5,65990.0,R,Action,David Koepp,Eric Aronson,Johnny Depp,UK,60000000.0,4200586.0,7696134.0,47275695.0,MWM Studios,107.0
+574,Jackie,6.7,71784.0,R,Biography,Pablo Larraín,Noah Oppenheim,Natalie Portman,USA,9000000.0,278715.0,13960394.0,24270399.0,Fox Searchlight Pictures,100.0
+575,Blackhat,5.4,51364.0,R,Action,Michael Mann,Morgan Davis Foehl,Chris Hemsworth,USA,70000000.0,3901815.0,8005980.0,19652057.0,Forward Pass,133.0
+576,Triple Threat,5.6,9064.0,R,Action,Jesse V. Johnson,Joey O'Bryan,Tony Jaa,Thailand,10000000.0,5936.0,76289.0,345900.0,Aurora Alliance Films,96.0
+577,Forever My Girl,6.7,14020.0,PG,Drama,Bethany Ashton Wolf,Bethany Ashton Wolf,Alex Roe,USA,3500000.0,4245630.0,16376066.0,16376066.0,LD Entertainment,108.0
+578,Home,6.6,90560.0,PG,Animation,Tim Johnson,Tom J. Astle,Jim Parsons,USA,135000000.0,52107731.0,177397510.0,386041607.0,DreamWorks Animation,94.0
+579,Impractical Jokers: The Movie,5.9,4320.0,PG-13,Comedy,Chris Henchy,Chris Henchy,Paula Abdul,USA,3000000.0,2607049.0,10691091.0,10691091.0,Funny or Die,92.0
+580,The Gunman,5.8,38391.0,R,Action,Pierre Morel,Jean-Patrick Manchette,Sean Penn,USA,40000000.0,5028702.0,10664749.0,24177137.0,Open Road Films (II),115.0
+581,Suburbicon,5.7,39291.0,R,Comedy,George Clooney,Joel Coen,Matt Damon,UK,25000000.0,2840246.0,5775178.0,12751667.0,Black Bear Pictures,105.0
+582,Victor Frankenstein,6.0,51416.0,PG-13,Drama,Paul McGuigan,Max Landis,Daniel Radcliffe,UK,65000000.0,2469341.0,5775076.0,34227298.0,Davis Entertainment,110.0
+583,Wonder Wheel,6.2,24281.0,PG-13,Drama,Woody Allen,Woody Allen,Justin Timberlake,USA,25000000.0,125570.0,1404061.0,15889124.0,Amazon Studios,101.0
+584,Breakthrough,6.2,7834.0,PG,Biography,Roxann Dawson,Joyce Smith,Marcel Ruiz,USA,14000000.0,11282333.0,40713082.0,50444358.0,Fox 2000 Pictures,116.0
+585,Office Christmas Party,5.8,66549.0,R,Comedy,"Josh Gordon, Will Speck",Jon Lucas,Jason Bateman,USA,45000000.0,16890204.0,54767494.0,114501299.0,DreamWorks,105.0
+586,Wonder Park,5.8,9446.0,PG,Animation,Dylan Brown (uncredited),Josh Appelbaum,Sofia Mali,Spain,90000000.0,15853646.0,45216793.0,119559110.0,Paramount Animation,85.0
+587,Masterminds,5.8,49538.0,PG-13,Biography,Jared Hess,Chris Bowman,Zach Galifianakis,USA,25000000.0,6541205.0,17368022.0,29674699.0,Broadway Video,95.0
+588,Missing Link,6.7,20436.0,PG,Animation,Chris Butler,Chris Butler,Hugh Jackman,Canada,100000000.0,5944950.0,16649539.0,26427313.0,Annapurna Pictures,93.0
+589,The Kid Who Would Be King,6.0,14153.0,PG,Action,Joe Cornish,Joe Cornish,Louis Ashbourne Serkis,UK,59000000.0,7173887.0,16790790.0,32140970.0,Big Talk Productions,120.0
+590,The Zookeeper's Wife,7.0,37659.0,PG-13,Biography,Niki Caro,Angela Workman,Jessica Chastain,Czech Republic,20000000.0,3288835.0,17571660.0,26152835.0,Scion Films,127.0
+591,Gotti,4.8,13322.0,R,Biography,Kevin Connolly,Leo Rossi,John Travolta,Canada,10000000.0,1719902.0,4343227.0,6412349.0,Emmett/Furla/Oasis Films (EFO Films),112.0
+592,Home Again,5.8,27265.0,PG-13,Comedy,Hallie Meyers-Shyer,Hallie Meyers-Shyer,Reese Witherspoon,USA,12000000.0,8567881.0,27020284.0,37270721.0,Black Bicycle Entertainment,97.0
+593,The Prodigy,5.8,22263.0,R,Horror,Nicholas McCarthy,Jeff Buhler,Taylor Schilling,USA,6000000.0,5853061.0,14856291.0,21150265.0,Orion Pictures,92.0
+594,The Ottoman Lieutenant,6.6,24167.0,R,Drama,Joseph Ruben,Jeff Stockwell,Michiel Huisman,Turkey,40000000.0,149830.0,240978.0,413844.0,ES Film,106.0
+595,I Saw the Light,5.8,6210.0,R,Biography,Marc Abraham,Marc Abraham,Tom Hiddleston,USA,13000000.0,45471.0,1646788.0,1767963.0,BRON Studios,123.0
+596,"Roman J. Israel, Esq.",6.5,31262.0,PG-13,Crime,Dan Gilroy,Dan Gilroy,Denzel Washington,Canada,22000000.0,61999.0,11962778.0,13025860.0,BRON Studios,122.0
+597,Rules Don't Apply,5.7,9438.0,PG-13,Comedy,Warren Beatty,Warren Beatty,Lily Collins,USA,25000000.0,1589625.0,3652206.0,3885342.0,New Regency Productions,127.0
+598,Victoria & Abdul,6.8,31067.0,PG-13,Biography,Stephen Frears,Lee Hall,Judi Dench,UK,21000000.0,158845.0,22245070.0,66558465.0,BBC Films,111.0
+599,Thank You for Your Service,6.5,11874.0,R,Biography,Jason Hall,David Finkel,Miles Teller,USA,20000000.0,3817700.0,9536300.0,9995692.0,DreamWorks,109.0
+600,Mr. Holmes,6.9,60756.0,PG,Drama,Bill Condon,Mitch Cullin,Ian McKellen,UK,11000000.0,2434908.0,17737646.0,29355203.0,Miramax,104.0
+601,Run All Night,6.6,100272.0,R,Action,Jaume Collet-Serra,Brad Ingelsby,Liam Neeson,USA,50000000.0,11012305.0,26461644.0,71561644.0,Warner Bros.,114.0
+602,Stan & Ollie,7.2,30634.0,PG,Biography,Jon S. Baird,Jeff Pope,Steve Coogan,UK,10000000.0,78104.0,5470235.0,24420923.0,Entertainment One,98.0
+603,Free State of Jones,6.9,50202.0,R,Action,Gary Ross,Gary Ross,Matthew McConaughey,USA,50000000.0,7572206.0,20810036.0,25035950.0,Route One Entertainment,139.0
+604,Angry Birds,6.3,78692.0,PG,Animation,"Clay Kaytis, Fergal Reilly",Jon Vitti,Jason Sudeikis,Finland,73000000.0,38155177.0,107509366.0,352333929.0,Columbia Pictures,97.0
+605,Black Christmas,3.2,8823.0,PG-13,Horror,Sophia Takal,Sophia Takal,Imogen Poots,USA,5000000.0,4240245.0,10429730.0,18529730.0,Universal Pictures,92.0
+606,Mother's Day,5.7,32172.0,PG-13,Comedy,Garry Marshall,Anya Kochoff,Jennifer Aniston,USA,25000000.0,8369184.0,32492859.0,48782670.0,Open Road Films (II),118.0
+607,Dope,7.2,79982.0,R,Comedy,Rick Famuyiwa,Rick Famuyiwa,Shameik Moore,USA,7000000.0,6100010.0,17506470.0,17986781.0,i am OTHER,103.0
+608,Krampus,6.1,60463.0,PG-13,Comedy,Michael Dougherty,Todd Casey,Adam Scott,USA,15000000.0,16293325.0,42725475.0,61548707.0,Legendary Entertainment,98.0
+609,Loving,7.0,30912.0,PG-13,Biography,Jeff Nichols,Jeff Nichols,Ruth Negga,UK,9000000.0,159615.0,7751969.0,12957265.0,Raindog Films,123.0
+610,The Hollars,6.5,11266.0,PG-13,Comedy,John Krasinski,Jim Strouse,Sharlto Copley,USA,3800000.0,38210.0,1016985.0,1138609.0,Sycamore Pictures,88.0
+611,The Bye Bye Man,4.2,21233.0,PG-13,Drama,Stacy Title,Jonathan Penner,Douglas Smith,USA,7400000.0,13501349.0,22395806.0,29874280.0,Huayi Brothers Media,96.0
+612,"McFarland, USA",7.4,34801.0,PG,Biography,Niki Caro,Christopher Cleveland,Kevin Costner,USA,17000000.0,11020798.0,44482410.0,45710059.0,Mayhem Pictures,129.0
+613,Freeheld,6.6,11518.0,PG-13,Biography,Peter Sollett,Ron Nyswaner,Julianne Moore,USA,7000000.0,37983.0,573335.0,1474471.0,Double Feature Films,103.0
+614,The House,5.6,39849.0,R,Comedy,Andrew Jay Cohen,Brendan O'Brien,Will Ferrell,USA,40000000.0,8724795.0,25584504.0,34184504.0,Gary Sanchez Productions,88.0
+615,The SpongeBob Movie: Sponge Out of Water,6.0,47752.0,PG,Animation,"Paul Tibbitt, Mike Mitchell",Jonathan Aibel,Tom Kenny,USA,74000000.0,55365012.0,162994032.0,325186032.0,Paramount Animation,92.0
+616,Blair Witch,5.0,40423.0,R,Horror,Adam Wingard,Simon Barrett,James Allen McCune,Canada,5000000.0,9576057.0,20777061.0,45173154.0,Lionsgate,89.0
+617,The Man Who Knew Infinity,7.2,49852.0,PG-13,Biography,Matt Brown (as Matthew Brown),Matt Brown,Dev Patel,UK,10000000.0,80325.0,3866794.0,12252684.0,Edward R. Pressman Film,108.0
+618,Wish Upon,5.0,17850.0,PG-13,Drama,John R. Leonetti,Barbara Marshall,Joey King,USA,12000000.0,5467084.0,14301505.0,23468586.0,Broad Green Pictures,90.0
+619,Irrational Man,6.6,57409.0,R,Comedy,Woody Allen,Woody Allen,Joaquin Phoenix,USA,11000000.0,175312.0,4030360.0,27391084.0,Gravier Productions,95.0
+620,I Can Only Imagine,7.3,13788.0,PG,Biography,"Andrew Erwin (as The Erwin Brothers), Jon Erwin (as The Erwin Brothers)",Bart Millard,J. Michael Finley,USA,7000000.0,17108914.0,83482352.0,86086881.0,Kevin Downes Productions,110.0
+621,Miracles from Heaven,7.1,20871.0,PG,Biography,Patricia Riggen,Christy Beam,Jennifer Garner,USA,13000000.0,14812393.0,61705123.0,73983003.0,Columbia Pictures,109.0
+622,The 15:17 to Paris,5.2,28054.0,PG-13,Biography,Clint Eastwood,Dorothy Blyskal,Alek Skarlatos,USA,30000000.0,12554286.0,36276286.0,57076286.0,Warner Bros.,94.0
+623,Money Monster,6.5,92814.0,R,Crime,Jodie Foster,Jamie Linden,George Clooney,USA,27000000.0,14788157.0,41012075.0,93282604.0,TriStar Pictures,98.0
+624,All I See Is You,5.4,10412.0,R,Drama,Marc Forster,Sean Conway,Blake Lively,USA,30000000.0,144076.0,217644.0,678150.0,2DUX²,109.0
+625,The Photograph,5.9,2772.0,PG-13,Drama,Stella Meghie,Stella Meghie,Issa Rae,USA,16000000.0,12181865.0,20578185.0,20690779.0,Perfect World Pictures,106.0
+626,Max Steel,4.6,17975.0,PG-13,Action,Stewart Hendler,Christopher L. Yost,Ben Winchell,UK,10000000.0,2182216.0,3818664.0,6272403.0,Dolphin Entertainment,92.0
+627,Little,5.5,10046.0,PG-13,Comedy,"Tina Gordon (as Tina Gordon Chism), Tina Gordon",Tracy Oliver,Regina Hall,USA,20000000.0,15405455.0,40860481.0,48987096.0,Universal Pictures,109.0
+628,Poltergeist,4.9,54353.0,PG-13,Horror,Gil Kenan,David Lindsay-Abaire,Sam Rockwell,USA,35000000.0,22620386.0,47425125.0,95437994.0,Fox 2000 Pictures,93.0
+629,The Forest,4.8,39486.0,PG-13,Horror,Jason Zada,Nick Antosca,Natalie Dormer,USA,10000000.0,12741176.0,26594261.0,39712000.0,DragonCove Studios,93.0
+630,Mississippi Grind,6.4,20246.0,R,Comedy,"Anna Boden, Ryan Fleck",Anna Boden,Ben Mendelsohn,USA,6000000.0,12434.0,130541.0,422746.0,Sycamore Pictures,108.0
+631,The Book of Henry,6.6,23388.0,PG-13,Crime,Colin Trevorrow,Gregg Hurwitz,Naomi Watts,USA,10000000.0,1424540.0,4504974.0,4596705.0,Double Nickel Entertainment,105.0
+632,Keanu,6.3,44990.0,R,Action,Peter Atencio,Jordan Peele,Keegan-Michael Key,USA,15000000.0,9453224.0,20591853.0,20651333.0,Artists First,100.0
+633,Love the Coopers,5.8,19824.0,PG-13,Comedy,Jessie Nelson,Steven Rogers,Steve Martin,USA,17000000.0,8317545.0,26302731.0,42426912.0,CBS Films,107.0
+634,Z for Zachariah,6.0,27750.0,PG-13,Drama,Craig Zobel,Nissar Modi,Chiwetel Ejiofor,Iceland,7500000.0,56902.0,121461.0,381839.0,Silver Reel,98.0
+635,Bleed for This,6.8,24555.0,R,Biography,Ben Younger,Ben Younger,Miles Teller,USA,6000000.0,2366810.0,5083906.0,6698679.0,Verdi Productions,117.0
+636,All Eyez on Me,5.8,20753.0,R,Biography,Benny Boom,Jeremy Haft,Demetrius Shipp Jr.,USA,40000000.0,26435354.0,44922302.0,55668698.0,Summit Entertainment,139.0
+637,Hell Fest,5.5,13032.0,R,Horror,Gregory Plotkin,Seth M. Sherwood,Cynthea Mercado,USA,5500000.0,5130963.0,11107431.0,18159691.0,CBS Films,89.0
+638,Ben-Hur,5.7,40968.0,PG-13,Action,Timur Bekmambetov,Lew Wallace,Jack Huston,USA,100000000.0,11203815.0,26410477.0,94061311.0,LightWorkers Media,123.0
+639,Tangerine,7.1,26492.0,R,Comedy,Sean Baker,Sean Baker,Kitana Kiki Rodriguez,USA,100000.0,60683.0,702354.0,828874.0,Duplass Brothers Productions,88.0
+640,My Big Fat Greek Wedding 2,6.0,27866.0,PG-13,Comedy,Kirk Jones,Nia Vardalos,Nia Vardalos,USA,18000000.0,17861950.0,59689605.0,90632641.0,Gold Circle Films,94.0
+641,We Are Your Friends,6.2,35347.0,R,Drama,Max Joseph,Max Joseph,Zac Efron,UK,2000000.0,1767308.0,3591417.0,11122090.0,StudioCanal,96.0
+642,Storks,6.8,55018.0,PG,Animation,"Nicholas Stoller, Doug Sweetland",Nicholas Stoller,Andy Samberg,USA,70000000.0,21311407.0,72679278.0,183388953.0,RatPac-Dune Entertainment,87.0
+643,Monster Trucks,5.6,15062.0,PG,Action,Chris Wedge,Derek Connolly,Lucas Till,Canada,125000000.0,10950705.0,33370166.0,64493915.0,Paramount Pictures,104.0
+644,The 33,6.9,35121.0,PG-13,Biography,Patricia Riggen,Mikko Alanne,Antonio Banderas,Chile,26000000.0,5787266.0,12227722.0,27972023.0,Alcon Entertainment,127.0
+645,Billy Lynn's Long Halftime Walk,6.2,20838.0,R,Action,Ang Lee,Ben Fountain,Joe Alwyn,UK,40000000.0,114129.0,1738477.0,30930984.0,Bona Film Group,113.0
+646,The Hurricane Heist,5.1,18511.0,PG-13,Action,Rob Cohen,Scott Windhauser,Toby Kebbell,UK,35000000.0,3024399.0,6115825.0,32517248.0,Foresight Unlimited,103.0
+647,The Catcher Was a Spy,6.2,7127.0,R,Biography,Ben Lewin,Robert Rodat,Paul Rudd,USA,14000000.0,114771.0,725223.0,953953.0,PalmStar Media,98.0
+648,The Lego Ninjago Movie,6.0,21892.0,PG,Animation,,Bob Logan,Jackie Chan,USA,70000000.0,20433071.0,59281555.0,123081555.0,Animal Logic,101.0
+649,Greater,7.3,4317.0,PG,Biography,David L. Hunt (as David Hunt),Brian Reindl,Neal McDonough,USA,9000000.0,627974.0,2000620.0,2000620.0,Greater Productions,130.0
+650,The Perfect Match,4.9,3528.0,R,Comedy,Bille Woodruff,Brandon Broussard,Terrence Jenkins,USA,5000000.0,4294232.0,9669521.0,10414738.0,Codeblack Films,96.0
+651,The Lazarus Effect,5.2,40497.0,PG-13,Horror,David Gelb,Luke Dawson,Olivia Wilde,USA,3300000.0,10203437.0,25801570.0,38356892.0,Blumhouse Productions,83.0
+652,Equals,6.1,27029.0,PG-13,Drama,Drake Doremus,Nathan Parker,Nicholas Hoult,USA,16000000.0,9206.0,33258.0,2084628.0,Freedom Media,101.0
+653,My All-American,7.2,5866.0,PG,Biography,Angelo Pizzo,Angelo Pizzo,Aaron Eckhart,USA,20000000.0,1365000.0,2246000.0,2246000.0,Anthem Productions,118.0
+654,Hot Tub Time Machine 2,5.1,36449.0,R,Comedy,Steve Pink,Josh Heald,Rob Corddry,USA,14000000.0,5963324.0,12314651.0,13081651.0,Paramount Pictures,93.0
+655,Middle School: The Worst Years of My Life,6.1,7545.0,PG,Comedy,Steve Carr,Chris Bowman,Griffin Gluck,USA,8500000.0,6878437.0,20007149.0,23316139.0,CBS Films,92.0
+656,The Wedding Ringer,6.6,70067.0,R,Comedy,Jeremy Garelick,Jeremy Garelick,Kevin Hart,USA,23000000.0,20649306.0,64460211.0,79799880.0,LStar Capital,101.0
+657,Tyler Perry's A Madea Family Funeral,4.4,3643.0,PG-13,Comedy,Tyler Perry,Tyler Perry,Tyler Perry,USA,20000000.0,27062332.0,73257045.0,74747725.0,The Tyler Perry Company,109.0
+658,Father Figures,5.5,17506.0,R,Comedy,Lawrence Sher,Justin Malen,Owen Wilson,USA,25000000.0,3287451.0,17501244.0,25601244.0,Alcon Entertainment,113.0
+659,Ben Is Back,6.7,17494.0,R,Drama,Peter Hedges,Peter Hedges,Julia Roberts,USA,13000000.0,80734.0,3703184.0,10134204.0,Black Bear Pictures,103.0
+660,A Dog's Way Home,6.7,13635.0,PG,Adventure,Charles Martin Smith,W. Bruce Cameron,Ashley Judd,China,18000000.0,11251263.0,42004346.0,80708134.0,Bona Film Group,96.0
+661,"Everything, Everything",6.4,31835.0,PG-13,Drama,Stella Meghie,J. Mills Goodloe,Amandla Stenberg,USA,10000000.0,11727390.0,34121140.0,61621140.0,Alloy Entertainment,96.0
+662,Every Day,6.4,17659.0,PG-13,Drama,Michael Sucsy,Jesse Andrews,Angourie Rice,Canada,4900000.0,3016149.0,6102076.0,10421847.0,Likely Story,97.0
+663,Sisters,6.0,62192.0,R,Comedy,Jason Moore,Paula Pell,Amy Poehler,USA,30000000.0,13922855.0,87044645.0,105011053.0,Little Stranger,118.0
+664,The Little Prince,7.7,55414.0,PG,Animation,Mark Osborne,Irena Brignull,Jeff Bridges,France,81200000.0,116927.0,1339152.0,97571250.0,Onyx Films,108.0
+665,Hands of Stone,6.6,14722.0,R,Biography,Jonathan Jakubowicz,Jonathan Jakubowicz,Edgar Ramírez,Panama,20000000.0,1751388.0,4712792.0,4978353.0,Fuego Films,111.0
+666,Captain Underpants: The First Epic Movie,6.2,24463.0,PG,Animation,David Soren,Nicholas Stoller,Kevin Hart,USA,38000000.0,23851539.0,73921000.0,125427681.0,DreamWorks Animation,89.0
+667,Nobody's Fool,4.8,6130.0,R,Comedy,Tyler Perry,Tyler Perry,Tiffany Haddish,USA,19000000.0,13743111.0,31713110.0,33705333.0,BET Films,110.0
+668,Barbershop: The Next Cut,5.9,14147.0,PG-13,Comedy,Malcolm D. Lee,Kenya Barris,Ice Cube,USA,20000000.0,20242415.0,54030051.0,55030051.0,Cube Vision,111.0
+669,Just Getting Started,4.5,6076.0,PG-13,Comedy,Ron Shelton,Ron Shelton,Morgan Freeman,USA,22000000.0,3201459.0,6069605.0,7634022.0,Broad Green Pictures,91.0
+670,Shut In,4.8,12452.0,PG-13,Drama,Farren Blackburn,Christina Hodson,Naomi Watts,Canada,10000000.0,3613567.0,6900335.0,13082071.0,EuropaCorp,91.0
+671,A Walk in the Woods,6.3,24245.0,R,Adventure,Ken Kwapis,Michael Arndt,Robert Redford,USA,8000000.0,8246267.0,29504281.0,37461274.0,Route One Entertainment,104.0
+672,Fifty Shades of Black,3.5,19234.0,R,Comedy,Michael Tiddes,Marlon Wayans,Marlon Wayans,USA,5000000.0,5900528.0,11686940.0,22227514.0,Fermion Films,92.0
+673,Project Almanac,6.4,75151.0,PG-13,Drama,Dean Israelite,Jason Pagan,Amy Landecker,USA,12000000.0,8310252.0,22348241.0,33213241.0,Insurge Pictures,106.0
+674,Rings,4.5,37119.0,PG-13,Drama,F. Javier Gutiérrez,David Loucka,Matilda Anna Ingrid Lutz,USA,25000000.0,13002632.0,27793018.0,83080890.0,Macari/Edelstein,102.0
+675,"Paul, Apostle of Christ",6.6,7019.0,PG-13,Adventure,Andrew Hyatt,Terence Berden,Jim Caviezel,USA,5000000.0,5172585.0,17560475.0,25915966.0,Affirm Films,108.0
+676,The Darkness,4.4,14540.0,PG-13,Horror,Greg McLean,Greg McLean,Kevin Bacon,USA,4000000.0,4950859.0,10753574.0,10898293.0,Blumhouse Productions,92.0
+677,Hot Pursuit,5.1,47769.0,PG-13,Action,Anne Fletcher,David Feeney,Reese Witherspoon,USA,35000000.0,13942258.0,34580201.0,51380201.0,Metro-Goldwyn-Mayer (MGM),87.0
+678,The Birth of a Nation,6.4,19745.0,R,Biography,Nate Parker,Nate Parker,Nate Parker,USA,8500000.0,7004254.0,15861566.0,16779212.0,BRON Studios,120.0
+679,Kin,5.8,13444.0,PG-13,Action,"Jonathan Baker, Josh Baker",Jonathan Baker,Myles Truitt,USA,30000000.0,3035618.0,5718096.0,10313019.0,Summit Entertainment,102.0
+680,Truth,6.8,18499.0,R,Biography,James Vanderbilt,James Vanderbilt,Cate Blanchett,Australia,9600000.0,66232.0,2541854.0,5383097.0,Sony Pictures Classics,125.0
+681,Teen Titans GO! to the Movies,6.8,15965.0,PG,Animation,"Aaron Horvath, Peter Rida Michail",Michael Jelenic,Greg Cipes,USA,10000000.0,10411189.0,29790236.0,52090236.0,Warner Bros. Animation,84.0
+682,Kidnap,5.9,33088.0,R,Action,Luis Prieto,Knate Lee,Halle Berry,USA,21000000.0,10016323.0,30971040.0,34814102.0,Di Bonaventura Pictures,95.0
+683,Kickboxer: Retaliation,5.0,4380.0,R,Action,Dimitri Logothetis,Jean-Claude Van Damme,Alain Moussi,USA,11000000.0,3061.0,4537.0,101690.0,Our House Films,110.0
+684,Chappaquiddick,6.4,11605.0,PG-13,Drama,John Curran,Taylor Allen,Jason Clarke,USA,13000000.0,5765854.0,17395520.0,18263470.0,Apex Entertainment,106.0
+685,Diary of a Wimpy Kid: The Long Haul,4.3,6863.0,PG,Comedy,David Bowers,Jeff Kinney,Jason Drucker,USA,22000000.0,7126084.0,20738724.0,40140972.0,Twentieth Century Fox,91.0
+686,Super Troopers 2,6.0,23403.0,R,Comedy,Jay Chandrasekhar,Jay Chandrasekhar,Jay Chandrasekhar,USA,13500000.0,15181624.0,30617396.0,31626386.0,Votiv Films,100.0
+687,Blaze,6.6,2619.0,R,Biography,Ethan Hawke,Ethan Hawke,Ben Dickey,USA,1200000.0,44050.0,704955.0,704955.0,Ansgar Media,129.0
+688,The Hero,6.5,7891.0,R,Drama,Brett Haley,Brett Haley,Sam Elliott,USA,1200000.0,45317.0,4077333.0,4101699.0,Houston King Productions,96.0
+689,Same Kind of Different as Me,6.6,6144.0,PG-13,Biography,Michael Carney,Ron Hall,Greg Kinnear,USA,15000000.0,2591985.0,6423605.0,6423605.0,Disruption Entertainment,119.0
+690,Snatched,4.5,32664.0,R,Action,Jonathan Levine,Katie Dippold,Amy Schumer,USA,42000000.0,19542248.0,45852178.0,60845711.0,Chernin Entertainment,90.0
+691,Whiskey Tango Foxtrot,6.6,48906.0,R,Biography,"Glenn Ficarra, John Requa",Robert Carlock,Tina Fey,USA,35000000.0,7450275.0,23083334.0,24972139.0,Broadway Video,112.0
+692,Fist Fight,5.6,38994.0,R,Comedy,Richie Keen,Van Robichaux,Ice Cube,USA,22000000.0,12201873.0,32187017.0,41087017.0,New Line Cinema,91.0
+693,A-X-L,5.3,10046.0,PG,Action,Oliver Daly,Oliver Daly,Alex Neustaedter,USA,10000000.0,2798229.0,6501381.0,8467697.0,Global Road Entertainment,100.0
+694,The Boss,5.4,42186.0,R,Comedy,Ben Falcone,Melissa McCarthy,Melissa McCarthy,USA,29000000.0,23586645.0,63285885.0,78844582.0,Gary Sanchez Productions,99.0
+695,Sherlock Gnomes,5.2,9902.0,PG,Animation,John Stevenson,Ben Zazove,Johnny Depp,UK,59000000.0,10604774.0,43242871.0,90497778.0,Metro-Goldwyn-Mayer (MGM),86.0
+696,The Night Before,6.4,63567.0,R,Comedy,Jonathan Levine,Jonathan Levine,Joseph Gordon-Levitt,USA,25000000.0,9880536.0,43047372.0,52395996.0,Columbia Pictures,101.0
+697,Unforgettable,5.1,13649.0,R,Drama,Denise Di Novi,Christina Hodson,Rosario Dawson,USA,12000000.0,4785431.0,11368012.0,17768012.0,DiNovi Pictures,100.0
+698,Unplanned,5.9,12269.0,R,Biography,"Chuck Konzelman, Cary Solomon",Abby Johnson,Ashley Bratcher,USA,6000000.0,6382298.0,19005109.0,21171090.0,Unplanned Movie,109.0
+699,Tyler Perry's Acrimony,5.8,7687.0,R,Drama,Tyler Perry,Tyler Perry,Taraji P. Henson,USA,20000000.0,17170707.0,43549096.0,46403669.0,The Tyler Perry Company,120.0
+700,Risen,6.3,24734.0,PG-13,Action,Kevin Reynolds,Kevin Reynolds,Joseph Fiennes,USA,20000000.0,11801271.0,36880033.0,46432579.0,LD Entertainment,107.0
+701,The Second Best Exotic Marigold Hotel,6.6,30849.0,PG,Comedy,John Madden,Ol Parker,Judi Dench,UK,10000000.0,8540370.0,33078266.0,85978266.0,Blueprint Pictures,122.0
+702,The Peanuts Movie,7.1,41595.0,G,Animation,Steve Martino,Craig Schulz,Noah Schnapp,USA,99000000.0,44213073.0,130178411.0,246233113.0,Twentieth Century Fox Animation,88.0
+703,Our Brand Is Crisis,6.1,20229.0,R,Comedy,David Gordon Green,Rachel Boynton,Sandra Bullock,USA,28000000.0,3238433.0,7002261.0,8527658.0,Participant,107.0
+704,A Hologram for the King,6.1,39678.0,R,Comedy,Tom Tykwer,Dave Eggers,Tom Hanks,UK,30000000.0,1138578.0,4212494.0,9169507.0,X-Filme Creative Pool,98.0
+705,The Sea of Trees,6.1,13116.0,PG-13,Drama,Gus Van Sant,Chris Sparling,Matthew McConaughey,USA,25000000.0,1877.0,20444.0,906995.0,Bloom,110.0
+706,Alvin and the Chipmunks: The Road Chip,5.0,16398.0,PG,Animation,Walt Becker,Ross Bagdasarian,Jason Lee,USA,90000000.0,14287159.0,85886987.0,234798636.0,Fox 2000 Pictures,92.0
+707,Brian Banks,7.2,4031.0,PG-13,Biography,Tom Shadyac,Doug Atchison,Aldis Hodge,USA,10000000.0,2156272.0,4376819.0,4376819.0,ShivHans Pictures,99.0
+708,Louder Than Bombs,6.6,11638.0,R,Drama,Joachim Trier,Joachim Trier,Jesse Eisenberg,Norway,11000000.0,24259.0,163807.0,1160724.0,Motlys,109.0
+709,Shock and Awe,6.2,5257.0,R,Biography,Rob Reiner,Joey Hartstone,Woody Harrelson,USA,18000000.0,45856.0,77980.0,182415.0,Acacia Filmed Entertainment,90.0
+710,The Ballad of Lefty Brown,6.3,5259.0,R,Action,Jared Moshe,Jared Moshe,Bill Pullman,USA,8000000.0,5559.0,7856.0,7856.0,Higher Content,111.0
+711,Jem and the Holograms,4.2,7254.0,PG,Adventure,Jon M. Chu,Ryan Landels,Aubrey Peeples,USA,5000000.0,1375320.0,2184640.0,2333684.0,Allspark Pictures,118.0
+712,Disney's Newsies: The Broadway Musical!,8.5,2012.0,PG,Musical,"Jeff Calhoun, Brett Sullivan",Harvey Fierstein,Jeremy Jordan,USA,2000000.0,1333538.0,2827489.0,2827489.0,Disney Theatrical Productions (DTP),149.0
+713,Traffik,6.0,18209.0,R,Action,Deon Taylor,Deon Taylor,Priscilla Quintana,USA,4000000.0,3941338.0,9186156.0,9515914.0,Summit Entertainment,96.0
+714,Breaking In,5.4,13733.0,PG-13,Action,James McTeigue,Ryan Engle,Gabrielle Union,USA,6000000.0,17630285.0,46840590.0,51411620.0,Will Packer Productions,88.0
+715,Uncle Drew,5.7,11763.0,PG-13,Comedy,Charles Stone III,Jay Longino,Kyrie Irving,USA,19000000.0,15242781.0,42469946.0,46664414.0,Summit Entertainment,103.0
+716,Table 19,5.8,25698.0,PG-13,Comedy,Jeffrey Blitz,Mark Duplass,Anna Kendrick,USA,5000000.0,1597928.0,3614896.0,5042014.0,3311 Productions,87.0
+717,LBJ,6.5,5598.0,R,Biography,Rob Reiner,Joey Hartstone,Woody Harrelson,USA,26000000.0,1110565.0,2470979.0,2510151.0,Acacia Filmed Entertainment,98.0
+718,The Sun Is Also a Star,5.8,5681.0,PG-13,Drama,Ry Russo-Young,Tracy Oliver,Yara Shahidi,USA,9000000.0,2511530.0,4950029.0,6750029.0,Alloy Entertainment,100.0
+719,War Room,6.5,13056.0,PG,Drama,Alex Kendrick,Alex Kendrick,Priscilla C. Shirer,USA,3000000.0,11351389.0,67790117.0,73256266.0,FaithStep Films,120.0
+720,Proud Mary,4.9,8534.0,R,Action,Babak Najafi,John Stuart Newman,Taraji P. Henson,USA,14000000.0,9959053.0,20877013.0,21753365.0,Screen Gems,89.0
+721,Overcomer,6.6,3482.0,PG,Drama,Alex Kendrick,Alex Kendrick,Alex Kendrick,USA,5000000.0,8146533.0,34746945.0,38026103.0,Affirm Films,119.0
+722,My Little Pony: The Movie,6.1,5856.0,PG,Animation,Jayson Thiessen,Meghan McCarthy,Emily Blunt,USA,6500000.0,8885899.0,21885107.0,60330833.0,Lionsgate,99.0
+723,Unbroken: Path to Redemption,5.8,2368.0,PG-13,Biography,Harold Cronk,Richard Friedenberg,Samuel Hunt,USA,6000000.0,2238723.0,6216897.0,6216897.0,Universal 1440 Entertainment,98.0
+724,Mr. Church,7.6,25139.0,PG-13,Comedy,Bruce Beresford,Susan McMartin,Eddie Murphy,USA,8000000.0,338551.0,685780.0,685780.0,Cinelou Films,104.0
+725,Wild Oats,5.7,3316.0,PG-13,Action,Andy Tennant,Claudia Myers,Shirley MacLaine,Germany,10000000.0,21554.0,40598.0,247949.0,Wild Pictures,86.0
+726,SuperFly,5.1,6071.0,R,Action,Director X.,Alex Tse,Trevor Jackson,USA,16000000.0,6870740.0,20545116.0,20780685.0,Columbia Pictures,116.0
+727,A United Kingdom,6.8,13765.0,PG-13,Biography,Amma Asante,Guy Hibbert,David Oyelowo,Czech Republic,14000000.0,66510.0,3902185.0,14459330.0,Fox Searchlight Pictures,111.0
+728,How to Be a Latin Lover,6.0,13720.0,PG-13,Comedy,Ken Marino,Jon Zack,Eugenio Derbez,Mexico,10000000.0,12252439.0,32149404.0,62547032.0,Pantelion Films,115.0
+729,Ride Along 2,5.9,52608.0,PG-13,Action,Tim Story,Phil Hay,Ice Cube,USA,40000000.0,35243095.0,91221830.0,124608438.0,Universal Pictures,102.0
+730,Rock the Kasbah,5.5,10688.0,R,Comedy,Barry Levinson,Mitch Glazer,Bill Murray,USA,15000000.0,1470592.0,3020664.0,3394174.0,Covert Media,106.0
+731,Ratchet & Clank,5.6,9727.0,PG,Animation,"Kevin Munroe, Jericca Cleland (co-director)",T.J. Fixman,James Arnold Taylor,Hong Kong,20000000.0,4869278.0,8821329.0,13385737.0,Gramercy Pictures (I),94.0
+732,Max,6.7,25430.0,PG,Adventure,Boaz Yakin,Boaz Yakin,Thomas Haden Church,USA,20000000.0,12155254.0,42656255.0,43967255.0,Metro-Goldwyn-Mayer (MGM),111.0
+733,Tyler Perry's Boo! A Madea Halloween,4.6,7537.0,PG-13,Comedy,Tyler Perry,Tyler Perry,Tyler Perry,Hong Kong,20000000.0,28501448.0,73206343.0,74827344.0,TIK Films,103.0
+734,Running for Grace,6.1,1247.0,,Family,David L. Cunningham,David L. Cunningham,Jim Caviezel,USA,24000000.0,30597.0,89988.0,89988.0,Kona Snow Pictures,110.0
+735,Jane Got a Gun,5.9,20541.0,R,Action,Gavin O'Connor,Brian Duffield,Natalie Portman,USA,25000000.0,835572.0,1513793.0,3067531.0,1821 Pictures,98.0
+736,Early Man,6.1,18734.0,PG,Animation,Nick Park,Mark Burton,Eddie Redmayne,UK,50000000.0,3190525.0,8267544.0,54622814.0,Summit Entertainment,89.0
+737,Paul Blart: Mall Cop 2,4.4,33588.0,PG,Action,Andy Fickman,Kevin James,Kevin James,USA,30000000.0,23762435.0,71038190.0,107588225.0,Columbia Pictures,94.0
+738,Unfinished Business,5.4,31565.0,R,Comedy,Ken Scott,Steve Conrad,Vince Vaughn,USA,35000000.0,4772613.0,10219501.0,14431253.0,New Regency Productions,91.0
+739,The Case for Christ,6.3,7593.0,PG,Biography,Jon Gunn,Brian Bird,Erika Christensen,USA,5000000.0,3967885.0,14682684.0,18175663.0,Triple Horse Studios,112.0
+740,The Disappointments Room,3.9,8985.0,R,Drama,D.J. Caruso,Wentworth Miller,Kate Beckinsale,USA,15000000.0,1402823.0,2423468.0,5745040.0,Demarest Films,91.0
+741,Danny Collins,7.0,29603.0,R,Biography,Dan Fogelman,Dan Fogelman,Al Pacino,USA,10000000.0,72459.0,5637066.0,10835752.0,Big Indie Pictures,106.0
+742,Ricki and the Flash,5.9,22148.0,PG-13,Comedy,Jonathan Demme,Diablo Cody,Meryl Streep,USA,18000000.0,6610961.0,26822144.0,41325328.0,Clinica Estetico,101.0
+743,Poms,5.9,3764.0,PG-13,Comedy,Zara Hayes,Zara Hayes,Diane Keaton,UK,10000000.0,5361937.0,13631124.0,16418218.0,Entertainment One,90.0
+744,Paranormal Activity: The Ghost Dimension,4.6,24457.0,R,Horror,Gregory Plotkin,Jason Pagan,Chris J. Murray,USA,10000000.0,8070493.0,18300124.0,78903124.0,Blumhouse Productions,88.0
+745,Queen of Katwe,7.4,14932.0,PG,Biography,Mira Nair,William Wheeler,Madina Nalwanga,USA,15000000.0,304933.0,8874389.0,10367161.0,ESPN Films,124.0
+746,Dog Days,6.2,3977.0,PG,Comedy,Ken Marino,Elissa Matsueda,Nina Dobrev,USA,10000000.0,2554766.0,6809080.0,6842356.0,LD Entertainment,113.0
+747,The Comedian,5.8,6619.0,R,Comedy,Taylor Hackford,Art Linson,Robert De Niro,USA,15000000.0,10723.0,1659002.0,1659002.0,Cinelou Films,120.0
+748,Range 15,5.0,5131.0,TV-MA,Action,Ross Patterson,Billy Jay,Sean Astin,USA,1000000.0,1044.0,621738.0,621738.0,Street Justice Films,89.0
+749,Little Boy,7.4,21966.0,PG-13,Drama,Alejandro Monteverde,Alejandro Monteverde,Jakob Salvati,Mexico,20000000.0,2750356.0,6485961.0,17572289.0,Metanoia Films,106.0
+750,Denial,6.7,18793.0,PG-13,Biography,Mick Jackson,Deborah Lipstadt,Rachel Weisz,UK,10000000.0,93728.0,4073489.0,7994527.0,BBC Films,109.0
+751,The Gallows,4.2,19029.0,R,Horror,"Travis Cluff, Chris Lofing",Chris Lofing,Reese Mishler,USA,100000.0,9808463.0,22764410.0,42964410.0,New Line Cinema,81.0
+752,Boo 2! A Madea Halloween,3.8,3977.0,PG-13,Comedy,Tyler Perry,Tyler Perry,Tyler Perry,USA,25000000.0,21226953.0,47319572.0,48333932.0,The Tyler Perry Company,101.0
+753,Kung Fu Yoga,5.2,8710.0,Not Rated,Action,Stanley Tong,Stanley Tong,Jackie Chan,China,65000000.0,111979.0,362657.0,257753889.0,Sparkle Roll Media,107.0
+754,Bad Santa 2,5.6,22183.0,R,Comedy,Mark Waters,Johnny Rosenthal,Billy Bob Thornton,USA,26000000.0,6176680.0,17782178.0,24079268.0,Broad Green Pictures,92.0
+755,Incarnate,5.3,11334.0,PG-13,Horror,Brad Peyton,Ronnie Christensen,Aaron Eckhart,USA,5000000.0,2534884.0,4799774.0,9037058.0,IM Global,87.0
+756,Grandma,6.7,14482.0,R,Comedy,Paul Weitz,Paul Weitz,Lily Tomlin,USA,600000.0,115540.0,6980524.0,7205073.0,Depth of Field,79.0
+757,The Vatican Tapes,4.8,14258.0,PG-13,Horror,Mark Neveldine,Christopher Borrelli,Olivia Taylor Dudley,USA,8000000.0,832271.0,1784763.0,13015764.0,Lionsgate,91.0
+758,Cop Car,6.3,29748.0,R,Crime,Jon Watts,Jon Watts,Kevin Bacon,USA,800000.0,26146.0,134552.0,143658.0,Audax Films,88.0
+759,Collide,5.7,14713.0,PG-13,Action,Eran Creevy,F. Scott Frazier,Nicholas Hoult,UK,21500000.0,1512824.0,2280004.0,6817535.0,42,99.0
+760,Term Life,5.5,6857.0,R,Action,Peter Billingsley,Andy Lieberman,Vince Vaughn,USA,16500000.0,13040.0,21256.0,243793.0,PalmStar Media,93.0
+761,When the Bough Breaks,5.1,5682.0,PG-13,Crime,Jon Cassar,Jack Olsen,Morris Chestnut,USA,10000000.0,14202323.0,29747603.0,30658387.0,Screen Gems,107.0
+762,Blind,5.8,3480.0,R,Drama,Michael Mailer,John Buffalo Mailer,Alec Baldwin,USA,2500000.0,12522.0,12522.0,98280.0,Michael Mailer Films,98.0
+763,God's Not Dead 2,4.4,11248.0,PG,Drama,Harold Cronk,Chuck Konzelman,Melissa Joan Hart,USA,5000000.0,7623662.0,20774575.0,24487848.0,Pure Flix Productions,120.0
+764,Blackway,5.3,8877.0,R,Drama,Daniel Alfredson,Castle Freeman Jr.,Anthony Hopkins,USA,8000000.0,16458.0,27079.0,426491.0,Enderby Entertainment,90.0
+765,The Perfect Guy,5.6,9666.0,PG-13,Crime,David M. Rosenthal,Alan B. McElroy,Sanaa Lathan,USA,12000000.0,25888154.0,57027435.0,60273173.0,Rocklin/Faust,100.0
+766,The Star,6.2,6218.0,PG,Animation,Timothy Reckart,Carlos Kotkin,Steven Yeun,USA,20000000.0,9812674.0,40896334.0,84315669.0,Affirm Films,86.0
+767,The Young Messiah,5.6,3133.0,PG-13,Drama,Cyrus Nowrasteh,Betsy Giffen Nowrasteh,Adam Greaves-Neal,USA,18500000.0,3294876.0,6490401.0,7330338.0,1492 Pictures,111.0
+768,Mine 9,6.7,3976.0,Not Rated,Drama,Eddie Mensore,Eddie Mensore,Terry Serpico,USA,350000.0,68921.0,226421.0,226421.0,Emphatic Films,83.0
+769,Show Dogs,3.8,4099.0,PG,Adventure,Raja Gosnell,Max Botkin,Will Arnett,UK,5500000.0,6023972.0,17857020.0,39156854.0,Neddy Dean Productions,92.0
+770,The Vault,4.8,11870.0,Not Rated,Crime,Dan Bush,Dan Bush,James Franco,USA,5000000.0,4308.0,5728.0,346729.0,Redwire Pictures,91.0
+771,Rock Dog,5.9,4489.0,PG,Animation,Ash Brannon,Ash Brannon,Luke Wilson,China,60000000.0,3704749.0,9420546.0,23157646.0,Summit Premiere,90.0
+772,I'm Not Ashamed,5.9,3181.0,PG-13,Biography,Brian Baugh,Philipa A. Booyens,Masey McLain,USA,1500000.0,927161.0,2082980.0,2082980.0,Visible Pictures(II),112.0
+773,Birth of the Dragon,5.5,7059.0,PG-13,Action,George Nolfi,Stephen J. Rivele,Billy Magnussen,China,31000000.0,2702430.0,6901965.0,7215027.0,Anomaly Entertainment,95.0
+774,Sex and the Future,1.9,257.0,,Comedy,"Luis Carlos Hueck, Ethan Zvi Kaplan",Ethan Zvi Kaplan,Ellie Patrikios,USA,1000000.0,745.0,5745.0,5745.0,Don Kap Productions,90.0
+775,Let There Be Light,4.7,2411.0,PG-13,Drama,Kevin Sorbo,Sam Sorbo,Kevin Sorbo,USA,3000000.0,1729535.0,7233471.0,7241302.0,Greenery Studios,100.0
+776,"Hello, My Name Is Doris",6.6,18514.0,R,Comedy,Michael Showalter,Laura Terruso,Sally Field,USA,1000000.0,84986.0,14444999.0,14659448.0,Red Crown Productions,90.0
+777,90 Minutes in Heaven,4.8,3345.0,PG-13,Drama,Michael Polish,Michael Polish,Kate Bosworth,USA,5000000.0,2035273.0,4842699.0,4842699.0,Astute Films,121.0
+778,Almost Christmas,6.1,5739.0,PG-13,Comedy,David E. Talbert,David E. Talbert,Kimberly Elise,USA,17000000.0,15134235.0,42158780.0,42580920.0,Universal Pictures,111.0
+779,A Tale of Love and Darkness,6.0,3522.0,PG-13,Biography,Natalie Portman,Natalie Portman,Natalie Portman,Israel,4000000.0,37170.0,572212.0,724885.0,Focus World,95.0
+780,Paris Can Wait,5.8,7404.0,PG,Comedy,Eleanor Coppola,Eleanor Coppola,Diane Lane,Japan,5000000.0,98850.0,5617731.0,13203541.0,Lifetime Films,92.0
+781,Woodshock,4.3,1612.0,R,Drama,"Kate Mulleavy, Laura Mulleavy",Kate Mulleavy,Kirsten Dunst,USA,5000000.0,12247.0,42603.0,43682.0,COTA Films,100.0
+782,Sleight,5.9,7726.0,R,Drama,J.D. Dillard (as JD Dillard),J.D. Dillard,Jacob Latimore,USA,250000.0,1701785.0,3986245.0,3989705.0,Diablo Entertainment (II),89.0
+783,Woodlawn,6.5,6563.0,PG,Drama,"Andrew Erwin, Jon Erwin",Jon Erwin,Caleb Castille,USA,12000000.0,4002226.0,14394097.0,14401617.0,Kevin Downes Productions,123.0
+784,Area 51,4.2,12989.0,R,Horror,Oren Peli,Christopher Denham,Reid Warner,USA,5000000.0,7556.0,7556.0,7556.0,Aramid Entertainment Fund,91.0
+785,Brothers,6.5,11481.0,Not Rated,Action,Karan Malhotra,Gavin O'Connor,Akshay Kumar,India,10205000.0,357404.0,613775.0,19695610.0,Dharma Productions,156.0
+786,Bilal: A New Breed of Hero,7.9,17095.0,PG-13,Animation,"Khurram H. Alavi, Ayman Jamal",Ayman Jamal,Adewale Akinnuoye-Agbaje,United Arab Emirates,30000000.0,309951.0,490973.0,3087832.0,Barajoun Entertainment,105.0
+787,All Saints,6.1,1505.0,PG,Drama,Steve Gomer,Steve Armour,John Corbett,USA,2000000.0,1514278.0,5802208.0,5942565.0,Affirm Films,108.0
+788,Stonewall,5.2,3449.0,R,Drama,Roland Emmerich,Jon Robin Baitz,Jeremy Irvine,USA,13500000.0,112834.0,187674.0,292669.0,Centropolis Entertainment,129.0
+789,I Smile Back,6.1,4870.0,R,Drama,Adam Salky,Paige Dylan,Sarah Silverman,USA,495000.0,15758.0,58738.0,63373.0,Egoli Tossell Film,85.0
+790,The Meddler,6.3,11533.0,PG-13,Comedy,Lorene Scafaria,Lorene Scafaria,Susan Sarandon,USA,3200000.0,57022.0,4267218.0,5425148.0,Anonymous Content,103.0
+791,Seoul Searching,7.0,1170.0,TV-MA,Comedy,Benson Lee,Benson Lee,Justin Chon,South Korea,2100000.0,8966.0,18654.0,18654.0,Seoul Searching,105.0
+792,Indivisible,5.8,1044.0,PG-13,Drama,David G. Evans,David G. Evans,Sarah Drew,USA,2700000.0,1503101.0,3511417.0,3589633.0,Provident Films,119.0
+793,Captive,5.4,6379.0,PG-13,Action,Jerry Jameson,Brian Bird,Kate Mara,USA,2000000.0,1393243.0,2583301.0,2801508.0,BN Films,97.0
+794,El Chicano,5.3,1037.0,R,Action,Ben Hernandez Bray,Ben Hernandez Bray,Logan Arevalo,USA,8000000.0,700261.0,1400603.0,1404646.0,WarParty Films,142.0
+795,Norm of the North,3.4,8559.0,PG,Animation,Trevor Wall,Malcolm T. Goldman,Rob Schneider,USA,7000000.0,6844137.0,17062499.0,30734502.0,Assemblage Entertainment,88.0
+796,Do You Believe?,6.1,7024.0,PG-13,Drama,Jon Gunn (as Jonathan M. Gunn),Chuck Konzelman,Mira Sorvino,USA,2300000.0,3591282.0,12985600.0,14410698.0,Pure Flix Entertainment,120.0
+797,Meet the Blacks,4.8,35504.0,R,Comedy,Deon Taylor,Nicole DeMasi,Mike Epps,USA,900000.0,4055940.0,9097072.0,9097072.0,Hidden Empire Film Group,94.0
+798,Hacker,6.2,8696.0,R,Crime,Akan Satayev (as Akan Sataev),Atakhan,Callan McAuliffe,USA,2000000.0,6716.0,11239.0,11239.0,Skylight Picture Works,95.0
+799,3 Generations,5.9,5837.0,PG-13,Drama,Gaby Dellal,Nikole Beckwith,Naomi Watts,USA,5000000.0,105215.0,155936.0,680351.0,Big Beach Films,92.0
+800,Brotherly Love,6.6,1690.0,R,Drama,Jamal Hill,Jamal Hill,Keke Palmer,USA,1900000.0,246902.0,478595.0,478595.0,Brotherly Love Prods FEJ,89.0
+801,It Had to Be You,5.4,958.0,R,Comedy,Sasha Gordon,Levi Abrino,Cristin Milioti,USA,18000000.0,5302.0,7162.0,7162.0,It Had To Be You,85.0
+802,Phoenix Forgotten,5.3,5476.0,PG-13,Horror,Justin Barber,T.S. Nowlin,Florence Hartigan,USA,2800000.0,1816499.0,3600146.0,3697729.0,Cinelou Films,87.0
+803,The D Train,5.0,10502.0,R,Comedy,"Andrew Mogel, Jarrad Paul",Jarrad Paul,Jack Black,UK,3000000.0,469000.0,673151.0,774780.0,Ealing Studios Entertainment,101.0
+804,Inside the Rain,4.4,161.0,TV-MA,Comedy,Aaron Fisher,Aaron Fisher,Rosie Perez,USA,1000000.0,8140.0,8140.0,8140.0,Act 13,90.0
+805,Sgt. Stubby: An American Hero,6.9,1869.0,PG,Animation,Richard Lanni,Richard Lanni,Logan Lerman,Ireland,25000000.0,1164403.0,4015935.0,4932694.0,Fun Academy Media Group,84.0
+806,The Resurrection of Gavin Stone,6.2,1724.0,PG,Comedy,Dallas Jenkins,Andrea Gyertson Nasfell,Brett Dalton,USA,2000000.0,1206771.0,2303792.0,2308355.0,Blumhouse Productions,91.0
+807,Best F(r)iends: Volume 1,5.4,2381.0,R,Comedy,Justin MacGregor,Greg Sestero,Greg Sestero,USA,1500000.0,131671.0,252410.0,290064.0,Sestero Pictures,108.0
+808,Little Men,6.7,6775.0,PG,Drama,Ira Sachs,Mauricio Zacharias,Greg Kinnear,USA,2000000.0,30368.0,702537.0,2008649.0,Race Point Films,85.0
+809,Lazer Team,5.6,9079.0,PG-13,Action,Matt Hullum,Burnie Burns,Burnie Burns,USA,2480421.0,108586.0,1186426.0,1406538.0,Rooster Teeth Productions,102.0
+810,The Wild Life,5.4,5573.0,PG,Animation,,Domonic Paris,Matthias Schweighöfer,Belgium,13000000.0,3342696.0,8005586.0,40075446.0,Summit Entertainment,91.0
+811,The Bounce Back,5.1,576.0,PG-13,Comedy,Youssef Delara,Victor Teran,Shemar Moore,USA,3000000.0,227354.0,321910.0,421404.0,Ankle Sock & Baseball Pants,104.0
+812,The Transcendents,9.2,1454.0,Not Rated,Music,Derek Ahonen,Derek Ahonen,Rob Franco,USA,90000.0,358.0,1426.0,1426.0,,96.0
+813,Southside with You,6.3,7459.0,PG-13,Biography,Richard Tanne,Richard Tanne,Tika Sumpter,USA,1500000.0,2868403.0,6304223.0,6628603.0,Fermion Films,84.0
+814,Dead Awake,4.6,2974.0,Not Rated,Horror,Phillip Guzman,Jeffrey Reddick,Jocelin Donahue,USA,24000000.0,8834.0,11528.0,21675.0,Gama Entertainment Partners,99.0
+815,Kicks,6.4,4091.0,R,Adventure,Justin Tipping,Joshua Beirne-Golden,Jahking Guillory,USA,2000000.0,32111.0,150191.0,150191.0,Animal Kingdom,80.0
+816,The Last Rampage,5.7,1457.0,R,Action,Dwight H. Little (as Dwight Little),James W. Clarke,Robert Patrick,USA,18000000.0,3054.0,6294.0,12944.0,Rampage Films,93.0
+817,Lowriders,5.6,2183.0,PG-13,Adventure,Ricardo de Montreuil,Elgin James,Gabriel Chavarria,USA,5000000.0,2403885.0,6303560.0,6312033.0,Blumhouse Productions,98.0
+818,The Assassin's Code,5.0,954.0,TV-MA,Action,David A. Armstrong,Edward Lee Cornett,Justin Chatwin,USA,1800000.0,11218.0,11218.0,53940.0,Serious Stooges Films,95.0
+819,Vigilante Diaries,5.5,4193.0,R,Action,Christian Sesma,Christian Sesma,Paul Sloan,USA,1000000.0,1650.0,1991.0,176777.0,Oscar Gold Productions,107.0
+820,Once I Was a Beehive,6.2,1112.0,PG,Comedy,Maclain Nelson,Maclain Nelson,Paris Warner,USA,200000.0,48409.0,732655.0,732655.0,Main Dog Productions,119.0
+821,High on the Hog,3.8,170.0,R,Action,Tony Wash,Andy Golub,Sid Haig,USA,1200000.0,15125.0,45696.0,45696.0,Hicktown Entertainment,85.0
+822,American Dresser,5.2,309.0,Not Rated,Adventure,Carmine Cangialosi,Carmine Cangialosi,Penelope Ann Miller,USA,18000000.0,2211.0,3895.0,3895.0,The Film House,97.0
+823,10 Days in a Madhouse,6.3,963.0,R,Drama,Timothy Hines,Timothy Hines,Caroline Barry,USA,120000.0,4773.0,14616.0,14616.0,Pendragon Pictures,111.0
+824,Lycan,4.6,818.0,,Horror,Bev Land,Bev Land,Dania Ramirez,USA,250000.0,4970.0,9110.0,9110.0,1 Bullet in the Gun Productions,87.0
+825,Beta Test,5.7,10151.0,Not Rated,Action,Nicholas Gyeney,Nicholas Gyeney,Manu Bennett,USA,1600000.0,5778.0,10104.0,10104.0,Mirror Images LTD.,88.0
+826,Because of Grácia,6.1,188.0,PG-13,Comedy,Tom Simes,Tom Simes,John Schneider,USA,1200000.0,52171.0,90878.0,90878.0,Check the Gate Productions,107.0
+827,Growing Up Smith,6.8,1079.0,PG-13,Comedy,Frank Lotito,Anjul Nigam,Jason Lee,USA,2000000.0,14867.0,35312.0,35312.0,Brittany House Pictures,102.0
+828,L.A. Slasher,3.3,746.0,R,Comedy,Martin Owen,Martin Owen,Andy Dick,USA,10000.0,2421.0,2421.0,2421.0,JWright Productions,84.0
+829,What Happened Last Night,3.8,164.0,R,Comedy,Candice T. Cain (as Candice Cain),Candice T. Cain,Clayton Snyder,USA,800000.0,7147.0,10844.0,10844.0,Gemelli Films,90.0
+830,A Boy Called Po,6.6,767.0,PG,Drama,John Asher,Colin Goldman,Christopher Gorham,USA,500000.0,2693.0,4550.0,4550.0,Commonwealth Film Manufacturing,95.0
+831,The Texture of Falling,6.8,1391.0,,Drama,Maria Allred,Maria Allred,Benjamin Farmer,USA,200000.0,676.0,5010.0,5010.0,Allred Films,75.0
+832,Blood Feast,4.6,728.0,R,Horror,Marcel Walz,Philip Lilienschwarz,Robert Rusler,USA,1200000.0,4046.0,8708.0,8708.0,Gundo Entertainment,90.0
+833,Miles,5.7,592.0,Unrated,Comedy,Nathan Adloff,Nathan Adloff,Tim Boardman,USA,400000.0,2147.0,2537.0,2537.0,Cranium Entertainment,90.0
+834,The Dark Below,4.1,264.0,Unrated,Horror,Douglas Schulze,Douglas Schulze,Lauren Mae Shafer,USA,750000.0,1526.0,7095.0,7095.0,Dead Wait Productons,75.0
+835,The Lucky Man,5.6,1737.0,R,Action,Norman Gregory McGuire,Norman Gregory McGuire,Mariana Paola Vicente,USA,1000000.0,4956.0,25015.0,25015.0,Lucky Films,98.0
+836,But Deliver Us from Evil,2.7,180.0,Not Rated,Horror,Joshua Coates,Joshua Coates,Eric Roberts,USA,250000.0,99541.0,285169.0,285169.0,20/20 Visions Entertainment Group,109.0
+837,Champion,6.0,178.0,PG,Drama,Judd Brannon,Missy Reedy,Gary Graham,USA,500000.0,108591.0,175232.0,175232.0,Brannon Pictures,116.0
+838,Poor Boy,4.3,184.0,Not Rated,Drama,Robert Scott Wildes,Logan Antill,Michael Shannon,USA,150000.0,10920.0,31031.0,31031.0,Them Gold Wolves,104.0
+839,Union,4.0,89.0,PG-13,Drama,Whitney Hamilton,Whitney Hamilton,Virginia Newcomb,USA,500000.0,11900.0,41656.0,41656.0,Bjornquist Films,135.0
+840,100 Acres of Hell,3.0,185.0,R,Action,Hank Leigh Hump,Jason L. Koerner,Gene Snisky,USA,65000.0,997.0,5152.0,5152.0,100 Acres of Hell Productions,85.0
+841,Prescience,3.6,206.0,,Romance,James Helsing,René Mena,René Mena,USA,500000.0,3407.0,10606.0,10606.0,Latinx Productions,90.0
+842,Creative Control,5.4,2061.0,R,Drama,Benjamin Dickinson,Micah Bloomberg,Benjamin Dickinson,USA,1000000.0,6964.0,63014.0,63014.0,Ghost Robot,97.0
+843,Road Hard,6.1,1751.0,Not Rated,Comedy,"Adam Carolla, Kevin Hench",Adam Carolla,Adam Carolla,USA,1500000.0,105943.0,113169.0,113169.0,Sontalia,98.0
+844,The Church,2.8,134.0,PG-13,Horror,Dom Frank (as Dom Franklin),Dom Frank,Clint Howard,USA,1000000.0,272412.0,772000.0,772000.0,Hard Floor Entertainment,81.0
+845,Valley of Bones,4.2,472.0,R,Crime,Dan Glaser,Dan Glaser,Autumn Reeser,USA,3000000.0,107393.0,168738.0,168738.0,Bad Medicine Films,90.0
+846,Brave New Jersey,5.3,461.0,TV-MA,Comedy,Jody Lambert,Michael Dowling,Anna Camp,USA,5000000.0,13437.0,16544.0,16544.0,The Shot Clock,86.0
+847,Ladrones,5.1,251.0,PG-13,Comedy,Joe Menendez,Jon Molerio,Fernando Colunga,USA,3000000.0,1411031.0,3063505.0,3504414.0,Lantica Media,97.0
+848,Killer Unicorn,3.1,138.0,PG-13,Horror,Drew Bolton,José D. Álvarez,Dennis Budesheim,USA,150000.0,15515.0,33901.0,33901.0,Mattioli Productions,74.0
+849,Juvenile Delinquents,7.0,18.0,R,Drama,Neil Goss,Neil Goss,Demitra Sealy,USA,1000000.0,1890.0,34292.0,39455.0,Big Bull Productions,118.0
+850,The Lumber Baron,6.2,46.0,PG,Drama,Barry Andersson,Karen R. Hurd,Joseph Bezenek,USA,245000.0,15059.0,88336.0,88336.0,Scene & Hurd Productions,120.0
+851,Shine,4.7,190.0,R,Drama,Anthony Nardolillo,Anthony Nardolillo,Musetta Vander,UK,400000.0,205842.0,333388.0,333388.0,13 Paces,95.0
+852,Jimmy Vestvood: Amerikan Hero,5.2,2455.0,TV-MA,Comedy,Jonathan Kesselman,Maz Jobrani,Maz Jobrani,USA,500000.0,60860.0,230069.0,290080.0,Soul Mining Productions,84.0
+853,Windsor Drive,3.1,191.0,Not Rated,Mystery,Natalie Bible',T.R. Gough,Samaire Armstrong,USA,100000.0,2160.0,3256.0,3256.0,Absinthe Productions,90.0
+854,Emily,5.1,24.0,Not Rated,Drama,Ryan Graves,Kelly McCrillis,Rachael Perrell Fosket,USA,19000.0,1164.0,3982.0,3982.0,Stately and Spry Pictures,83.0
+855,Restored Me,6.9,36.0,Not Rated,Drama,Rhyan LaMarr,Jon Knitter,Steven Bauer,USA,750000.0,1316.0,42173.0,42173.0,Buffalo 8 Productions,135.0
+856,Slamma Jamma,6.1,1330.0,PG,Drama,Timothy A. Chey,Timothy A. Chey,Chris Staples,USA,1000000.0,1687000.0,1687000.0,1687000.0,RiverRain Productions,104.0
+857,Voiceless,2.1,220.0,PG-13,Drama,Pat Necerato,Pat Necerato,Rusty Joiner,USA,500000.0,292438.0,419952.0,419952.0,,107.0
+858,Notes on an Appearance,5.5,144.0,,Drama,Ricky D'Ambrose,Ricky D'Ambrose,Zia Anger,USA,30000.0,2239.0,5065.0,5065.0,,60.0
+859,In Echo Park,4.6,71.0,Not Rated,Crime,Nathaniel Lezra,Nathaniel Lezra,Andrew Asper,USA,60000.0,4222.0,7072.0,7072.0,Cement Head Films,82.0
+860,Americons,5.1,346.0,R,Action,Theo Avgerinos,Beau Martin Williams,Beau Martin Williams,USA,1250000.0,14404.0,28782.0,28782.0,Industry Artists Group,89.0
+861,The Man from Outer Space,6.7,13.0,Not Rated,Sci-Fi,Ben Hall,Ben Hall,Aliyah Conley,USA,100000.0,1962.0,20102.0,20102.0,Marianna Motion Pictures,74.0
+862,George Takei's Allegiance,8.6,189.0,,Musical,Lorenzo Thione,Marc Acito,Aaron Albano,USA,1000000.0,784850.0,902012.0,902012.0,Sing Out Louise Productions,130.0
+863,Off Season,5.1,44.0,R,Drama,Robert Cole,Erik Lieblein,Jessica Cadden Osborne,USA,200000.0,2536.0,12544.0,12544.0,,86.0
+864,The Fuzz,6.3,6.0,Not Rated,Crime,Steve Hicks,Steve Hicks,Josh Adell,USA,400000.0,2236.0,6067.0,6067.0,Indican Pictures,87.0
+865,Icaros: A Vision,6.0,172.0,,Drama,"Leonor Caraballo, Matteo Norzi",Leonor Caraballo,Ana Cecilia Stieglitz,Peru,600000.0,5510.0,5510.0,5510.0,Conibo Productions,91.0
+866,The Dog Wedding,7.5,70.0,PG-13,Comedy,James Lefkowitz,Jason B. Hurwitz,Rosalie Thomass,USA,1000000.0,12132.0,29495.0,29495.0,25th Frame,96.0
+867,The Homeless Billionaire,5.2,44.0,,Comedy,Fred Manocherian,Fred Manocherian,Victor Alfieri,USA,5000000.0,19771.0,39493.0,39493.0,Fraydun Productions,88.0
+868,Apocalypsis,6.9,34.0,Not Rated,Animation,Eric Leiser,Eric Leiser,Maria Bruun,USA,500000.0,3945.0,20052.0,20052.0,Albino Fawn Productions,90.0
+869,Bright Ones,7.2,25.0,PG,Musical,"David Norona, Fred Vassallo",Fred Vassallo,Peyton Allen,USA,600000.0,165627.0,165627.0,165627.0,Bethel Music,82.0
+870,Inception,8.8,2017635.0,PG-13,Action,Christopher Nolan,Christopher Nolan,Leonardo DiCaprio,USA,160000000.0,62785337.0,292576195.0,836836967.0,Warner Bros.,148.0
+871,Interstellar,8.6,1462506.0,PG-13,Adventure,Christopher Nolan,Jonathan Nolan,Matthew McConaughey,USA,165000000.0,47510360.0,188020017.0,696258169.0,Paramount Pictures,169.0
+872,Whiplash,8.5,695069.0,R,Drama,Damien Chazelle,Damien Chazelle,Miles Teller,USA,3300000.0,135388.0,13092000.0,48983260.0,Bold Films,106.0
+873,Django Unchained,8.4,1325209.0,R,Drama,Quentin Tarantino,Quentin Tarantino,Jamie Foxx,USA,100000000.0,30122888.0,162805434.0,425368238.0,The Weinstein Company,165.0
+874,The Dark Knight Rises,8.4,1488179.0,PG-13,Action,Christopher Nolan,Jonathan Nolan,Christian Bale,UK,250000000.0,160887295.0,448139099.0,1081140725.0,Warner Bros.,164.0
+875,Toy Story 3,8.3,742933.0,G,Animation,Lee Unkrich,John Lasseter,Tom Hanks,USA,200000000.0,110307189.0,415004880.0,1066969703.0,Walt Disney Pictures,103.0
+876,Warrior,8.2,429171.0,PG-13,Action,Gavin O'Connor,Gavin O'Connor,Tom Hardy,USA,25000000.0,5242107.0,13657115.0,23308615.0,Lionsgate,140.0
+877,Shutter Island,8.2,1102466.0,R,Mystery,Martin Scorsese,Laeta Kalogridis,Leonardo DiCaprio,USA,80000000.0,41062440.0,128012934.0,294804195.0,Paramount Pictures,138.0
+878,The Wolf of Wall Street,8.2,1148635.0,R,Biography,Martin Scorsese,Terence Winter,Leonardo DiCaprio,USA,100000000.0,18361578.0,116900694.0,392000694.0,Red Granite Pictures,180.0
+879,The Grand Budapest Hotel,8.1,690789.0,R,Adventure,Wes Anderson,Stefan Zweig,Ralph Fiennes,Germany,25000000.0,811166.0,59301324.0,172940046.0,Fox Searchlight Pictures,99.0
+880,Gone Girl,8.1,837880.0,R,Drama,David Fincher,Gillian Flynn,Ben Affleck,USA,61000000.0,37513109.0,167767189.0,369330363.0,Twentieth Century Fox,149.0
+881,12 Years a Slave,8.1,627629.0,R,Biography,Steve McQueen,John Ridley,Chiwetel Ejiofor,USA,20000000.0,923715.0,56671993.0,187733202.0,New Regency Productions,134.0
+882,Rush,8.1,424867.0,R,Action,Ron Howard,Peter Morgan,Daniel Brühl,UK,38000000.0,187289.0,26947624.0,96983009.0,Exclusive Media Group,123.0
+883,Prisoners,8.1,585075.0,R,Crime,Denis Villeneuve,Aaron Guzikowski,Hugh Jackman,USA,46000000.0,20817053.0,61002302.0,122126687.0,Alcon Entertainment,153.0
+884,Harry Potter and the Deathly Hallows: Part 2,8.1,746792.0,PG-13,Adventure,David Yates,Steve Kloves,Daniel Radcliffe,UK,125000000.0,169189427.0,381409310.0,1342192833.0,Warner Bros.,130.0
+885,How to Train Your Dragon,8.1,654115.0,PG,Animation,"Dean DeBlois, Chris Sanders",William Davies,Jay Baruchel,USA,165000000.0,43732319.0,217581231.0,494878759.0,DreamWorks Animation,98.0
+886,The Dark Knight,9.0,2256087.0,PG-13,Action,Christopher Nolan,Jonathan Nolan,Christian Bale,USA,185000000.0,158411483.0,535234033.0,1005456758.0,Warner Bros.,152.0
+887,The Lord of the Rings: The Fellowship of the Ring,8.8,1627129.0,PG-13,Action,Peter Jackson,J.R.R. Tolkien,Elijah Wood,New Zealand,93000000.0,47211490.0,315544750.0,887934994.0,New Line Cinema,178.0
+888,Gladiator,8.5,1314574.0,R,Action,Ridley Scott,David Franzoni,Russell Crowe,USA,103000000.0,34819017.0,187705427.0,465361176.0,DreamWorks,155.0
+889,Casino Royale,8.0,572910.0,PG-13,Action,Martin Campbell,Neal Purvis,Daniel Craig,UK,150000000.0,40833156.0,167445960.0,616501619.0,Columbia Pictures,144.0
+890,The Prestige,8.5,1162893.0,PG-13,Drama,Christopher Nolan,Jonathan Nolan,Christian Bale,UK,40000000.0,14801808.0,53089891.0,109676311.0,Touchstone Pictures,130.0
+891,Inglourious Basterds,8.3,1236797.0,R,Adventure,Quentin Tarantino,Quentin Tarantino,Brad Pitt,Germany,70000000.0,38054676.0,120540719.0,321455689.0,Universal Pictures,153.0
+892,The Lord of the Rings: The Return of the King,8.9,1611441.0,PG-13,Action,Peter Jackson,J.R.R. Tolkien,Elijah Wood,New Zealand,94000000.0,72629713.0,377845905.0,1142270989.0,New Line Cinema,201.0
+893,The Departed,8.5,1165439.0,R,Crime,Martin Scorsese,William Monahan,Leonardo DiCaprio,USA,90000000.0,26887467.0,132384315.0,291465034.0,Warner Bros.,151.0
+894,No Country for Old Men,8.1,836657.0,R,Crime,"Ethan Coen, Joel Coen",Joel Coen,Tommy Lee Jones,USA,25000000.0,1202000.0,74283625.0,171627166.0,Paramount Vantage,122.0
+895,Batman Begins,8.2,1284914.0,PG-13,Action,Christopher Nolan,Bob Kane,Christian Bale,USA,150000000.0,48745440.0,206852432.0,373661301.0,Warner Bros.,140.0
+896,Requiem for a Dream,8.3,752129.0,R,Drama,Darren Aronofsky,Hubert Selby Jr.,Ellen Burstyn,USA,4500000.0,64770.0,3635482.0,7390108.0,Artisan Entertainment,102.0
+897,Memento,8.4,1105221.0,R,Mystery,Christopher Nolan,Christopher Nolan,Guy Pearce,USA,9000000.0,235488.0,25544867.0,39970386.0,Newmarket Capital Group,113.0
+898,Pirates of the Caribbean: The Curse of the Black Pearl,8.0,1003815.0,PG-13,Action,Gore Verbinski,Ted Elliott,Johnny Depp,USA,140000000.0,46630690.0,305413918.0,654264015.0,Walt Disney Pictures,143.0
+899,Eternal Sunshine of the Spotless Mind,8.3,894622.0,R,Drama,Michel Gondry,Charlie Kaufman,Jim Carrey,USA,20000000.0,8175198.0,34400301.0,74036715.0,Focus Features,108.0
+900,The Lord of the Rings: The Two Towers,8.7,1456355.0,PG-13,Action,Peter Jackson,J.R.R. Tolkien,Elijah Wood,New Zealand,94000000.0,62007528.0,342551365.0,943282270.0,New Line Cinema,179.0
+901,Catch Me If You Can,8.1,806234.0,PG-13,Biography,Steven Spielberg,Jeff Nathanson,Leonardo DiCaprio,USA,52000000.0,30053627.0,164615351.0,352114312.0,DreamWorks,141.0
+902,Mulholland Dr.,8.0,314762.0,R,Drama,David Lynch,David Lynch,Naomi Watts,France,15000000.0,587591.0,7220243.0,20129557.0,Les Films Alain Sarde,147.0
+903,There Will Be Blood,8.2,505922.0,R,Drama,Paul Thomas Anderson,Paul Thomas Anderson,Daniel Day-Lewis,USA,25000000.0,190739.0,40222514.0,76181545.0,Paramount Vantage,158.0
+904,Donnie Darko,8.0,730411.0,R,Drama,Richard Kelly,Richard Kelly,Jake Gyllenhaal,USA,6000000.0,110494.0,1478493.0,6979093.0,Pandora Cinema,113.0
+905,Kill Bill: Vol. 1,8.1,982093.0,R,Action,Quentin Tarantino,Quentin Tarantino,Uma Thurman,USA,30000000.0,22200000.0,70099045.0,180899045.0,Miramax,111.0
+906,A Beautiful Mind,8.2,831736.0,PG-13,Biography,Ron Howard,Akiva Goldsman,Russell Crowe,USA,58000000.0,367151.0,170742341.0,316791257.0,Universal Pictures,135.0
+907,V for Vendetta,8.2,1013953.0,R,Action,James McTeigue,Lilly Wachowski,Hugo Weaving,USA,54000000.0,25642340.0,70511035.0,132511035.0,Warner Bros.,132.0
+908,Sin City,8.0,734265.0,R,Crime,,Frank Miller,Mickey Rourke,USA,40000000.0,28100000.0,74103820.0,158733820.0,Dimension Films,124.0
+909,Big Fish,8.0,409860.0,PG-13,Adventure,Tim Burton,Daniel Wallace,Ewan McGregor,USA,70000000.0,207377.0,66809693.0,123218424.0,Columbia Pictures,125.0
+910,Black Swan,8.0,688525.0,R,Drama,Darren Aronofsky,Mark Heyman,Natalie Portman,USA,13000000.0,1443809.0,106954678.0,329398046.0,Fox Searchlight Pictures,108.0
+911,The Incredibles,8.0,645405.0,PG,Animation,Brad Bird,Brad Bird,Craig T. Nelson,USA,92000000.0,70467623.0,261441092.0,631606713.0,Pixar Animation Studios,115.0
+912,Into the Wild,8.1,563004.0,R,Adventure,Sean Penn,Sean Penn,Emile Hirsch,USA,15000000.0,212440.0,18354356.0,56674477.0,Paramount Vantage,148.0
+913,Ratatouille,8.0,627713.0,G,Animation,"Brad Bird, Jan Pinkava (co-director)",Brad Bird,Brad Garrett,USA,150000000.0,47027395.0,206445654.0,623726085.0,Walt Disney Pictures,111.0
+914,The Pianist,8.5,712099.0,R,Biography,Roman Polanski,Ronald Harwood,Adrien Brody,UK,35000000.0,111261.0,32572577.0,120072577.0,R.P. Productions,150.0
+915,"Monsters, Inc.",8.0,798769.0,G,Animation,,Pete Docter,Billy Crystal,USA,115000000.0,62577067.0,289916256.0,578981070.0,Pixar Animation Studios,92.0
+916,Million Dollar Baby,8.1,625993.0,PG-13,Drama,Clint Eastwood,Paul Haggis,Hilary Swank,USA,30000000.0,179953.0,100492203.0,216763646.0,Warner Bros.,132.0
+917,Up,8.2,915998.0,PG,Animation,"Pete Docter, Bob Peterson (co-director)",Pete Docter,Edward Asner,USA,175000000.0,68108790.0,293004164.0,735099102.0,Pixar Animation Studios,96.0
+918,Finding Nemo,8.1,932021.0,G,Animation,"Andrew Stanton, Lee Unkrich (co-director)",Andrew Stanton,Albert Brooks,USA,94000000.0,70251710.0,380843261.0,940350194.0,Pixar Animation Studios,100.0
+919,Slumdog Millionaire,8.0,788493.0,R,Drama,"Danny Boyle, Loveleen Tandan (co-director)",Simon Beaufoy,Dev Patel,UK,15000000.0,360018.0,141319928.0,378410113.0,Celador Films,120.0
+920,WALL·E,8.4,979384.0,G,Animation,Andrew Stanton,Andrew Stanton,Ben Burtt,USA,180000000.0,63087526.0,223808164.0,521311860.0,FortyFour Studios,98.0
+921,The Pursuit of Happyness,8.0,439405.0,PG-13,Biography,Gabriele Muccino,Steve Conrad,Will Smith,USA,55000000.0,26541709.0,163566459.0,307127625.0,Columbia Pictures,117.0
+922,Gran Torino,8.1,709848.0,R,Drama,Clint Eastwood,Nick Schenk,Clint Eastwood,Germany,33000000.0,271720.0,148095302.0,269958228.0,Matten Productions,116.0
+923,Kill Bill: Vol. 2,8.0,671559.0,R,Action,Quentin Tarantino,Quentin Tarantino,Uma Thurman,USA,30000000.0,25600000.0,66208183.0,154116796.0,Miramax,137.0
+924,The King's Speech,8.0,630284.0,R,Biography,Tom Hooper,David Seidler,Colin Firth,UK,15000000.0,355450.0,138797449.0,427374317.0,See-Saw Films,118.0
+925,Blood Diamond,8.0,491451.0,R,Adventure,Edward Zwick,Charles Leavitt,Leonardo DiCaprio,USA,100000000.0,8648324.0,57377916.0,171720398.0,Warner Bros.,143.0
+926,The Bourne Ultimatum,8.0,598807.0,PG-13,Action,Paul Greengrass,Tony Gilroy,Matt Damon,USA,110000000.0,69283690.0,227471070.0,444100035.0,Universal Pictures,115.0
+927,Before Sunset,8.1,230370.0,R,Drama,Richard Linklater,Richard Linklater,Ethan Hawke,USA,2700000.0,219425.0,5820649.0,15936507.0,Warner Independent Pictures (WIP),80.0
+928,Dancer in the Dark,8.0,100469.0,R,Crime,Lars von Trier (as Lars Von Trier),Lars von Trier,Björk,Denmark,12800000.0,91612.0,4184036.0,40031879.0,Zentropa Entertainments,140.0
+929,Cinderella Man,8.0,173950.0,PG-13,Biography,Ron Howard,Cliff Hollingsworth,Russell Crowe,USA,88000000.0,18320205.0,61649911.0,108539911.0,Universal Pictures,144.0
