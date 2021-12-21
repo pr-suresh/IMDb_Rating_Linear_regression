@@ -12,16 +12,24 @@ Director, Production Company and the Target is IMDB rating.
 ## Tools used 
 
 Beautiful Soup for Web scraping
+
 Stats Ordinary Least Squares
+
 Linear regression
+
 Ridge regression
+
 Lasso Regularization
+
 Numpy
+
 Pandas
+
 Seaborn
+
 Matplotlib
 
 ## Conclusion
-Based on the movies analyzed, a movie production company can see the Votes, Runtime,
-Genre of Biography and Animation seem to have a positive impact on the IMDB rating
-whereas Horror movies seem to have a negative impact on the ratings.
+Based on the movies analyzed, the Votes, Runtime, Genre of Biography and Animation 
+seem to have a positive impact on the IMDB rating whereas Horror movies seem 
+to have a negative impact on the ratings.
